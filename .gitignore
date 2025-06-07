@@ -194,6 +194,6 @@ cython_debug/
 .cursorindexingignore
 
 # Data files
-.ods
-.pdf
-.csv
+*.ods
+*.pdf
+*.csv
