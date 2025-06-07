@@ -1,0 +1,1009 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+algar,indicador de desempenho no atendimento (ida),SMP,2018-01,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-01,89.0012001347991
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-01,0.0
+oi,indicador de desempenho no atendimento (ida),SMP,2018-01,87.5834680645323
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-01,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-01,66.5309385144443
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-01,93.0581134888162
+algar,índice de reclamações,SMP,2018-01,0.137464812826383
+claro,índice de reclamações,SMP,2018-01,0.419975997304018
+nextel,índice de reclamações,SMP,2018-01,2.05820662454114
+oi,índice de reclamações,SMP,2018-01,0.448330638709354
+sercomtel,índice de reclamações,SMP,2018-01,0.427130127402607
+tim,índice de reclamações,SMP,2018-01,0.869381229711115
+vivo,índice de reclamações,SMP,2018-01,0.338837730223676
+algar,quantidade de acessos em serviço,SMP,2018-01,1309426.0
+claro,quantidade de acessos em serviço,SMP,2018-01,59003372.0
+nextel,quantidade de acessos em serviço,SMP,2018-01,3030308.0
+oi,quantidade de acessos em serviço,SMP,2018-01,38935550.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-01,67895.0
+tim,quantidade de acessos em serviço,SMP,2018-01,58425462.0
+vivo,quantidade de acessos em serviço,SMP,2018-01,74873598.0
+algar,quantidade de reabertas,SMP,2018-01,12.0
+claro,quantidade de reabertas,SMP,2018-01,1895.0
+nextel,quantidade de reabertas,SMP,2018-01,556.0
+oi,quantidade de reabertas,SMP,2018-01,1165.0
+sercomtel,quantidade de reabertas,SMP,2018-01,20.0
+tim,quantidade de reabertas,SMP,2018-01,3845.0
+vivo,quantidade de reabertas,SMP,2018-01,1473.0
+algar,quantidade de reclamações,SMP,2018-01,180.0
+claro,quantidade de reclamações,SMP,2018-01,24780.0
+nextel,quantidade de reclamações,SMP,2018-01,6237.0
+oi,quantidade de reclamações,SMP,2018-01,17456.0
+sercomtel,quantidade de reclamações,SMP,2018-01,29.0
+tim,quantidade de reclamações,SMP,2018-01,50794.0
+vivo,quantidade de reclamações,SMP,2018-01,25370.0
+algar,quantidade de reclamações no período,SMP,2018-01,515.0
+claro,quantidade de reclamações no período,SMP,2018-01,74159.0
+nextel,quantidade de reclamações no período,SMP,2018-01,18949.0
+oi,quantidade de reclamações no período,SMP,2018-01,50595.0
+sercomtel,quantidade de reclamações no período,SMP,2018-01,99.0
+tim,quantidade de reclamações no período,SMP,2018-01,145846.0
+vivo,quantidade de reclamações no período,SMP,2018-01,81584.0
+algar,quantidade de respondidas,SMP,2018-01,180.0
+claro,quantidade de respondidas,SMP,2018-01,24557.0
+nextel,quantidade de respondidas,SMP,2018-01,5893.0
+oi,quantidade de respondidas,SMP,2018-01,16864.0
+sercomtel,quantidade de respondidas,SMP,2018-01,9.0
+tim,quantidade de respondidas,SMP,2018-01,50281.0
+vivo,quantidade de respondidas,SMP,2018-01,25352.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,157.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,21250.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,5420.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,15173.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,4.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,43216.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-01,22188.0
+algar,quantidade de sol. respondidas no período,SMP,2018-01,515.0
+claro,quantidade de sol. respondidas no período,SMP,2018-01,74090.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-01,18403.0
+oi,quantidade de sol. respondidas no período,SMP,2018-01,50456.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-01,12.0
+tim,quantidade de sol. respondidas no período,SMP,2018-01,145834.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-01,81430.0
+algar,taxa de reabertas,SMP,2018-01,6.66666666666667
+claro,taxa de reabertas,SMP,2018-01,7.7167406442155
+nextel,taxa de reabertas,SMP,2018-01,9.43492278975055
+oi,taxa de reabertas,SMP,2018-01,6.90820683111954
+sercomtel,taxa de reabertas,SMP,2018-01,222.222222222222
+tim,taxa de reabertas,SMP,2018-01,7.64702372665619
+vivo,taxa de reabertas,SMP,2018-01,5.8101924897444
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-01,87.2222222222222
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-01,85.7546408393866
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-01,86.9007535674202
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-01,86.9214023831347
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-01,13.7931034482759
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-01,85.0809150687089
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-01,87.4576271186441
+algar,taxa de respondidas no período,SMP,2018-01,100.0
+claro,taxa de respondidas no período,SMP,2018-01,99.907
+nextel,taxa de respondidas no período,SMP,2018-01,97.119
+oi,taxa de respondidas no período,SMP,2018-01,99.725
+sercomtel,taxa de respondidas no período,SMP,2018-01,12.121
+tim,taxa de respondidas no período,SMP,2018-01,99.992
+vivo,taxa de respondidas no período,SMP,2018-01,99.811
+algar,indicador de desempenho no atendimento (ida),SMP,2018-02,94.822
+claro,indicador de desempenho no atendimento (ida),SMP,2018-02,89.908
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-02,25.639
+oi,indicador de desempenho no atendimento (ida),SMP,2018-02,92.434
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-02,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-02,71.627
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-02,94.66
+algar,índice de reclamações,SMP,2018-02,0.129
+claro,índice de reclamações,SMP,2018-02,0.402
+nextel,índice de reclamações,SMP,2018-02,1.588
+oi,índice de reclamações,SMP,2018-02,0.351
+sercomtel,índice de reclamações,SMP,2018-02,0.563
+tim,índice de reclamações,SMP,2018-02,0.767
+vivo,índice de reclamações,SMP,2018-02,0.307
+algar,quantidade de acessos em serviço,SMP,2018-02,1307059.0
+claro,quantidade de acessos em serviço,SMP,2018-02,58726546.0
+nextel,quantidade de acessos em serviço,SMP,2018-02,3091916.0
+oi,quantidade de acessos em serviço,SMP,2018-02,38900114.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-02,67485.0
+tim,quantidade de acessos em serviço,SMP,2018-02,58006380.0
+vivo,quantidade de acessos em serviço,SMP,2018-02,74896701.0
+algar,quantidade de reabertas,SMP,2018-02,14.0
+claro,quantidade de reabertas,SMP,2018-02,1646.0
+nextel,quantidade de reabertas,SMP,2018-02,368.0
+oi,quantidade de reabertas,SMP,2018-02,928.0
+sercomtel,quantidade de reabertas,SMP,2018-02,28.0
+tim,quantidade de reabertas,SMP,2018-02,2891.0
+vivo,quantidade de reabertas,SMP,2018-02,1248.0
+algar,quantidade de reclamações,SMP,2018-02,169.0
+claro,quantidade de reclamações,SMP,2018-02,23599.0
+nextel,quantidade de reclamações,SMP,2018-02,4909.0
+oi,quantidade de reclamações,SMP,2018-02,13666.0
+sercomtel,quantidade de reclamações,SMP,2018-02,38.0
+tim,quantidade de reclamações,SMP,2018-02,44517.0
+vivo,quantidade de reclamações,SMP,2018-02,22979.0
+algar,quantidade de reclamações no período,SMP,2018-02,522.0
+claro,quantidade de reclamações no período,SMP,2018-02,72269.0
+nextel,quantidade de reclamações no período,SMP,2018-02,17483.0
+oi,quantidade de reclamações no período,SMP,2018-02,49421.0
+sercomtel,quantidade de reclamações no período,SMP,2018-02,99.0
+tim,quantidade de reclamações no período,SMP,2018-02,147930.0
+vivo,quantidade de reclamações no período,SMP,2018-02,77802.0
+algar,quantidade de respondidas,SMP,2018-02,169.0
+claro,quantidade de respondidas,SMP,2018-02,23397.0
+nextel,quantidade de respondidas,SMP,2018-02,4824.0
+oi,quantidade de respondidas,SMP,2018-02,12932.0
+sercomtel,quantidade de respondidas,SMP,2018-02,6.0
+tim,quantidade de respondidas,SMP,2018-02,44064.0
+vivo,quantidade de respondidas,SMP,2018-02,22965.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,157.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,20269.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,4187.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,11870.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,3.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,38176.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-02,20161.0
+algar,quantidade de sol. respondidas no período,SMP,2018-02,522.0
+claro,quantidade de sol. respondidas no período,SMP,2018-02,72229.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-02,17048.0
+oi,quantidade de sol. respondidas no período,SMP,2018-02,49292.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-02,15.0
+tim,quantidade de sol. respondidas no período,SMP,2018-02,147786.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-02,77733.0
+algar,taxa de reabertas,SMP,2018-02,8.284
+claro,taxa de reabertas,SMP,2018-02,7.035
+nextel,taxa de reabertas,SMP,2018-02,7.629
+oi,taxa de reabertas,SMP,2018-02,7.176
+sercomtel,taxa de reabertas,SMP,2018-02,466.667
+tim,taxa de reabertas,SMP,2018-02,6.561
+vivo,taxa de reabertas,SMP,2018-02,5.434
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-02,92.899
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-02,85.889
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-02,85.292
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-02,86.858
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-02,7.895
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-02,85.756
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-02,87.737
+algar,taxa de respondidas no período,SMP,2018-02,100.0
+claro,taxa de respondidas no período,SMP,2018-02,99.945
+nextel,taxa de respondidas no período,SMP,2018-02,97.512
+oi,taxa de respondidas no período,SMP,2018-02,99.739
+sercomtel,taxa de respondidas no período,SMP,2018-02,15.152
+tim,taxa de respondidas no período,SMP,2018-02,99.903
+vivo,taxa de respondidas no período,SMP,2018-02,99.911
+algar,indicador de desempenho no atendimento (ida),SMP,2018-03,94.611
+claro,indicador de desempenho no atendimento (ida),SMP,2018-03,87.711
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-03,21.888
+oi,indicador de desempenho no atendimento (ida),SMP,2018-03,89.871
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-03,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-03,69.029
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-03,90.005
+algar,índice de reclamações,SMP,2018-03,0.128
+claro,índice de reclamações,SMP,2018-03,0.446
+nextel,índice de reclamações,SMP,2018-03,1.707
+oi,índice de reclamações,SMP,2018-03,0.403
+sercomtel,índice de reclamações,SMP,2018-03,0.672
+tim,índice de reclamações,SMP,2018-03,0.819
+vivo,índice de reclamações,SMP,2018-03,0.4
+algar,quantidade de acessos em serviço,SMP,2018-03,1304383.0
+claro,quantidade de acessos em serviço,SMP,2018-03,58808972.0
+nextel,quantidade de acessos em serviço,SMP,2018-03,3115020.0
+oi,quantidade de acessos em serviço,SMP,2018-03,38782463.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-03,66916.0
+tim,quantidade de acessos em serviço,SMP,2018-03,57894072.0
+vivo,quantidade de acessos em serviço,SMP,2018-03,75098239.0
+algar,quantidade de reabertas,SMP,2018-03,13.0
+claro,quantidade de reabertas,SMP,2018-03,1998.0
+nextel,quantidade de reabertas,SMP,2018-03,352.0
+oi,quantidade de reabertas,SMP,2018-03,1121.0
+sercomtel,quantidade de reabertas,SMP,2018-03,26.0
+tim,quantidade de reabertas,SMP,2018-03,2977.0
+vivo,quantidade de reabertas,SMP,2018-03,1823.0
+algar,quantidade de reclamações,SMP,2018-03,167.0
+claro,quantidade de reclamações,SMP,2018-03,26216.0
+nextel,quantidade de reclamações,SMP,2018-03,5316.0
+oi,quantidade de reclamações,SMP,2018-03,15613.0
+sercomtel,quantidade de reclamações,SMP,2018-03,45.0
+tim,quantidade de reclamações,SMP,2018-03,47440.0
+vivo,quantidade de reclamações,SMP,2018-03,30032.0
+algar,quantidade de reclamações no período,SMP,2018-03,512.0
+claro,quantidade de reclamações no período,SMP,2018-03,70609.0
+nextel,quantidade de reclamações no período,SMP,2018-03,16239.0
+oi,quantidade de reclamações no período,SMP,2018-03,46178.0
+sercomtel,quantidade de reclamações no período,SMP,2018-03,86.0
+tim,quantidade de reclamações no período,SMP,2018-03,141354.0
+vivo,quantidade de reclamações no período,SMP,2018-03,73219.0
+algar,quantidade de respondidas,SMP,2018-03,167.0
+claro,quantidade de respondidas,SMP,2018-03,25984.0
+nextel,quantidade de respondidas,SMP,2018-03,5282.0
+oi,quantidade de respondidas,SMP,2018-03,14677.0
+sercomtel,quantidade de respondidas,SMP,2018-03,8.0
+tim,quantidade de respondidas,SMP,2018-03,46959.0
+vivo,quantidade de respondidas,SMP,2018-03,30014.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,140.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,22427.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,4583.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,13463.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,5.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,40787.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-03,26297.0
+algar,quantidade de sol. respondidas no período,SMP,2018-03,512.0
+claro,quantidade de sol. respondidas no período,SMP,2018-03,70580.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-03,16013.0
+oi,quantidade de sol. respondidas no período,SMP,2018-03,46037.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-03,21.0
+tim,quantidade de sol. respondidas no período,SMP,2018-03,141061.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-03,73173.0
+algar,taxa de reabertas,SMP,2018-03,7.784
+claro,taxa de reabertas,SMP,2018-03,7.689
+nextel,taxa de reabertas,SMP,2018-03,6.664
+oi,taxa de reabertas,SMP,2018-03,7.638
+sercomtel,taxa de reabertas,SMP,2018-03,325.0
+tim,taxa de reabertas,SMP,2018-03,6.34
+vivo,taxa de reabertas,SMP,2018-03,6.074
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-03,83.832
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-03,85.547
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-03,86.211
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-03,86.229
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-03,11.111
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-03,85.976
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-03,87.563
+algar,taxa de respondidas no período,SMP,2018-03,100.0
+claro,taxa de respondidas no período,SMP,2018-03,99.959
+nextel,taxa de respondidas no período,SMP,2018-03,98.608
+oi,taxa de respondidas no período,SMP,2018-03,99.695
+sercomtel,taxa de respondidas no período,SMP,2018-03,24.419
+tim,taxa de respondidas no período,SMP,2018-03,99.793
+vivo,taxa de respondidas no período,SMP,2018-03,99.937
+algar,indicador de desempenho no atendimento (ida),SMP,2018-04,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-04,88.555
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-04,28.685
+oi,indicador de desempenho no atendimento (ida),SMP,2018-04,88.915
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-04,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-04,66.434
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-04,93.482
+algar,índice de reclamações,SMP,2018-04,0.142
+claro,índice de reclamações,SMP,2018-04,0.429
+nextel,índice de reclamações,SMP,2018-04,1.626
+oi,índice de reclamações,SMP,2018-04,0.422
+sercomtel,índice de reclamações,SMP,2018-04,1.081
+tim,índice de reclamações,SMP,2018-04,0.871
+vivo,índice de reclamações,SMP,2018-04,0.33
+algar,quantidade de acessos em serviço,SMP,2018-04,1313642.0
+claro,quantidade de acessos em serviço,SMP,2018-04,58991787.0
+nextel,quantidade de acessos em serviço,SMP,2018-04,3103968.0
+oi,quantidade de acessos em serviço,SMP,2018-04,38825485.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-04,66587.0
+tim,quantidade de acessos em serviço,SMP,2018-04,57543505.0
+vivo,quantidade de acessos em serviço,SMP,2018-04,75076503.0
+algar,quantidade de reabertas,SMP,2018-04,10.0
+claro,quantidade de reabertas,SMP,2018-04,1819.0
+nextel,quantidade de reabertas,SMP,2018-04,351.0
+oi,quantidade de reabertas,SMP,2018-04,1116.0
+sercomtel,quantidade de reabertas,SMP,2018-04,51.0
+tim,quantidade de reabertas,SMP,2018-04,2951.0
+vivo,quantidade de reabertas,SMP,2018-04,1542.0
+algar,quantidade de reclamações,SMP,2018-04,187.0
+claro,quantidade de reclamações,SMP,2018-04,25301.0
+nextel,quantidade de reclamações,SMP,2018-04,5048.0
+oi,quantidade de reclamações,SMP,2018-04,16373.0
+sercomtel,quantidade de reclamações,SMP,2018-04,72.0
+tim,quantidade de reclamações,SMP,2018-04,50139.0
+vivo,quantidade de reclamações,SMP,2018-04,24802.0
+algar,quantidade de reclamações no período,SMP,2018-04,516.0
+claro,quantidade de reclamações no período,SMP,2018-04,74588.0
+nextel,quantidade de reclamações no período,SMP,2018-04,16460.0
+oi,quantidade de reclamações no período,SMP,2018-04,46735.0
+sercomtel,quantidade de reclamações no período,SMP,2018-04,112.0
+tim,quantidade de reclamações no período,SMP,2018-04,142759.0
+vivo,quantidade de reclamações no período,SMP,2018-04,78380.0
+algar,quantidade de respondidas,SMP,2018-04,187.0
+claro,quantidade de respondidas,SMP,2018-04,25100.0
+nextel,quantidade de respondidas,SMP,2018-04,5034.0
+oi,quantidade de respondidas,SMP,2018-04,15374.0
+sercomtel,quantidade de respondidas,SMP,2018-04,16.0
+tim,quantidade de respondidas,SMP,2018-04,49611.0
+vivo,quantidade de respondidas,SMP,2018-04,24785.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,162.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,21622.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,4300.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,14153.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,7.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,43097.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-04,21533.0
+algar,quantidade de sol. respondidas no período,SMP,2018-04,516.0
+claro,quantidade de sol. respondidas no período,SMP,2018-04,74318.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-04,16432.0
+oi,quantidade de sol. respondidas no período,SMP,2018-04,46632.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-04,25.0
+tim,quantidade de sol. respondidas no período,SMP,2018-04,142479.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-04,78338.0
+algar,taxa de reabertas,SMP,2018-04,5.348
+claro,taxa de reabertas,SMP,2018-04,7.247
+nextel,taxa de reabertas,SMP,2018-04,6.973
+oi,taxa de reabertas,SMP,2018-04,7.259
+sercomtel,taxa de reabertas,SMP,2018-04,318.75
+tim,taxa de reabertas,SMP,2018-04,5.948
+vivo,taxa de reabertas,SMP,2018-04,6.222
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-04,86.631
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-04,85.459
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-04,85.182
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-04,86.441
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-04,9.722
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-04,85.955
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-04,86.82
+algar,taxa de respondidas no período,SMP,2018-04,100.0
+claro,taxa de respondidas no período,SMP,2018-04,99.638
+nextel,taxa de respondidas no período,SMP,2018-04,99.83
+oi,taxa de respondidas no período,SMP,2018-04,99.78
+sercomtel,taxa de respondidas no período,SMP,2018-04,22.321
+tim,taxa de respondidas no período,SMP,2018-04,99.804
+vivo,taxa de respondidas no período,SMP,2018-04,99.946
+algar,indicador de desempenho no atendimento (ida),SMP,2018-05,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-05,88.5027194470525
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-05,26.956135151335
+oi,indicador de desempenho no atendimento (ida),SMP,2018-05,88.6601057759903
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-05,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-05,69.6859300787686
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-05,94.6878792620905
+algar,índice de reclamações,SMP,2018-05,0.150065396519245
+claro,índice de reclamações,SMP,2018-05,0.429945611058951
+nextel,índice de reclamações,SMP,2018-05,1.55982553372315
+oi,índice de reclamações,SMP,2018-05,0.426797884480194
+sercomtel,índice de reclamações,SMP,2018-05,0.724987916868052
+tim,índice de reclamações,SMP,2018-05,0.806281398424628
+vivo,índice de reclamações,SMP,2018-05,0.30624241475819
+algar,quantidade de acessos em serviço,SMP,2018-05,1312761.0
+claro,quantidade de acessos em serviço,SMP,2018-05,59056307.0
+nextel,quantidade de acessos em serviço,SMP,2018-05,3108681.0
+oi,quantidade de acessos em serviço,SMP,2018-05,38863829.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-05,66208.0
+tim,quantidade de acessos em serviço,SMP,2018-05,57105373.0
+vivo,quantidade de acessos em serviço,SMP,2018-05,75103901.0
+algar,quantidade de reabertas,SMP,2018-05,6.0
+claro,quantidade de reabertas,SMP,2018-05,1764.0
+nextel,quantidade de reabertas,SMP,2018-05,317.0
+oi,quantidade de reabertas,SMP,2018-05,1209.0
+sercomtel,quantidade de reabertas,SMP,2018-05,31.0
+tim,quantidade de reabertas,SMP,2018-05,2837.0
+vivo,quantidade de reabertas,SMP,2018-05,1472.0
+algar,quantidade de reclamações,SMP,2018-05,197.0
+claro,quantidade de reclamações,SMP,2018-05,25391.0
+nextel,quantidade de reclamações,SMP,2018-05,4849.0
+oi,quantidade de reclamações,SMP,2018-05,16587.0
+sercomtel,quantidade de reclamações,SMP,2018-05,48.0
+tim,quantidade de reclamações,SMP,2018-05,46043.0
+vivo,quantidade de reclamações,SMP,2018-05,23000.0
+algar,quantidade de reclamações no período,SMP,2018-05,523.0
+claro,quantidade de reclamações no período,SMP,2018-05,75125.0
+nextel,quantidade de reclamações no período,SMP,2018-05,15275.0
+oi,quantidade de reclamações no período,SMP,2018-05,45676.0
+sercomtel,quantidade de reclamações no período,SMP,2018-05,154.0
+tim,quantidade de reclamações no período,SMP,2018-05,142145.0
+vivo,quantidade de reclamações no período,SMP,2018-05,77829.0
+algar,quantidade de respondidas,SMP,2018-05,197.0
+claro,quantidade de respondidas,SMP,2018-05,24963.0
+nextel,quantidade de respondidas,SMP,2018-05,4830.0
+oi,quantidade de respondidas,SMP,2018-05,16208.0
+sercomtel,quantidade de respondidas,SMP,2018-05,18.0
+tim,quantidade de respondidas,SMP,2018-05,45626.0
+vivo,quantidade de respondidas,SMP,2018-05,22982.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,189.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,21757.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,4114.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,14346.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,13.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,39426.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-05,20123.0
+algar,quantidade de sol. respondidas no período,SMP,2018-05,523.0
+claro,quantidade de sol. respondidas no período,SMP,2018-05,74669.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-05,15247.0
+oi,quantidade de sol. respondidas no período,SMP,2018-05,45540.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-05,25.0
+tim,quantidade de sol. respondidas no período,SMP,2018-05,141821.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-05,77654.0
+algar,taxa de reabertas,SMP,2018-05,3.04568527918782
+claro,taxa de reabertas,SMP,2018-05,7.06645835837039
+nextel,taxa de reabertas,SMP,2018-05,6.56314699792961
+oi,taxa de reabertas,SMP,2018-05,7.45927936821323
+sercomtel,taxa de reabertas,SMP,2018-05,172.222222222222
+tim,taxa de reabertas,SMP,2018-05,6.21794590803489
+vivo,taxa de reabertas,SMP,2018-05,6.40501261857106
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-05,95.9390862944163
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-05,85.6878421487929
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-05,84.8422355124768
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-05,86.4894194248508
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-05,27.0833333333333
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-05,85.6286514779663
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-05,87.4913043478261
+algar,taxa de respondidas no período,SMP,2018-05,100.0
+claro,taxa de respondidas no período,SMP,2018-05,99.393
+nextel,taxa de respondidas no período,SMP,2018-05,99.817
+oi,taxa de respondidas no período,SMP,2018-05,99.702
+sercomtel,taxa de respondidas no período,SMP,2018-05,16.234
+tim,taxa de respondidas no período,SMP,2018-05,99.772
+vivo,taxa de respondidas no período,SMP,2018-05,99.775
+algar,indicador de desempenho no atendimento (ida),SMP,2018-06,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-06,91.02
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-06,44.36
+oi,indicador de desempenho no atendimento (ida),SMP,2018-06,91.545
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-06,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-06,73.645
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-06,96.307
+algar,índice de reclamações,SMP,2018-06,0.152
+claro,índice de reclamações,SMP,2018-06,0.38
+nextel,índice de reclamações,SMP,2018-06,1.313
+oi,índice de reclamações,SMP,2018-06,0.369
+sercomtel,índice de reclamações,SMP,2018-06,0.806
+tim,índice de reclamações,SMP,2018-06,0.727
+vivo,índice de reclamações,SMP,2018-06,0.274
+algar,quantidade de acessos em serviço,SMP,2018-06,1301389.0
+claro,quantidade de acessos em serviço,SMP,2018-06,59003942.0
+nextel,quantidade de acessos em serviço,SMP,2018-06,3140610.0
+oi,quantidade de acessos em serviço,SMP,2018-06,38861235.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-06,65765.0
+tim,quantidade de acessos em serviço,SMP,2018-06,56553780.0
+vivo,quantidade de acessos em serviço,SMP,2018-06,75262496.0
+algar,quantidade de reabertas,SMP,2018-06,14.0
+claro,quantidade de reabertas,SMP,2018-06,1395.0
+nextel,quantidade de reabertas,SMP,2018-06,255.0
+oi,quantidade de reabertas,SMP,2018-06,874.0
+sercomtel,quantidade de reabertas,SMP,2018-06,47.0
+tim,quantidade de reabertas,SMP,2018-06,2501.0
+vivo,quantidade de reabertas,SMP,2018-06,1236.0
+algar,quantidade de reclamações,SMP,2018-06,198.0
+claro,quantidade de reclamações,SMP,2018-06,22398.0
+nextel,quantidade de reclamações,SMP,2018-06,4123.0
+oi,quantidade de reclamações,SMP,2018-06,14344.0
+sercomtel,quantidade de reclamações,SMP,2018-06,53.0
+tim,quantidade de reclamações,SMP,2018-06,41120.0
+vivo,quantidade de reclamações,SMP,2018-06,20612.0
+algar,quantidade de reclamações no período,SMP,2018-06,551.0
+claro,quantidade de reclamações no período,SMP,2018-06,76919.0
+nextel,quantidade de reclamações no período,SMP,2018-06,15215.0
+oi,quantidade de reclamações no período,SMP,2018-06,48594.0
+sercomtel,quantidade de reclamações no período,SMP,2018-06,164.0
+tim,quantidade de reclamações no período,SMP,2018-06,143663.0
+vivo,quantidade de reclamações no período,SMP,2018-06,77852.0
+algar,quantidade de respondidas,SMP,2018-06,198.0
+claro,quantidade de respondidas,SMP,2018-06,21691.0
+nextel,quantidade de respondidas,SMP,2018-06,4105.0
+oi,quantidade de respondidas,SMP,2018-06,13768.0
+sercomtel,quantidade de respondidas,SMP,2018-06,3.0
+tim,quantidade de respondidas,SMP,2018-06,40576.0
+vivo,quantidade de respondidas,SMP,2018-06,20591.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,178.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,19442.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,3552.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,12532.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,3.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,35430.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-06,18100.0
+algar,quantidade de sol. respondidas no período,SMP,2018-06,551.0
+claro,quantidade de sol. respondidas no período,SMP,2018-06,76483.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-06,15195.0
+oi,quantidade de sol. respondidas no período,SMP,2018-06,48509.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-06,24.0
+tim,quantidade de sol. respondidas no período,SMP,2018-06,143306.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-06,77618.0
+algar,taxa de reabertas,SMP,2018-06,7.071
+claro,taxa de reabertas,SMP,2018-06,6.431
+nextel,taxa de reabertas,SMP,2018-06,6.212
+oi,taxa de reabertas,SMP,2018-06,6.348
+sercomtel,taxa de reabertas,SMP,2018-06,1566.667
+tim,taxa de reabertas,SMP,2018-06,6.164
+vivo,taxa de reabertas,SMP,2018-06,6.003
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-06,89.899
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-06,86.802
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-06,86.151
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-06,87.368
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-06,5.66
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-06,86.162
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-06,87.813
+algar,taxa de respondidas no período,SMP,2018-06,100.0
+claro,taxa de respondidas no período,SMP,2018-06,99.433
+nextel,taxa de respondidas no período,SMP,2018-06,99.869
+oi,taxa de respondidas no período,SMP,2018-06,99.825
+sercomtel,taxa de respondidas no período,SMP,2018-06,14.634
+tim,taxa de respondidas no período,SMP,2018-06,99.752
+vivo,taxa de respondidas no período,SMP,2018-06,99.699
+algar,indicador de desempenho no atendimento (ida),SMP,2018-07,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-07,88.071
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-07,40.743
+oi,indicador de desempenho no atendimento (ida),SMP,2018-07,89.215
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-07,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-07,68.664
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-07,95.506
+algar,índice de reclamações,SMP,2018-07,0.149
+claro,índice de reclamações,SMP,2018-07,0.439
+nextel,índice de reclamações,SMP,2018-07,1.385
+oi,índice de reclamações,SMP,2018-07,0.416
+sercomtel,índice de reclamações,SMP,2018-07,0.061
+tim,índice de reclamações,SMP,2018-07,0.827
+vivo,índice de reclamações,SMP,2018-07,0.29
+algar,quantidade de acessos em serviço,SMP,2018-07,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-07,58798564.0
+nextel,quantidade de acessos em serviço,SMP,2018-07,3140473.0
+oi,quantidade de acessos em serviço,SMP,2018-07,38835989.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-07,65251.0
+tim,quantidade de acessos em serviço,SMP,2018-07,56236296.0
+vivo,quantidade de acessos em serviço,SMP,2018-07,75396764.0
+algar,quantidade de reabertas,SMP,2018-07,15.0
+claro,quantidade de reabertas,SMP,2018-07,1584.0
+nextel,quantidade de reabertas,SMP,2018-07,314.0
+oi,quantidade de reabertas,SMP,2018-07,1004.0
+sercomtel,quantidade de reabertas,SMP,2018-07,3.0
+tim,quantidade de reabertas,SMP,2018-07,2742.0
+vivo,quantidade de reabertas,SMP,2018-07,1344.0
+algar,quantidade de reclamações,SMP,2018-07,192.0
+claro,quantidade de reclamações,SMP,2018-07,25788.0
+nextel,quantidade de reclamações,SMP,2018-07,4350.0
+oi,quantidade de reclamações,SMP,2018-07,16144.0
+sercomtel,quantidade de reclamações,SMP,2018-07,4.0
+tim,quantidade de reclamações,SMP,2018-07,46492.0
+vivo,quantidade de reclamações,SMP,2018-07,21856.0
+algar,quantidade de reclamações no período,SMP,2018-07,582.0
+claro,quantidade de reclamações no período,SMP,2018-07,73088.0
+nextel,quantidade de reclamações no período,SMP,2018-07,14020.0
+oi,quantidade de reclamações no período,SMP,2018-07,47329.0
+sercomtel,quantidade de reclamações no período,SMP,2018-07,172.0
+tim,quantidade de reclamações no período,SMP,2018-07,137342.0
+vivo,quantidade de reclamações no período,SMP,2018-07,68424.0
+algar,quantidade de respondidas,SMP,2018-07,192.0
+claro,quantidade de respondidas,SMP,2018-07,24258.0
+nextel,quantidade de respondidas,SMP,2018-07,4243.0
+oi,quantidade de respondidas,SMP,2018-07,15336.0
+sercomtel,quantidade de respondidas,SMP,2018-07,1.0
+tim,quantidade de respondidas,SMP,2018-07,46025.0
+vivo,quantidade de respondidas,SMP,2018-07,21835.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,173.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,22497.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,3793.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,14023.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,1.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,39753.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-07,19225.0
+algar,quantidade de sol. respondidas no período,SMP,2018-07,582.0
+claro,quantidade de sol. respondidas no período,SMP,2018-07,72653.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-07,13966.0
+oi,quantidade de sol. respondidas no período,SMP,2018-07,47207.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-07,18.0
+tim,quantidade de sol. respondidas no período,SMP,2018-07,136984.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-07,68318.0
+algar,taxa de reabertas,SMP,2018-07,7.813
+claro,taxa de reabertas,SMP,2018-07,6.53
+nextel,taxa de reabertas,SMP,2018-07,7.4
+oi,taxa de reabertas,SMP,2018-07,6.547
+sercomtel,taxa de reabertas,SMP,2018-07,300.0
+tim,taxa de reabertas,SMP,2018-07,5.958
+vivo,taxa de reabertas,SMP,2018-07,6.155
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-07,90.104
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-07,87.238
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-07,87.195
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-07,86.862
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-07,25.0
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-07,85.505
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-07,87.962
+algar,taxa de respondidas no período,SMP,2018-07,100.0
+claro,taxa de respondidas no período,SMP,2018-07,99.405
+nextel,taxa de respondidas no período,SMP,2018-07,99.615
+oi,taxa de respondidas no período,SMP,2018-07,99.742
+sercomtel,taxa de respondidas no período,SMP,2018-07,10.465
+tim,taxa de respondidas no período,SMP,2018-07,99.739
+vivo,taxa de respondidas no período,SMP,2018-07,99.845
+algar,indicador de desempenho no atendimento (ida),SMP,2018-08,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-08,87.976
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-08,36.918
+oi,indicador de desempenho no atendimento (ida),SMP,2018-08,88.122
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-08,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-08,67.477
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-08,95.008
+algar,índice de reclamações,SMP,2018-08,0.154
+claro,índice de reclamações,SMP,2018-08,0.44
+nextel,índice de reclamações,SMP,2018-08,1.462
+oi,índice de reclamações,SMP,2018-08,0.438
+sercomtel,índice de reclamações,SMP,2018-08,0.046
+tim,índice de reclamações,SMP,2018-08,0.85
+vivo,índice de reclamações,SMP,2018-08,0.3
+algar,quantidade de acessos em serviço,SMP,2018-08,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-08,58796074.0
+nextel,quantidade de acessos em serviço,SMP,2018-08,3156729.0
+oi,quantidade de acessos em serviço,SMP,2018-08,38844216.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-08,64535.0
+tim,quantidade de acessos em serviço,SMP,2018-08,56170926.0
+vivo,quantidade de acessos em serviço,SMP,2018-08,74957177.0
+algar,quantidade de reabertas,SMP,2018-08,12.0
+claro,quantidade de reabertas,SMP,2018-08,1521.0
+nextel,quantidade de reabertas,SMP,2018-08,303.0
+oi,quantidade de reabertas,SMP,2018-08,1145.0
+sercomtel,quantidade de reabertas,SMP,2018-08,1.0
+tim,quantidade de reabertas,SMP,2018-08,2883.0
+vivo,quantidade de reabertas,SMP,2018-08,1384.0
+algar,quantidade de reclamações,SMP,2018-08,199.0
+claro,quantidade de reclamações,SMP,2018-08,25898.0
+nextel,quantidade de reclamações,SMP,2018-08,4614.0
+oi,quantidade de reclamações,SMP,2018-08,16997.0
+sercomtel,quantidade de reclamações,SMP,2018-08,3.0
+tim,quantidade de reclamações,SMP,2018-08,47771.0
+vivo,quantidade de reclamações,SMP,2018-08,22475.0
+algar,quantidade de reclamações no período,SMP,2018-08,587.0
+claro,quantidade de reclamações no período,SMP,2018-08,73566.0
+nextel,quantidade de reclamações no período,SMP,2018-08,13321.0
+oi,quantidade de reclamações no período,SMP,2018-08,47078.0
+sercomtel,quantidade de reclamações no período,SMP,2018-08,105.0
+tim,quantidade de reclamações no período,SMP,2018-08,133664.0
+vivo,quantidade de reclamações no período,SMP,2018-08,65476.0
+algar,quantidade de respondidas,SMP,2018-08,199.0
+claro,quantidade de respondidas,SMP,2018-08,24017.0
+nextel,quantidade de respondidas,SMP,2018-08,4502.0
+oi,quantidade de respondidas,SMP,2018-08,16648.0
+sercomtel,quantidade de respondidas,SMP,2018-08,2.0
+tim,quantidade de respondidas,SMP,2018-08,47304.0
+vivo,quantidade de respondidas,SMP,2018-08,22461.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,180.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,22364.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,3949.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,14657.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,2.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,40781.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-08,19378.0
+algar,quantidade de sol. respondidas no período,SMP,2018-08,587.0
+claro,quantidade de sol. respondidas no período,SMP,2018-08,73287.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-08,13288.0
+oi,quantidade de sol. respondidas no período,SMP,2018-08,46942.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-08,10.0
+tim,quantidade de sol. respondidas no período,SMP,2018-08,133283.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-08,65413.0
+algar,taxa de reabertas,SMP,2018-08,6.03
+claro,taxa de reabertas,SMP,2018-08,6.333
+nextel,taxa de reabertas,SMP,2018-08,6.73
+oi,taxa de reabertas,SMP,2018-08,6.878
+sercomtel,taxa de reabertas,SMP,2018-08,50.0
+tim,taxa de reabertas,SMP,2018-08,6.095
+vivo,taxa de reabertas,SMP,2018-08,6.162
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-08,90.452
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-08,86.354
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-08,85.587
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-08,86.233
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-08,66.667
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-08,85.368
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-08,86.22
+algar,taxa de respondidas no período,SMP,2018-08,100.0
+claro,taxa de respondidas no período,SMP,2018-08,99.621
+nextel,taxa de respondidas no período,SMP,2018-08,99.752
+oi,taxa de respondidas no período,SMP,2018-08,99.711
+sercomtel,taxa de respondidas no período,SMP,2018-08,9.524
+tim,taxa de respondidas no período,SMP,2018-08,99.715
+vivo,taxa de respondidas no período,SMP,2018-08,99.904
+algar,indicador de desempenho no atendimento (ida),SMP,2018-09,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-09,92.0519945626415
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-09,47.8479275839657
+oi,indicador de desempenho no atendimento (ida),SMP,2018-09,90.6225629447988
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-09,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-09,73.9927561625755
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-09,90.750954419306
+algar,índice de reclamações,SMP,2018-09,0.102337322421487
+claro,índice de reclamações,SMP,2018-09,0.35896010874717
+nextel,índice de reclamações,SMP,2018-09,1.24304144832069
+oi,índice de reclamações,SMP,2018-09,0.387548741104024
+sercomtel,índice de reclamações,SMP,2018-09,1.46449381485059
+tim,índice de reclamações,SMP,2018-09,0.72014487674849
+vivo,índice de reclamações,SMP,2018-09,0.262923340501633
+algar,quantidade de acessos em serviço,SMP,2018-09,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-09,58953626.0
+nextel,quantidade de acessos em serviço,SMP,2018-09,3184930.0
+oi,quantidade de acessos em serviço,SMP,2018-09,38906074.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-09,64186.0
+tim,quantidade de acessos em serviço,SMP,2018-09,56241461.0
+vivo,quantidade de acessos em serviço,SMP,2018-09,74432342.0
+algar,quantidade de reabertas,SMP,2018-09,10.0
+claro,quantidade de reabertas,SMP,2018-09,1215.0
+nextel,quantidade de reabertas,SMP,2018-09,214.0
+oi,quantidade de reabertas,SMP,2018-09,1056.0
+sercomtel,quantidade de reabertas,SMP,2018-09,20.0
+tim,quantidade de reabertas,SMP,2018-09,2533.0
+vivo,quantidade de reabertas,SMP,2018-09,1087.0
+algar,quantidade de reclamações,SMP,2018-09,132.0
+claro,quantidade de reclamações,SMP,2018-09,21162.0
+nextel,quantidade de reclamações,SMP,2018-09,3959.0
+oi,quantidade de reclamações,SMP,2018-09,15078.0
+sercomtel,quantidade de reclamações,SMP,2018-09,94.0
+tim,quantidade de reclamações,SMP,2018-09,40502.0
+vivo,quantidade de reclamações,SMP,2018-09,19570.0
+algar,quantidade de reclamações no período,SMP,2018-09,589.0
+claro,quantidade de reclamações no período,SMP,2018-09,74069.0
+nextel,quantidade de reclamações no período,SMP,2018-09,13086.0
+oi,quantidade de reclamações no período,SMP,2018-09,47489.0
+sercomtel,quantidade de reclamações no período,SMP,2018-09,60.0
+tim,quantidade de reclamações no período,SMP,2018-09,135398.0
+vivo,quantidade de reclamações no período,SMP,2018-09,64957.0
+algar,quantidade de respondidas,SMP,2018-09,132.0
+claro,quantidade de respondidas,SMP,2018-09,19479.0
+nextel,quantidade de respondidas,SMP,2018-09,3868.0
+oi,quantidade de respondidas,SMP,2018-09,14419.0
+sercomtel,quantidade de respondidas,SMP,2018-09,3.0
+tim,quantidade de respondidas,SMP,2018-09,39999.0
+vivo,quantidade de respondidas,SMP,2018-09,19543.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,113.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,18206.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,3446.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,13028.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,2.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,34606.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-09,15987.0
+algar,quantidade de sol. respondidas no período,SMP,2018-09,589.0
+claro,quantidade de sol. respondidas no período,SMP,2018-09,73790.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-09,13030.0
+oi,quantidade de sol. respondidas no período,SMP,2018-09,47423.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-09,6.0
+tim,quantidade de sol. respondidas no período,SMP,2018-09,135002.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-09,64871.0
+algar,taxa de reabertas,SMP,2018-09,7.57575757575758
+claro,taxa de reabertas,SMP,2018-09,6.23748652394887
+nextel,taxa de reabertas,SMP,2018-09,5.53257497414685
+oi,taxa de reabertas,SMP,2018-09,7.32367015743117
+sercomtel,taxa de reabertas,SMP,2018-09,666.666666666667
+tim,taxa de reabertas,SMP,2018-09,6.33265831645791
+vivo,taxa de reabertas,SMP,2018-09,5.56209384434324
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-09,85.6060606060606
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-09,86.0315660145544
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-09,87.0421823692852
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-09,86.4040323650351
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-09,2.12765957446808
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-09,85.4426941879413
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-09,81.691364333163
+algar,taxa de respondidas no período,SMP,2018-09,100.0
+claro,taxa de respondidas no período,SMP,2018-09,99.623
+nextel,taxa de respondidas no período,SMP,2018-09,99.572
+oi,taxa de respondidas no período,SMP,2018-09,99.861
+sercomtel,taxa de respondidas no período,SMP,2018-09,10.0
+tim,taxa de respondidas no período,SMP,2018-09,99.708
+vivo,taxa de respondidas no período,SMP,2018-09,99.868
+algar,indicador de desempenho no atendimento (ida),SMP,2018-10,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-10,90.1577102255557
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-10,38.9688731917915
+oi,indicador de desempenho no atendimento (ida),SMP,2018-10,76.422383289182
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-10,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-10,65.0565614503834
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-10,94.3113592853732
+algar,índice de reclamações,SMP,2018-10,0.103112605167104
+claro,índice de reclamações,SMP,2018-10,0.396845795488886
+nextel,índice de reclamações,SMP,2018-10,1.3004739313108
+oi,índice de reclamações,SMP,2018-10,0.456403283316444
+sercomtel,índice de reclamações,SMP,2018-10,0.596284207883505
+tim,índice de reclamações,SMP,2018-10,0.898868770992331
+vivo,índice de reclamações,SMP,2018-10,0.313772814292537
+algar,quantidade de acessos em serviço,SMP,2018-10,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-10,58924651.0
+nextel,quantidade de acessos em serviço,SMP,2018-10,3242664.0
+oi,quantidade de acessos em serviço,SMP,2018-10,38174572.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-10,63728.0
+tim,quantidade de acessos em serviço,SMP,2018-10,56404229.0
+vivo,quantidade de acessos em serviço,SMP,2018-10,73996213.0
+algar,quantidade de reabertas,SMP,2018-10,7.0
+claro,quantidade de reabertas,SMP,2018-10,1241.0
+nextel,quantidade de reabertas,SMP,2018-10,288.0
+oi,quantidade de reabertas,SMP,2018-10,1467.0
+sercomtel,quantidade de reabertas,SMP,2018-10,1.0
+tim,quantidade de reabertas,SMP,2018-10,3241.0
+vivo,quantidade de reabertas,SMP,2018-10,1459.0
+algar,quantidade de reclamações,SMP,2018-10,133.0
+claro,quantidade de reclamações,SMP,2018-10,23384.0
+nextel,quantidade de reclamações,SMP,2018-10,4217.0
+oi,quantidade de reclamações,SMP,2018-10,17423.0
+sercomtel,quantidade de reclamações,SMP,2018-10,38.0
+tim,quantidade de reclamações,SMP,2018-10,50700.0
+vivo,quantidade de reclamações,SMP,2018-10,23218.0
+algar,quantidade de reclamações no período,SMP,2018-10,523.0
+claro,quantidade de reclamações no período,SMP,2018-10,72840.0
+nextel,quantidade de reclamações no período,SMP,2018-10,12924.0
+oi,quantidade de reclamações no período,SMP,2018-10,48219.0
+sercomtel,quantidade de reclamações no período,SMP,2018-10,101.0
+tim,quantidade de reclamações no período,SMP,2018-10,134785.0
+vivo,quantidade de reclamações no período,SMP,2018-10,63914.0
+algar,quantidade de respondidas,SMP,2018-10,133.0
+claro,quantidade de respondidas,SMP,2018-10,21577.0
+nextel,quantidade de respondidas,SMP,2018-10,4067.0
+oi,quantidade de respondidas,SMP,2018-10,16858.0
+sercomtel,quantidade de respondidas,SMP,2018-10,3.0
+tim,quantidade de respondidas,SMP,2018-10,50192.0
+vivo,quantidade de respondidas,SMP,2018-10,23194.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,120.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,20170.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,3457.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,14643.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,2.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,43337.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-10,20019.0
+algar,quantidade de sol. respondidas no período,SMP,2018-10,523.0
+claro,quantidade de sol. respondidas no período,SMP,2018-10,72479.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-10,12894.0
+oi,quantidade de sol. respondidas no período,SMP,2018-10,48112.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-10,7.0
+tim,quantidade de sol. respondidas no período,SMP,2018-10,134318.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-10,63816.0
+algar,taxa de reabertas,SMP,2018-10,5.26315789473684
+claro,taxa de reabertas,SMP,2018-10,5.75149464707791
+nextel,taxa de reabertas,SMP,2018-10,7.0813867715761
+oi,taxa de reabertas,SMP,2018-10,8.70209989322577
+sercomtel,taxa de reabertas,SMP,2018-10,33.3333333333333
+tim,taxa de reabertas,SMP,2018-10,6.45720433535225
+vivo,taxa de reabertas,SMP,2018-10,6.29041993619039
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-10,90.2255639097744
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-10,86.2555593568252
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-10,81.9777092719943
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-10,84.0440796648109
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-10,5.26315789473684
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-10,85.4773175542406
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-10,86.2218968042036
+algar,taxa de respondidas no período,SMP,2018-10,100.0
+claro,taxa de respondidas no período,SMP,2018-10,99.504
+nextel,taxa de respondidas no período,SMP,2018-10,99.768
+oi,taxa de respondidas no período,SMP,2018-10,99.778
+sercomtel,taxa de respondidas no período,SMP,2018-10,6.931
+tim,taxa de respondidas no período,SMP,2018-10,99.654
+vivo,taxa de respondidas no período,SMP,2018-10,99.847
+algar,indicador de desempenho no atendimento (ida),SMP,2018-11,100.0
+claro,indicador de desempenho no atendimento (ida),SMP,2018-11,91.298
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-11,40.807
+oi,indicador de desempenho no atendimento (ida),SMP,2018-11,89.684
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-11,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-11,65.528
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-11,96.064
+algar,índice de reclamações,SMP,2018-11,0.151
+claro,índice de reclamações,SMP,2018-11,0.374
+nextel,índice de reclamações,SMP,2018-11,1.222
+oi,índice de reclamações,SMP,2018-11,0.406
+sercomtel,índice de reclamações,SMP,2018-11,0.048
+tim,índice de reclamações,SMP,2018-11,0.889
+vivo,índice de reclamações,SMP,2018-11,0.279
+algar,quantidade de acessos em serviço,SMP,2018-11,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-11,58873132.0
+nextel,quantidade de acessos em serviço,SMP,2018-11,3276717.0
+oi,quantidade de acessos em serviço,SMP,2018-11,37411881.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-11,62974.0
+tim,quantidade de acessos em serviço,SMP,2018-11,56016292.0
+vivo,quantidade de acessos em serviço,SMP,2018-11,73605812.0
+algar,quantidade de reabertas,SMP,2018-11,12.0
+claro,quantidade de reabertas,SMP,2018-11,1254.0
+nextel,quantidade de reabertas,SMP,2018-11,205.0
+oi,quantidade de reabertas,SMP,2018-11,1147.0
+sercomtel,quantidade de reabertas,SMP,2018-11,0.0
+tim,quantidade de reabertas,SMP,2018-11,3363.0
+vivo,quantidade de reabertas,SMP,2018-11,1195.0
+algar,quantidade de reclamações,SMP,2018-11,195.0
+claro,quantidade de reclamações,SMP,2018-11,22021.0
+nextel,quantidade de reclamações,SMP,2018-11,4003.0
+oi,quantidade de reclamações,SMP,2018-11,15201.0
+sercomtel,quantidade de reclamações,SMP,2018-11,3.0
+tim,quantidade de reclamações,SMP,2018-11,49823.0
+vivo,quantidade de reclamações,SMP,2018-11,20516.0
+algar,quantidade de reclamações no período,SMP,2018-11,464.0
+claro,quantidade de reclamações no período,SMP,2018-11,70434.0
+nextel,quantidade de reclamações no período,SMP,2018-11,12789.0
+oi,quantidade de reclamações no período,SMP,2018-11,49503.0
+sercomtel,quantidade de reclamações no período,SMP,2018-11,135.0
+tim,quantidade de reclamações no período,SMP,2018-11,139001.0
+vivo,quantidade de reclamações no período,SMP,2018-11,65278.0
+algar,quantidade de respondidas,SMP,2018-11,195.0
+claro,quantidade de respondidas,SMP,2018-11,20352.0
+nextel,quantidade de respondidas,SMP,2018-11,4000.0
+oi,quantidade de respondidas,SMP,2018-11,15084.0
+sercomtel,quantidade de respondidas,SMP,2018-11,3.0
+tim,quantidade de respondidas,SMP,2018-11,49322.0
+vivo,quantidade de respondidas,SMP,2018-11,20506.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,167.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,18996.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,3029.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,13024.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,2.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,42572.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-11,17757.0
+algar,quantidade de sol. respondidas no período,SMP,2018-11,464.0
+claro,quantidade de sol. respondidas no período,SMP,2018-11,70155.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-11,12777.0
+oi,quantidade de sol. respondidas no período,SMP,2018-11,49395.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-11,10.0
+tim,quantidade de sol. respondidas no período,SMP,2018-11,138598.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-11,65171.0
+algar,taxa de reabertas,SMP,2018-11,6.154
+claro,taxa de reabertas,SMP,2018-11,6.162
+nextel,taxa de reabertas,SMP,2018-11,5.125
+oi,taxa de reabertas,SMP,2018-11,7.604
+sercomtel,taxa de reabertas,SMP,2018-11,0.0
+tim,taxa de reabertas,SMP,2018-11,6.818
+vivo,taxa de reabertas,SMP,2018-11,5.828
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-11,85.641
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-11,86.263
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-11,75.668
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-11,85.679
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-11,66.667
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-11,85.446
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-11,86.552
+algar,taxa de respondidas no período,SMP,2018-11,100.0
+claro,taxa de respondidas no período,SMP,2018-11,99.604
+nextel,taxa de respondidas no período,SMP,2018-11,99.906
+oi,taxa de respondidas no período,SMP,2018-11,99.782
+sercomtel,taxa de respondidas no período,SMP,2018-11,7.407
+tim,taxa de respondidas no período,SMP,2018-11,99.71
+vivo,taxa de respondidas no período,SMP,2018-11,99.836
+algar,indicador de desempenho no atendimento (ida),SMP,2018-12,94.140625
+claro,indicador de desempenho no atendimento (ida),SMP,2018-12,90.44365517142485
+nextel,indicador de desempenho no atendimento (ida),SMP,2018-12,52.41803527800956
+oi,indicador de desempenho no atendimento (ida),SMP,2018-12,85.92588425012734
+sercomtel,indicador de desempenho no atendimento (ida),SMP,2018-12,0.0
+tim,indicador de desempenho no atendimento (ida),SMP,2018-12,67.25693945738648
+vivo,indicador de desempenho no atendimento (ida),SMP,2018-12,96.694251826576
+algar,índice de reclamações,SMP,2018-12,0.12404523929877227
+claro,índice de reclamações,SMP,2018-12,0.3911268965715031
+nextel,índice de reclamações,SMP,2018-12,1.0158405072840277
+oi,índice de reclamações,SMP,2018-12,0.3739209821523415
+sercomtel,índice de reclamações,SMP,2018-12,0.06432419393744472
+tim,índice de reclamações,SMP,2018-12,0.8548612108522705
+vivo,índice de reclamações,SMP,2018-12,0.2661149634684803
+algar,quantidade de acessos em serviço,SMP,2018-12,1289852.0
+claro,quantidade de acessos em serviço,SMP,2018-12,56416473.0
+nextel,quantidade de acessos em serviço,SMP,2018-12,3300715.0
+oi,quantidade de acessos em serviço,SMP,2018-12,37703153.0
+sercomtel,quantidade de acessos em serviço,SMP,2018-12,62185.0
+tim,quantidade de acessos em serviço,SMP,2018-12,55922528.0
+vivo,quantidade de acessos em serviço,SMP,2018-12,73160110.0
+algar,quantidade de reabertas,SMP,2018-12,15.0
+claro,quantidade de reabertas,SMP,2018-12,1276.0
+nextel,quantidade de reabertas,SMP,2018-12,219.0
+oi,quantidade de reabertas,SMP,2018-12,1175.0
+sercomtel,quantidade de reabertas,SMP,2018-12,0.0
+tim,quantidade de reabertas,SMP,2018-12,3410.0
+vivo,quantidade de reabertas,SMP,2018-12,1059.0
+algar,quantidade de reclamações,SMP,2018-12,160.0
+claro,quantidade de reclamações,SMP,2018-12,22066.0
+nextel,quantidade de reclamações,SMP,2018-12,3353.0
+oi,quantidade de reclamações,SMP,2018-12,14098.0
+sercomtel,quantidade de reclamações,SMP,2018-12,4.0
+tim,quantidade de reclamações,SMP,2018-12,47806.0
+vivo,quantidade de reclamações,SMP,2018-12,19469.0
+algar,quantidade de reclamações no período,SMP,2018-12,460.0
+claro,quantidade de reclamações no período,SMP,2018-12,66554.0
+nextel,quantidade de reclamações no período,SMP,2018-12,12177.0
+oi,quantidade de reclamações no período,SMP,2018-12,47709.0
+sercomtel,quantidade de reclamações no período,SMP,2018-12,135.0
+tim,quantidade de reclamações no período,SMP,2018-12,141049.0
+vivo,quantidade de reclamações no período,SMP,2018-12,63323.0
+algar,quantidade de respondidas,SMP,2018-12,160.0
+claro,quantidade de respondidas,SMP,2018-12,20424.0
+nextel,quantidade de respondidas,SMP,2018-12,3350.0
+oi,quantidade de respondidas,SMP,2018-12,13655.0
+sercomtel,quantidade de respondidas,SMP,2018-12,4.0
+tim,quantidade de respondidas,SMP,2018-12,47164.0
+vivo,quantidade de respondidas,SMP,2018-12,19448.0
+algar,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,138.0
+claro,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,19033.0
+nextel,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,2670.0
+oi,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,11995.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,3.0
+tim,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,40660.0
+vivo,quantidade de sol. respondidas em até 5 dias,SMP,2018-12,17098.0
+algar,quantidade de sol. respondidas no período,SMP,2018-12,460.0
+claro,quantidade de sol. respondidas no período,SMP,2018-12,66210.0
+nextel,quantidade de sol. respondidas no período,SMP,2018-12,12177.0
+oi,quantidade de sol. respondidas no período,SMP,2018-12,47608.0
+sercomtel,quantidade de sol. respondidas no período,SMP,2018-12,11.0
+tim,quantidade de sol. respondidas no período,SMP,2018-12,140726.0
+vivo,quantidade de sol. respondidas no período,SMP,2018-12,63239.0
+algar,taxa de reabertas,SMP,2018-12,9.375
+claro,taxa de reabertas,SMP,2018-12,6.2475518997258135
+nextel,taxa de reabertas,SMP,2018-12,6.537313432835822
+oi,taxa de reabertas,SMP,2018-12,8.604906627608933
+sercomtel,taxa de reabertas,SMP,2018-12,0.0
+tim,taxa de reabertas,SMP,2018-12,7.230090747180053
+vivo,taxa de reabertas,SMP,2018-12,5.4452900041135335
+algar,taxa de respondidas em 5 dias úteis,SMP,2018-12,86.25
+claro,taxa de respondidas em 5 dias úteis,SMP,2018-12,86.2548717483912
+nextel,taxa de respondidas em 5 dias úteis,SMP,2018-12,79.63018192663287
+oi,taxa de respondidas em 5 dias úteis,SMP,2018-12,85.08299049510569
+sercomtel,taxa de respondidas em 5 dias úteis,SMP,2018-12,75.0
+tim,taxa de respondidas em 5 dias úteis,SMP,2018-12,85.0520855122788
+vivo,taxa de respondidas em 5 dias úteis,SMP,2018-12,87.82166521136165
+algar,taxa de respondidas no período,SMP,2018-12,100.0
+claro,taxa de respondidas no período,SMP,2018-12,99.483
+nextel,taxa de respondidas no período,SMP,2018-12,100.0
+oi,taxa de respondidas no período,SMP,2018-12,99.788
+sercomtel,taxa de respondidas no período,SMP,2018-12,8.148
+tim,taxa de respondidas no período,SMP,2018-12,99.771
+vivo,taxa de respondidas no período,SMP,2018-12,99.867

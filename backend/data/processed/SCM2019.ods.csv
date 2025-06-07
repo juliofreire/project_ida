@@ -1,0 +1,337 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+algar,indicador de desempenho no atendimento (ida),SCM,2019-01,58.08778793894429
+net,indicador de desempenho no atendimento (ida),SCM,2019-01,77.40686349197406
+oi,indicador de desempenho no atendimento (ida),SCM,2019-01,47.4027098602281
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2019-01,83.82509303561935
+sky,indicador de desempenho no atendimento (ida),SCM,2019-01,26.422366453158205
+tim,indicador de desempenho no atendimento (ida),SCM,2019-01,0.0
+vivo,indicador de desempenho no atendimento (ida),SCM,2019-01,62.86101906164564
+algar,índice de reclamações,SCM,2019-01,1.85240925000645
+net,índice de reclamações,SCM,2019-01,1.3037254603210373
+oi,índice de reclamações,SCM,2019-01,2.2805185958521217
+sercomtel,índice de reclamações,SCM,2019-01,0.18388698370503237
+sky,índice de reclamações,SCM,2019-01,3.3431053418736716
+tim,índice de reclamações,SCM,2019-01,19.085609580100375
+vivo,índice de reclamações,SCM,2019-01,1.8855592375341745
+algar,quantidade de acessos em serviço,SCM,2019-01,581405.0
+net,quantidade de acessos em serviço,SCM,2019-01,9372372.0
+oi,quantidade de acessos em serviço,SCM,2019-01,5942508.0
+sercomtel,quantidade de acessos em serviço,SCM,2019-01,309973.0
+sky,quantidade de acessos em serviço,SCM,2019-01,352367.0
+tim,quantidade de acessos em serviço,SCM,2019-01,493356.0
+vivo,quantidade de acessos em serviço,SCM,2019-01,7561152.0
+algar,quantidade de reabertas,SCM,2019-01,85.0
+net,quantidade de reabertas,SCM,2019-01,906.0
+oi,quantidade de reabertas,SCM,2019-01,1156.0
+sercomtel,quantidade de reabertas,SCM,2019-01,6.0
+sky,quantidade de reabertas,SCM,2019-01,37.0
+tim,quantidade de reabertas,SCM,2019-01,1493.0
+vivo,quantidade de reabertas,SCM,2019-01,835.0
+algar,quantidade de reclamações,SCM,2019-01,1077.0
+net,quantidade de reclamações,SCM,2019-01,12219.0
+oi,quantidade de reclamações,SCM,2019-01,13552.0
+sercomtel,quantidade de reclamações,SCM,2019-01,57.0
+sky,quantidade de reclamações,SCM,2019-01,1178.0
+tim,quantidade de reclamações,SCM,2019-01,9416.0
+vivo,quantidade de reclamações,SCM,2019-01,14257.0
+algar,quantidade de reclamações no período,SCM,2019-01,2400.0
+net,quantidade de reclamações no período,SCM,2019-01,25706.0
+oi,quantidade de reclamações no período,SCM,2019-01,33980.0
+sercomtel,quantidade de reclamações no período,SCM,2019-01,135.0
+sky,quantidade de reclamações no período,SCM,2019-01,2871.0
+tim,quantidade de reclamações no período,SCM,2019-01,20886.0
+vivo,quantidade de reclamações no período,SCM,2019-01,33233.0
+algar,quantidade de respondidas,SCM,2019-01,1077.0
+net,quantidade de respondidas,SCM,2019-01,12099.0
+oi,quantidade de respondidas,SCM,2019-01,12938.0
+sercomtel,quantidade de respondidas,SCM,2019-01,55.0
+sky,quantidade de respondidas,SCM,2019-01,1178.0
+tim,quantidade de respondidas,SCM,2019-01,9398.0
+vivo,quantidade de respondidas,SCM,2019-01,14239.0
+algar,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,896.0
+net,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,10450.0
+oi,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,11538.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,41.0
+sky,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,1034.0
+tim,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,7821.0
+vivo,quantidade de sol. respondidas em até 5 dias,SCM,2019-01,12186.0
+algar,quantidade de sol. respondidas no período,SCM,2019-01,2400.0
+net,quantidade de sol. respondidas no período,SCM,2019-01,25651.0
+oi,quantidade de sol. respondidas no período,SCM,2019-01,33956.0
+sercomtel,quantidade de sol. respondidas no período,SCM,2019-01,135.0
+sky,quantidade de sol. respondidas no período,SCM,2019-01,2869.0
+tim,quantidade de sol. respondidas no período,SCM,2019-01,20268.0
+vivo,quantidade de sol. respondidas no período,SCM,2019-01,33095.0
+algar,taxa de reabertas,SCM,2019-01,7.892293407613741
+net,taxa de reabertas,SCM,2019-01,7.4882221671212505
+oi,taxa de reabertas,SCM,2019-01,8.934920389550163
+sercomtel,taxa de reabertas,SCM,2019-01,10.909090909090908
+sky,taxa de reabertas,SCM,2019-01,3.1409168081494054
+tim,taxa de reabertas,SCM,2019-01,15.886358799744627
+vivo,taxa de reabertas,SCM,2019-01,5.864175855046001
+algar,taxa de respondidas em 5 dias úteis,SCM,2019-01,83.19405756731662
+net,taxa de respondidas em 5 dias úteis,SCM,2019-01,85.52254685326132
+oi,taxa de respondidas em 5 dias úteis,SCM,2019-01,85.13872491145219
+sercomtel,taxa de respondidas em 5 dias úteis,SCM,2019-01,71.9298245614035
+sky,taxa de respondidas em 5 dias úteis,SCM,2019-01,87.77589134125637
+tim,taxa de respondidas em 5 dias úteis,SCM,2019-01,83.06074766355141
+vivo,taxa de respondidas em 5 dias úteis,SCM,2019-01,85.47380234270885
+algar,taxa de respondidas no período,SCM,2019-01,100.0
+net,taxa de respondidas no período,SCM,2019-01,99.786
+oi,taxa de respondidas no período,SCM,2019-01,99.929
+sercomtel,taxa de respondidas no período,SCM,2019-01,100.0
+sky,taxa de respondidas no período,SCM,2019-01,99.93
+tim,taxa de respondidas no período,SCM,2019-01,97.041
+vivo,taxa de respondidas no período,SCM,2019-01,99.585
+algar,indicador de desempenho no atendimento (ida),SCM,2019-02,81.54690695624642
+net,indicador de desempenho no atendimento (ida),SCM,2019-02,78.41879890073915
+oi,indicador de desempenho no atendimento (ida),SCM,2019-02,53.92539905054001
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2019-02,78.39411059750043
+sky,indicador de desempenho no atendimento (ida),SCM,2019-02,34.47721125217073
+tim,indicador de desempenho no atendimento (ida),SCM,2019-02,0.0
+vivo,indicador de desempenho no atendimento (ida),SCM,2019-02,69.58353987390117
+algar,índice de reclamações,SCM,2019-02,1.1381237217501434
+net,índice de reclamações,SCM,2019-02,1.2632480439704343
+oi,índice de reclamações,SCM,2019-02,2.0318383128139827
+sercomtel,índice de reclamações,SCM,2019-02,0.21458739071486863
+sky,índice de reclamações,SCM,2019-02,3.0209115499131705
+tim,índice de reclamações,SCM,2019-02,16.877925175736426
+vivo,índice de reclamações,SCM,2019-02,1.616658405043953
+algar,quantidade de acessos em serviço,SCM,2019-02,584295.0
+net,quantidade de acessos em serviço,SCM,2019-02,9401954.0
+oi,quantidade de acessos em serviço,SCM,2019-02,5879897.0
+sercomtel,quantidade de acessos em serviço,SCM,2019-02,307567.0
+sky,quantidade de acessos em serviço,SCM,2019-02,344929.0
+tim,quantidade de acessos em serviço,SCM,2019-02,498047.0
+vivo,quantidade de acessos em serviço,SCM,2019-02,7532822.0
+algar,quantidade de reabertas,SCM,2019-02,38.0
+net,quantidade de reabertas,SCM,2019-02,887.0
+oi,quantidade de reabertas,SCM,2019-02,976.0
+sercomtel,quantidade de reabertas,SCM,2019-02,8.0
+sky,quantidade de reabertas,SCM,2019-02,40.0
+tim,quantidade de reabertas,SCM,2019-02,1426.0
+vivo,quantidade de reabertas,SCM,2019-02,733.0
+algar,quantidade de reclamações,SCM,2019-02,665.0
+net,quantidade de reclamações,SCM,2019-02,11877.0
+oi,quantidade de reclamações,SCM,2019-02,11947.0
+sercomtel,quantidade de reclamações,SCM,2019-02,66.0
+sky,quantidade de reclamações,SCM,2019-02,1042.0
+tim,quantidade de reclamações,SCM,2019-02,8406.0
+vivo,quantidade de reclamações,SCM,2019-02,12178.0
+algar,quantidade de reclamações no período,SCM,2019-02,2897.0
+net,quantidade de reclamações no período,SCM,2019-02,29332.0
+oi,quantidade de reclamações no período,SCM,2019-02,35344.0
+sercomtel,quantidade de reclamações no período,SCM,2019-02,136.0
+sky,quantidade de reclamações no período,SCM,2019-02,3009.0
+tim,quantidade de reclamações no período,SCM,2019-02,22953.0
+vivo,quantidade de reclamações no período,SCM,2019-02,35414.0
+algar,quantidade de respondidas,SCM,2019-02,665.0
+net,quantidade de respondidas,SCM,2019-02,11715.0
+oi,quantidade de respondidas,SCM,2019-02,11556.0
+sercomtel,quantidade de respondidas,SCM,2019-02,59.0
+sky,quantidade de respondidas,SCM,2019-02,1042.0
+tim,quantidade de respondidas,SCM,2019-02,8313.0
+vivo,quantidade de respondidas,SCM,2019-02,12176.0
+algar,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,579.0
+net,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,10182.0
+oi,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,10253.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,40.0
+sky,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,906.0
+tim,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,6778.0
+vivo,quantidade de sol. respondidas em até 5 dias,SCM,2019-02,10455.0
+algar,quantidade de sol. respondidas no período,SCM,2019-02,2897.0
+net,quantidade de sol. respondidas no período,SCM,2019-02,29269.0
+oi,quantidade de sol. respondidas no período,SCM,2019-02,35317.0
+sercomtel,quantidade de sol. respondidas no período,SCM,2019-02,136.0
+sky,quantidade de sol. respondidas no período,SCM,2019-02,3007.0
+tim,quantidade de sol. respondidas no período,SCM,2019-02,21912.0
+vivo,quantidade de sol. respondidas no período,SCM,2019-02,35266.0
+algar,taxa de reabertas,SCM,2019-02,5.714285714285714
+net,taxa de reabertas,SCM,2019-02,7.57148954332053
+oi,taxa de reabertas,SCM,2019-02,8.44582900657667
+sercomtel,taxa de reabertas,SCM,2019-02,13.559322033898304
+sky,taxa de reabertas,SCM,2019-02,3.8387715930902107
+tim,taxa de reabertas,SCM,2019-02,17.153855407193554
+vivo,taxa de reabertas,SCM,2019-02,6.0200394218134035
+algar,taxa de respondidas em 5 dias úteis,SCM,2019-02,87.06766917293233
+net,taxa de respondidas em 5 dias úteis,SCM,2019-02,85.72871937357918
+oi,taxa de respondidas em 5 dias úteis,SCM,2019-02,85.8207081275634
+sercomtel,taxa de respondidas em 5 dias úteis,SCM,2019-02,60.60606060606061
+sky,taxa de respondidas em 5 dias úteis,SCM,2019-02,86.9481765834933
+tim,taxa de respondidas em 5 dias úteis,SCM,2019-02,80.63288127527957
+vivo,taxa de respondidas em 5 dias úteis,SCM,2019-02,85.8515355559205
+algar,taxa de respondidas no período,SCM,2019-02,100.0
+net,taxa de respondidas no período,SCM,2019-02,99.785
+oi,taxa de respondidas no período,SCM,2019-02,99.924
+sercomtel,taxa de respondidas no período,SCM,2019-02,100.0
+sky,taxa de respondidas no período,SCM,2019-02,99.934
+tim,taxa de respondidas no período,SCM,2019-02,95.465
+vivo,taxa de respondidas no período,SCM,2019-02,99.582
+algar,indicador de desempenho no atendimento (ida),SCM,2019-03,70.24457541542392
+net,indicador de desempenho no atendimento (ida),SCM,2019-03,79.26968585466383
+oi,indicador de desempenho no atendimento (ida),SCM,2019-03,52.073515952036225
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2019-03,69.0837645518336
+sky,indicador de desempenho no atendimento (ida),SCM,2019-03,35.27447677638007
+tim,indicador de desempenho no atendimento (ida),SCM,2019-03,0.0
+vivo,indicador de desempenho no atendimento (ida),SCM,2019-03,68.48501398280752
+algar,índice de reclamações,SCM,2019-03,1.387997501262205
+net,índice de reclamações,SCM,2019-03,1.2292125658134467
+oi,índice de reclamações,SCM,2019-03,2.0968054372381015
+sercomtel,índice de reclamações,SCM,2019-03,0.18532547379920472
+sky,índice de reclamações,SCM,2019-03,2.989020928944797
+tim,índice de reclamações,SCM,2019-03,21.146598614187013
+vivo,índice de reclamações,SCM,2019-03,1.6605994406876996
+algar,quantidade de acessos em serviço,SCM,2019-03,584295.0
+net,quantidade de acessos em serviço,SCM,2019-03,9401954.0
+oi,quantidade de acessos em serviço,SCM,2019-03,5879897.0
+sercomtel,quantidade de acessos em serviço,SCM,2019-03,307567.0
+sky,quantidade de acessos em serviço,SCM,2019-03,344929.0
+tim,quantidade de acessos em serviço,SCM,2019-03,498047.0
+vivo,quantidade de acessos em serviço,SCM,2019-03,7532822.0
+algar,quantidade de reabertas,SCM,2019-03,61.0
+net,quantidade de reabertas,SCM,2019-03,860.0
+oi,quantidade de reabertas,SCM,2019-03,1027.0
+sercomtel,quantidade de reabertas,SCM,2019-03,6.0
+sky,quantidade de reabertas,SCM,2019-03,44.0
+tim,quantidade de reabertas,SCM,2019-03,1967.0
+vivo,quantidade de reabertas,SCM,2019-03,715.0
+algar,quantidade de reclamações,SCM,2019-03,811.0
+net,quantidade de reclamações,SCM,2019-03,11557.0
+oi,quantidade de reclamações,SCM,2019-03,12329.0
+sercomtel,quantidade de reclamações,SCM,2019-03,57.0
+sky,quantidade de reclamações,SCM,2019-03,1031.0
+tim,quantidade de reclamações,SCM,2019-03,10532.0
+vivo,quantidade de reclamações,SCM,2019-03,12509.0
+algar,quantidade de reclamações no período,SCM,2019-03,2665.0
+net,quantidade de reclamações no período,SCM,2019-03,32607.0
+oi,quantidade de reclamações no período,SCM,2019-03,36057.0
+sercomtel,quantidade de reclamações no período,SCM,2019-03,157.0
+sky,quantidade de reclamações no período,SCM,2019-03,3116.0
+tim,quantidade de reclamações no período,SCM,2019-03,24538.0
+vivo,quantidade de reclamações no período,SCM,2019-03,36823.0
+algar,quantidade de respondidas,SCM,2019-03,811.0
+net,quantidade de respondidas,SCM,2019-03,11008.0
+oi,quantidade de respondidas,SCM,2019-03,11657.0
+sercomtel,quantidade de respondidas,SCM,2019-03,52.0
+sky,quantidade de respondidas,SCM,2019-03,1031.0
+tim,quantidade de respondidas,SCM,2019-03,10523.0
+vivo,quantidade de respondidas,SCM,2019-03,12505.0
+algar,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,688.0
+net,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,9905.0
+oi,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,10601.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,23.0
+sky,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,888.0
+tim,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,8501.0
+vivo,quantidade de sol. respondidas em até 5 dias,SCM,2019-03,10794.0
+algar,quantidade de sol. respondidas no período,SCM,2019-03,2665.0
+net,quantidade de sol. respondidas no período,SCM,2019-03,32546.0
+oi,quantidade de sol. respondidas no período,SCM,2019-03,36044.0
+sercomtel,quantidade de sol. respondidas no período,SCM,2019-03,154.0
+sky,quantidade de sol. respondidas no período,SCM,2019-03,3115.0
+tim,quantidade de sol. respondidas no período,SCM,2019-03,24456.0
+vivo,quantidade de sol. respondidas no período,SCM,2019-03,36683.0
+algar,taxa de reabertas,SCM,2019-03,7.52157829839704
+net,taxa de reabertas,SCM,2019-03,7.8125
+oi,taxa de reabertas,SCM,2019-03,8.810156987217981
+sercomtel,taxa de reabertas,SCM,2019-03,11.538461538461538
+sky,taxa de reabertas,SCM,2019-03,4.267701260911736
+tim,taxa de reabertas,SCM,2019-03,18.69238810225221
+vivo,taxa de reabertas,SCM,2019-03,5.717712914834067
+algar,taxa de respondidas em 5 dias úteis,SCM,2019-03,84.83353884093712
+net,taxa de respondidas em 5 dias úteis,SCM,2019-03,85.70563294972744
+oi,taxa de respondidas em 5 dias úteis,SCM,2019-03,85.984264741666
+sercomtel,taxa de respondidas em 5 dias úteis,SCM,2019-03,40.35087719298245
+sky,taxa de respondidas em 5 dias úteis,SCM,2019-03,86.12997090203686
+tim,taxa de respondidas em 5 dias úteis,SCM,2019-03,80.71591340676035
+vivo,taxa de respondidas em 5 dias úteis,SCM,2019-03,86.28987129266928
+algar,taxa de respondidas no período,SCM,2019-03,100.0
+net,taxa de respondidas no período,SCM,2019-03,99.813
+oi,taxa de respondidas no período,SCM,2019-03,99.964
+sercomtel,taxa de respondidas no período,SCM,2019-03,98.089
+sky,taxa de respondidas no período,SCM,2019-03,99.968
+tim,taxa de respondidas no período,SCM,2019-03,99.666
+vivo,taxa de respondidas no período,SCM,2019-03,99.62
+algar,indicador de desempenho no atendimento (ida),SCM,2019-04,75.60685464199662
+net,indicador de desempenho no atendimento (ida),SCM,2019-04,82.28332869104568
+oi,indicador de desempenho no atendimento (ida),SCM,2019-04,49.93887429827683
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2019-04,84.41137566137566
+sky,indicador de desempenho no atendimento (ida),SCM,2019-04,34.47153979266322
+tim,indicador de desempenho no atendimento (ida),SCM,2019-04,0.0
+vivo,indicador de desempenho no atendimento (ida),SCM,2019-04,65.33107645709634
+algar,índice de reclamações,SCM,2019-04,1.1613362794364144
+net,índice de reclamações,SCM,2019-04,1.108666852358173
+oi,índice de reclamações,SCM,2019-04,2.1846320481933916
+sercomtel,índice de reclamações,SCM,2019-04,0.1492982979994028
+sky,índice de reclamações,SCM,2019-04,3.021138408293471
+tim,índice de reclamações,SCM,2019-04,16.723663602714737
+vivo,índice de reclamações,SCM,2019-04,1.7867569417161466
+algar,quantidade de acessos em serviço,SCM,2019-04,592421.0
+net,quantidade de acessos em serviço,SCM,2019-04,9485266.0
+oi,quantidade de acessos em serviço,SCM,2019-04,5825695.0
+sercomtel,quantidade de acessos em serviço,SCM,2019-04,301410.0
+sky,quantidade de acessos em serviço,SCM,2019-04,313789.0
+tim,quantidade de acessos em serviço,SCM,2019-04,511431.0
+vivo,quantidade de acessos em serviço,SCM,2019-04,7465481.0
+algar,quantidade de reabertas,SCM,2019-04,59.0
+net,quantidade de reabertas,SCM,2019-04,671.0
+oi,quantidade de reabertas,SCM,2019-04,1078.0
+sercomtel,quantidade de reabertas,SCM,2019-04,5.0
+sky,quantidade de reabertas,SCM,2019-04,25.0
+tim,quantidade de reabertas,SCM,2019-04,1066.0
+vivo,quantidade de reabertas,SCM,2019-04,747.0
+algar,quantidade de reclamações,SCM,2019-04,688.0
+net,quantidade de reclamações,SCM,2019-04,10516.0
+oi,quantidade de reclamações,SCM,2019-04,12727.0
+sercomtel,quantidade de reclamações,SCM,2019-04,45.0
+sky,quantidade de reclamações,SCM,2019-04,948.0
+tim,quantidade de reclamações,SCM,2019-04,8553.0
+vivo,quantidade de reclamações,SCM,2019-04,13339.0
+algar,quantidade de reclamações no período,SCM,2019-04,2553.0
+net,quantidade de reclamações no período,SCM,2019-04,35655.0
+oi,quantidade de reclamações no período,SCM,2019-04,37827.0
+sercomtel,quantidade de reclamações no período,SCM,2019-04,180.0
+sky,quantidade de reclamações no período,SCM,2019-04,3252.0
+tim,quantidade de reclamações no período,SCM,2019-04,28355.0
+vivo,quantidade de reclamações no período,SCM,2019-04,38951.0
+algar,quantidade de respondidas,SCM,2019-04,688.0
+net,quantidade de respondidas,SCM,2019-04,9604.0
+oi,quantidade de respondidas,SCM,2019-04,12373.0
+sercomtel,quantidade de respondidas,SCM,2019-04,42.0
+sky,quantidade de respondidas,SCM,2019-04,948.0
+tim,quantidade de respondidas,SCM,2019-04,8552.0
+vivo,quantidade de respondidas,SCM,2019-04,13330.0
+algar,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,588.0
+net,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,9024.0
+oi,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,10923.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,37.0
+sky,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,831.0
+tim,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,6818.0
+vivo,quantidade de sol. respondidas em até 5 dias,SCM,2019-04,11519.0
+algar,quantidade de sol. respondidas no período,SCM,2019-04,2553.0
+net,quantidade de sol. respondidas no período,SCM,2019-04,35624.0
+oi,quantidade de sol. respondidas no período,SCM,2019-04,37813.0
+sercomtel,quantidade de sol. respondidas no período,SCM,2019-04,178.0
+sky,quantidade de sol. respondidas no período,SCM,2019-04,3251.0
+tim,quantidade de sol. respondidas no período,SCM,2019-04,28355.0
+vivo,quantidade de sol. respondidas no período,SCM,2019-04,38793.0
+algar,taxa de reabertas,SCM,2019-04,8.575581395348838
+net,taxa de reabertas,SCM,2019-04,6.986672219908371
+oi,taxa de reabertas,SCM,2019-04,8.712519195021418
+sercomtel,taxa de reabertas,SCM,2019-04,11.904761904761903
+sky,taxa de reabertas,SCM,2019-04,2.6371308016877637
+tim,taxa de reabertas,SCM,2019-04,12.46492048643592
+vivo,taxa de reabertas,SCM,2019-04,5.603900975243811
+algar,taxa de respondidas em 5 dias úteis,SCM,2019-04,85.46511627906976
+net,taxa de respondidas em 5 dias úteis,SCM,2019-04,85.81209585393685
+oi,taxa de respondidas em 5 dias úteis,SCM,2019-04,85.82541054451167
+sercomtel,taxa de respondidas em 5 dias úteis,SCM,2019-04,82.22222222222221
+sky,taxa de respondidas em 5 dias úteis,SCM,2019-04,87.65822784810126
+tim,taxa de respondidas em 5 dias úteis,SCM,2019-04,79.71471998129311
+vivo,taxa de respondidas em 5 dias úteis,SCM,2019-04,86.35579878551616
+algar,taxa de respondidas no período,SCM,2019-04,100.0
+net,taxa de respondidas no período,SCM,2019-04,99.913
+oi,taxa de respondidas no período,SCM,2019-04,99.963
+sercomtel,taxa de respondidas no período,SCM,2019-04,98.889
+sky,taxa de respondidas no período,SCM,2019-04,99.969
+tim,taxa de respondidas no período,SCM,2019-04,100.0
+vivo,taxa de respondidas no período,SCM,2019-04,99.594

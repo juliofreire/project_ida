@@ -1,0 +1,865 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+claro,indicador de desempenho no atendimento (ida),SMP,2014-01,89.292
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-01,99.4
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-01,80.214
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-01,91.667
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-01,92.15
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-01,93.95
+claro,quantidade de reclamações,SMP,2014-01,21341.0
+ctbc celular,quantidade de reclamações,SMP,2014-01,217.0
+oi celular,quantidade de reclamações,SMP,2014-01,23630.0
+sercomtel celular,quantidade de reclamações,SMP,2014-01,4.0
+tim gsm,quantidade de reclamações,SMP,2014-01,26269.0
+vivo,quantidade de reclamações,SMP,2014-01,24975.0
+claro,quantidade de acessos em serviço,SMP,2014-01,69033217.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-01,1024699.0
+oi celular,quantidade de acessos em serviço,SMP,2014-01,50435852.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-01,59176.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-01,73542521.0
+vivo,quantidade de acessos em serviço,SMP,2014-01,77745609.0
+claro,índice de reclamações,SMP,2014-01,0.309
+ctbc celular,índice de reclamações,SMP,2014-01,0.212
+oi celular,índice de reclamações,SMP,2014-01,0.469
+sercomtel celular,índice de reclamações,SMP,2014-01,0.068
+tim gsm,índice de reclamações,SMP,2014-01,0.357
+vivo,índice de reclamações,SMP,2014-01,0.321
+claro,quantidade de resolvidas,SMP,2014-01,20932.0
+ctbc celular,quantidade de resolvidas,SMP,2014-01,217.0
+oi celular,quantidade de resolvidas,SMP,2014-01,23624.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-01,3.0
+tim gsm,quantidade de resolvidas,SMP,2014-01,26126.0
+vivo,quantidade de resolvidas,SMP,2014-01,24907.0
+claro,quantidade de reabertas,SMP,2014-01,1761.0
+ctbc celular,quantidade de reabertas,SMP,2014-01,16.0
+oi celular,quantidade de reabertas,SMP,2014-01,2395.0
+sercomtel celular,quantidade de reabertas,SMP,2014-01,0.0
+tim gsm,quantidade de reabertas,SMP,2014-01,1907.0
+vivo,quantidade de reabertas,SMP,2014-01,1183.0
+claro,taxa de reabertas,SMP,2014-01,8.413
+ctbc celular,taxa de reabertas,SMP,2014-01,7.373
+oi celular,taxa de reabertas,SMP,2014-01,10.138
+sercomtel celular,taxa de reabertas,SMP,2014-01,0.0
+tim gsm,taxa de reabertas,SMP,2014-01,7.299
+vivo,taxa de reabertas,SMP,2014-01,4.75
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,18468.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,194.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,20089.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,3.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,22598.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-01,21916.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-01,86.538
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-01,89.401
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-01,85.015
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-01,75.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-01,86.025
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-01,87.752
+tim gsm,quantidade de reclamações no período,SMP,2014-01,84311.0
+claro,quantidade de reclamações no período,SMP,2014-01,74721.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-01,938.0
+oi celular,quantidade de reclamações no período,SMP,2014-01,13.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-01,80509.0
+vivo,quantidade de reclamações no período,SMP,2014-01,3625.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-01,83876.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-01,74316.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-01,938.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-01,13.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-01,80252.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-01,3621.0
+tim gsm,taxa de resolvidas no período,SMP,2014-01,99.484
+claro,taxa de resolvidas no período,SMP,2014-01,99.458
+ctbc celular,taxa de resolvidas no período,SMP,2014-01,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-01,99.89
+sercomtel celular,taxa de resolvidas no período,SMP,2014-01,100.0
+vivo,taxa de resolvidas no período,SMP,2014-01,99.681
+claro,indicador de desempenho no atendimento (ida),SMP,2014-02,90.676
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-02,85.648
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-02,76.899
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-02,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-02,94.45
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-02,96.75
+claro,quantidade de reclamações,SMP,2014-02,19181.0
+ctbc celular,quantidade de reclamações,SMP,2014-02,171.0
+oi celular,quantidade de reclamações,SMP,2014-02,19904.0
+sercomtel celular,quantidade de reclamações,SMP,2014-02,4.0
+tim gsm,quantidade de reclamações,SMP,2014-02,22903.0
+vivo,quantidade de reclamações,SMP,2014-02,20664.0
+claro,quantidade de acessos em serviço,SMP,2014-02,68941694.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-02,1042124.0
+oi celular,quantidade de acessos em serviço,SMP,2014-02,50367609.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-02,56731.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-02,73641359.0
+vivo,quantidade de acessos em serviço,SMP,2014-02,78046756.0
+claro,índice de reclamações,SMP,2014-02,0.278
+ctbc celular,índice de reclamações,SMP,2014-02,0.164
+oi celular,índice de reclamações,SMP,2014-02,0.395
+sercomtel celular,índice de reclamações,SMP,2014-02,0.071
+tim gsm,índice de reclamações,SMP,2014-02,0.311
+vivo,índice de reclamações,SMP,2014-02,0.265
+claro,quantidade de resolvidas,SMP,2014-02,19082.0
+ctbc celular,quantidade de resolvidas,SMP,2014-02,171.0
+oi celular,quantidade de resolvidas,SMP,2014-02,19380.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-02,4.0
+tim gsm,quantidade de resolvidas,SMP,2014-02,22733.0
+vivo,quantidade de resolvidas,SMP,2014-02,20597.0
+claro,quantidade de reabertas,SMP,2014-02,1656.0
+ctbc celular,quantidade de reabertas,SMP,2014-02,19.0
+oi celular,quantidade de reabertas,SMP,2014-02,2417.0
+sercomtel celular,quantidade de reabertas,SMP,2014-02,0.0
+tim gsm,quantidade de reabertas,SMP,2014-02,1644.0
+vivo,quantidade de reabertas,SMP,2014-02,1051.0
+claro,taxa de reabertas,SMP,2014-02,5.424
+ctbc celular,taxa de reabertas,SMP,2014-02,6.944
+oi celular,taxa de reabertas,SMP,2014-02,7.795
+sercomtel celular,taxa de reabertas,SMP,2014-02,0.0
+tim gsm,taxa de reabertas,SMP,2014-02,4.52
+vivo,taxa de reabertas,SMP,2014-02,3.189
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,19181.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,171.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,19904.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,4.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,22903.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-02,20664.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-02,85.475
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-02,77.778
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-02,83.33
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-02,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-02,86.299
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-02,86.769
+tim gsm,quantidade de reclamações no período,SMP,2014-02,81648.0
+claro,quantidade de reclamações no período,SMP,2014-02,68336.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-02,817.0
+oi celular,quantidade de reclamações no período,SMP,2014-02,12.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-02,77409.0
+vivo,quantidade de reclamações no período,SMP,2014-02,76536.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-02,81204.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-02,67937.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-02,817.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-02,12.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-02,77279.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-02,76138.0
+tim gsm,taxa de resolvidas no período,SMP,2014-02,99.832
+claro,taxa de resolvidas no período,SMP,2014-02,99.456
+ctbc celular,taxa de resolvidas no período,SMP,2014-02,99.416
+oi celular,taxa de resolvidas no período,SMP,2014-02,100.0
+sercomtel celular,taxa de resolvidas no período,SMP,2014-02,100.0
+vivo,taxa de resolvidas no período,SMP,2014-02,99.48
+claro,indicador de desempenho no atendimento (ida),SMP,2014-03,87.797
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-03,84.967
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-03,83.649
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-03,76.042
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-03,96.9
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-03,98.9
+claro,quantidade de reclamações,SMP,2014-03,14906.0
+ctbc celular,quantidade de reclamações,SMP,2014-03,102.0
+oi celular,quantidade de reclamações,SMP,2014-03,14878.0
+sercomtel celular,quantidade de reclamações,SMP,2014-03,4.0
+tim gsm,quantidade de reclamações,SMP,2014-03,19365.0
+vivo,quantidade de reclamações,SMP,2014-03,17410.0
+claro,quantidade de acessos em serviço,SMP,2014-03,68748907.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-03,1058194.0
+oi celular,quantidade de acessos em serviço,SMP,2014-03,50579492.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-03,53992.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-03,73916805.0
+vivo,quantidade de acessos em serviço,SMP,2014-03,78465149.0
+claro,índice de reclamações,SMP,2014-03,0.217
+ctbc celular,índice de reclamações,SMP,2014-03,0.096
+oi celular,índice de reclamações,SMP,2014-03,0.294
+sercomtel celular,índice de reclamações,SMP,2014-03,0.074
+tim gsm,índice de reclamações,SMP,2014-03,0.262
+vivo,índice de reclamações,SMP,2014-03,0.222
+claro,quantidade de resolvidas,SMP,2014-03,14466.0
+ctbc celular,quantidade de resolvidas,SMP,2014-03,102.0
+oi celular,quantidade de resolvidas,SMP,2014-03,14584.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-03,4.0
+tim gsm,quantidade de resolvidas,SMP,2014-03,19255.0
+vivo,quantidade de resolvidas,SMP,2014-03,17260.0
+claro,quantidade de reabertas,SMP,2014-03,1444.0
+ctbc celular,quantidade de reabertas,SMP,2014-03,16.0
+oi celular,quantidade de reabertas,SMP,2014-03,1430.0
+sercomtel celular,quantidade de reabertas,SMP,2014-03,1.0
+tim gsm,quantidade de reabertas,SMP,2014-03,1474.0
+vivo,quantidade de reabertas,SMP,2014-03,879.0
+claro,taxa de reabertas,SMP,2014-03,9.982
+ctbc celular,taxa de reabertas,SMP,2014-03,15.686
+oi celular,taxa de reabertas,SMP,2014-03,9.805
+sercomtel celular,taxa de reabertas,SMP,2014-03,25.0
+tim gsm,taxa de reabertas,SMP,2014-03,7.655
+vivo,taxa de reabertas,SMP,2014-03,5.093
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,14906.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,102.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,14878.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,4.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,19365.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-03,17410.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-03,84.657
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-03,84.314
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-03,83.432
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-03,75.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-03,85.887
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-03,86.835
+tim gsm,quantidade de reclamações no período,SMP,2014-03,78038.0
+claro,quantidade de reclamações no período,SMP,2014-03,64179.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-03,665.0
+oi celular,quantidade de reclamações no período,SMP,2014-03,68755.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-03,10.0
+vivo,quantidade de reclamações no período,SMP,2014-03,70728.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-03,77719.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-03,63745.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-03,665.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-03,68430.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-03,10.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-03,70451.0
+tim gsm,taxa de resolvidas no período,SMP,2014-03,99.591
+claro,taxa de resolvidas no período,SMP,2014-03,99.324
+ctbc celular,taxa de resolvidas no período,SMP,2014-03,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-03,99.527
+sercomtel celular,taxa de resolvidas no período,SMP,2014-03,100.0
+vivo,taxa de resolvidas no período,SMP,2014-03,99.608
+claro,indicador de desempenho no atendimento (ida),SMP,2014-04,91.383
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-04,85.222
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-04,80.912
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-04,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-04,90.245
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-04,98.6
+claro,quantidade de reclamações,SMP,2014-04,16780.0
+ctbc celular,quantidade de reclamações,SMP,2014-04,203.0
+oi celular,quantidade de reclamações,SMP,2014-04,15880.0
+sercomtel celular,quantidade de reclamações,SMP,2014-04,1.0
+tim gsm,quantidade de reclamações,SMP,2014-04,21758.0
+vivo,quantidade de reclamações,SMP,2014-04,17908.0
+claro,quantidade de acessos em serviço,SMP,2014-04,68490921.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-04,1073665.0
+oi celular,quantidade de acessos em serviço,SMP,2014-04,50671007.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-04,51428.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-04,73871048.0
+vivo,quantidade de acessos em serviço,SMP,2014-04,78550308.0
+claro,índice de reclamações,SMP,2014-04,0.245
+ctbc celular,índice de reclamações,SMP,2014-04,0.189
+oi celular,índice de reclamações,SMP,2014-04,0.313
+sercomtel celular,índice de reclamações,SMP,2014-04,0.019
+tim gsm,índice de reclamações,SMP,2014-04,0.295
+vivo,índice de reclamações,SMP,2014-04,0.228
+claro,quantidade de resolvidas,SMP,2014-04,15829.0
+ctbc celular,quantidade de resolvidas,SMP,2014-04,203.0
+oi celular,quantidade de resolvidas,SMP,2014-04,14487.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-04,1.0
+tim gsm,quantidade de resolvidas,SMP,2014-04,21323.0
+vivo,quantidade de resolvidas,SMP,2014-04,17640.0
+claro,quantidade de reabertas,SMP,2014-04,1608.0
+ctbc celular,quantidade de reabertas,SMP,2014-04,8.0
+oi celular,quantidade de reabertas,SMP,2014-04,1659.0
+sercomtel celular,quantidade de reabertas,SMP,2014-04,0.0
+tim gsm,quantidade de reabertas,SMP,2014-04,1680.0
+vivo,quantidade de reabertas,SMP,2014-04,1135.0
+claro,taxa de reabertas,SMP,2014-04,10.188
+ctbc celular,taxa de reabertas,SMP,2014-04,3.96
+oi celular,taxa de reabertas,SMP,2014-04,11.456
+sercomtel celular,taxa de reabertas,SMP,2014-04,0.0
+tim gsm,taxa de reabertas,SMP,2014-04,7.875
+vivo,taxa de reabertas,SMP,2014-04,6.433
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,14363.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,114.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,12893.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,1.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,18496.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-04,15563.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-04,85.411
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-04,55.665
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-04,81.165
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-04,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-04,84.985
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-04,86.911
+tim gsm,quantidade de reclamações no período,SMP,2014-04,68585.0
+claro,quantidade de reclamações no período,SMP,2014-04,55432.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-04,490.0
+oi celular,quantidade de reclamações no período,SMP,2014-04,58434.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-04,12.0
+vivo,quantidade de reclamações no período,SMP,2014-04,63098.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-04,68186.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-04,55005.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-04,490.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-04,58102.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-04,12.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-04,62912.0
+tim gsm,taxa de resolvidas no período,SMP,2014-04,99.383
+claro,taxa de resolvidas no período,SMP,2014-04,99.071
+ctbc celular,taxa de resolvidas no período,SMP,2014-04,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-04,99.425
+sercomtel celular,taxa de resolvidas no período,SMP,2014-04,100.0
+vivo,taxa de resolvidas no período,SMP,2014-04,99.681
+claro,indicador de desempenho no atendimento (ida),SMP,2014-05,87.663
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-05,94.451
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-05,79.843
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-05,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-05,84.604
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-05,93.45
+claro,quantidade de reclamações,SMP,2014-05,23787.0
+ctbc celular,quantidade de reclamações,SMP,2014-05,214.0
+oi celular,quantidade de reclamações,SMP,2014-05,23911.0
+sercomtel celular,quantidade de reclamações,SMP,2014-05,5.0
+tim gsm,quantidade de reclamações,SMP,2014-05,29934.0
+vivo,quantidade de reclamações,SMP,2014-05,26222.0
+claro,quantidade de acessos em serviço,SMP,2014-05,68755380.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-05,1089337.0
+oi celular,quantidade de acessos em serviço,SMP,2014-05,50854595.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-05,51349.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-05,74467845.0
+vivo,quantidade de acessos em serviço,SMP,2014-05,79188079.0
+claro,índice de reclamações,SMP,2014-05,0.346
+ctbc celular,índice de reclamações,SMP,2014-05,0.196
+oi celular,índice de reclamações,SMP,2014-05,0.47
+sercomtel celular,índice de reclamações,SMP,2014-05,0.097
+tim gsm,índice de reclamações,SMP,2014-05,0.402
+vivo,índice de reclamações,SMP,2014-05,0.331
+claro,quantidade de resolvidas,SMP,2014-05,23179.0
+ctbc celular,quantidade de resolvidas,SMP,2014-05,214.0
+oi celular,quantidade de resolvidas,SMP,2014-05,23686.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-05,5.0
+tim gsm,quantidade de resolvidas,SMP,2014-05,29903.0
+vivo,quantidade de resolvidas,SMP,2014-05,25817.0
+claro,quantidade de reabertas,SMP,2014-05,1868.0
+ctbc celular,quantidade de reabertas,SMP,2014-05,19.0
+oi celular,quantidade de reabertas,SMP,2014-05,2523.0
+sercomtel celular,quantidade de reabertas,SMP,2014-05,0.0
+tim gsm,quantidade de reabertas,SMP,2014-05,2534.0
+vivo,quantidade de reabertas,SMP,2014-05,1509.0
+claro,taxa de reabertas,SMP,2014-05,8.059
+ctbc celular,taxa de reabertas,SMP,2014-05,8.879
+oi celular,taxa de reabertas,SMP,2014-05,10.652
+sercomtel celular,taxa de reabertas,SMP,2014-05,0.0
+tim gsm,taxa de reabertas,SMP,2014-05,8.474
+vivo,taxa de reabertas,SMP,2014-05,5.845
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,20481.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,185.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,20740.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,5.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,26121.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-05,22808.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-05,86.102
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-05,86.449
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-05,86.738
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-05,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-05,87.262
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-05,86.98
+tim gsm,quantidade de reclamações no período,SMP,2014-05,64060.0
+claro,quantidade de reclamações no período,SMP,2014-05,50884.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-05,476.0
+oi celular,quantidade de reclamações no período,SMP,2014-05,50682.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-05,9.0
+vivo,quantidade de reclamações no período,SMP,2014-05,56025.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-05,63816.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-05,50382.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-05,476.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-05,50383.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-05,9.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-05,55658.0
+tim gsm,taxa de resolvidas no período,SMP,2014-05,99.619
+claro,taxa de resolvidas no período,SMP,2014-05,99.013
+ctbc celular,taxa de resolvidas no período,SMP,2014-05,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-05,99.41
+sercomtel celular,taxa de resolvidas no período,SMP,2014-05,100.0
+vivo,taxa de resolvidas no período,SMP,2014-05,99.345
+claro,indicador de desempenho no atendimento (ida),SMP,2014-06,94.05
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-06,100.0
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-06,81.862
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-06,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-06,89.55
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-06,94.8
+claro,quantidade de reclamações,SMP,2014-06,21909.0
+ctbc celular,quantidade de reclamações,SMP,2014-06,189.0
+oi celular,quantidade de reclamações,SMP,2014-06,22735.0
+sercomtel celular,quantidade de reclamações,SMP,2014-06,2.0
+tim gsm,quantidade de reclamações,SMP,2014-06,30383.0
+vivo,quantidade de reclamações,SMP,2014-06,24145.0
+claro,quantidade de acessos em serviço,SMP,2014-06,68775877.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-06,1100647.0
+oi celular,quantidade de acessos em serviço,SMP,2014-06,51081121.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-06,52585.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-06,74202921.0
+vivo,quantidade de acessos em serviço,SMP,2014-06,79357354.0
+claro,índice de reclamações,SMP,2014-06,0.319
+ctbc celular,índice de reclamações,SMP,2014-06,0.172
+oi celular,índice de reclamações,SMP,2014-06,0.445
+sercomtel celular,índice de reclamações,SMP,2014-06,0.038
+tim gsm,índice de reclamações,SMP,2014-06,0.409
+vivo,índice de reclamações,SMP,2014-06,0.304
+claro,quantidade de resolvidas,SMP,2014-06,21703.0
+ctbc celular,quantidade de resolvidas,SMP,2014-06,189.0
+oi celular,quantidade de resolvidas,SMP,2014-06,22557.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-06,2.0
+tim gsm,quantidade de resolvidas,SMP,2014-06,30065.0
+vivo,quantidade de resolvidas,SMP,2014-06,23983.0
+claro,quantidade de reabertas,SMP,2014-06,1651.0
+ctbc celular,quantidade de reabertas,SMP,2014-06,11.0
+oi celular,quantidade de reabertas,SMP,2014-06,1797.0
+sercomtel celular,quantidade de reabertas,SMP,2014-06,0.0
+tim gsm,quantidade de reabertas,SMP,2014-06,1656.0
+vivo,quantidade de reabertas,SMP,2014-06,1303.0
+claro,taxa de reabertas,SMP,2014-06,7.607
+ctbc celular,taxa de reabertas,SMP,2014-06,5.82
+oi celular,taxa de reabertas,SMP,2014-06,7.966
+sercomtel celular,taxa de reabertas,SMP,2014-06,0.0
+tim gsm,taxa de reabertas,SMP,2014-06,5.508
+vivo,taxa de reabertas,SMP,2014-06,5.433
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,19055.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,169.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,18719.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,2.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,26239.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-06,21333.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-06,86.973
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-06,89.418
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-06,82.336
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-06,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-06,86.361
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-06,88.354
+tim gsm,quantidade de reclamações no período,SMP,2014-06,71340.0
+claro,quantidade de reclamações no período,SMP,2014-06,55599.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-06,521.0
+oi celular,quantidade de reclamações no período,SMP,2014-06,54791.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-06,10.0
+vivo,quantidade de reclamações no período,SMP,2014-06,61663.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-06,70708.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-06,55173.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-06,519.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-06,54365.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-06,10.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-06,61079.0
+tim gsm,taxa de resolvidas no período,SMP,2014-06,99.114
+claro,taxa de resolvidas no período,SMP,2014-06,99.234
+ctbc celular,taxa de resolvidas no período,SMP,2014-06,99.616
+oi celular,taxa de resolvidas no período,SMP,2014-06,99.223
+sercomtel celular,taxa de resolvidas no período,SMP,2014-06,100.0
+vivo,taxa de resolvidas no período,SMP,2014-06,99.053
+claro,indicador de desempenho no atendimento (ida),SMP,2014-07,90.4
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-07,85.292
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-07,77.087
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-07,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-07,87.8
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-07,92.1
+claro,quantidade de reclamações,SMP,2014-07,27049.0
+ctbc celular,quantidade de reclamações,SMP,2014-07,272.0
+oi celular,quantidade de reclamações,SMP,2014-07,25363.0
+sercomtel celular,quantidade de reclamações,SMP,2014-07,2.0
+tim gsm,quantidade de reclamações,SMP,2014-07,33024.0
+vivo,quantidade de reclamações,SMP,2014-07,28452.0
+claro,quantidade de acessos em serviço,SMP,2014-07,68932133.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-07,1107270.0
+oi celular,quantidade de acessos em serviço,SMP,2014-07,51095462.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-07,52073.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-07,74371788.0
+vivo,quantidade de acessos em serviço,SMP,2014-07,79405524.0
+claro,índice de reclamações,SMP,2014-07,0.392
+ctbc celular,índice de reclamações,SMP,2014-07,0.246
+oi celular,índice de reclamações,SMP,2014-07,0.496
+sercomtel celular,índice de reclamações,SMP,2014-07,0.038
+tim gsm,índice de reclamações,SMP,2014-07,0.444
+vivo,índice de reclamações,SMP,2014-07,0.358
+claro,quantidade de resolvidas,SMP,2014-07,27000.0
+ctbc celular,quantidade de resolvidas,SMP,2014-07,272.0
+oi celular,quantidade de resolvidas,SMP,2014-07,23638.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-07,2.0
+tim gsm,quantidade de resolvidas,SMP,2014-07,32805.0
+vivo,quantidade de resolvidas,SMP,2014-07,28104.0
+claro,quantidade de reabertas,SMP,2014-07,2159.0
+ctbc celular,quantidade de reabertas,SMP,2014-07,30.0
+oi celular,quantidade de reabertas,SMP,2014-07,1871.0
+sercomtel celular,quantidade de reabertas,SMP,2014-07,0.0
+tim gsm,quantidade de reabertas,SMP,2014-07,2311.0
+vivo,quantidade de reabertas,SMP,2014-07,1530.0
+claro,taxa de reabertas,SMP,2014-07,7.996
+ctbc celular,taxa de reabertas,SMP,2014-07,11.029
+oi celular,taxa de reabertas,SMP,2014-07,7.915
+sercomtel celular,taxa de reabertas,SMP,2014-07,0.0
+tim gsm,taxa de reabertas,SMP,2014-07,7.045
+vivo,taxa de reabertas,SMP,2014-07,5.444
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,23578.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,227.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,19190.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,2.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,28595.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-07,25036.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-07,87.168
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-07,83.456
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-07,75.661
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-07,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-07,86.589
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-07,87.994
+tim gsm,quantidade de reclamações no período,SMP,2014-07,82357.0
+claro,quantidade de reclamações no período,SMP,2014-07,62547.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-07,608.0
+oi celular,quantidade de reclamações no período,SMP,2014-07,62582.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-07,8.0
+vivo,quantidade de reclamações no período,SMP,2014-07,68333.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-07,81839.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-07,62347.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-07,608.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-07,62320.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-07,8.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-07,68073.0
+tim gsm,taxa de resolvidas no período,SMP,2014-07,99.371
+claro,taxa de resolvidas no período,SMP,2014-07,99.68
+ctbc celular,taxa de resolvidas no período,SMP,2014-07,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-07,99.581
+sercomtel celular,taxa de resolvidas no período,SMP,2014-07,100.0
+vivo,taxa de resolvidas no período,SMP,2014-07,99.62
+claro,indicador de desempenho no atendimento (ida),SMP,2014-08,
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-08,
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-08,
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-08,
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-08,
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-08,
+claro,quantidade de reclamações,SMP,2014-08,
+ctbc celular,quantidade de reclamações,SMP,2014-08,
+oi celular,quantidade de reclamações,SMP,2014-08,
+sercomtel celular,quantidade de reclamações,SMP,2014-08,
+tim gsm,quantidade de reclamações,SMP,2014-08,
+vivo,quantidade de reclamações,SMP,2014-08,
+claro,quantidade de acessos em serviço,SMP,2014-08,
+ctbc celular,quantidade de acessos em serviço,SMP,2014-08,
+oi celular,quantidade de acessos em serviço,SMP,2014-08,
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-08,
+tim gsm,quantidade de acessos em serviço,SMP,2014-08,
+vivo,quantidade de acessos em serviço,SMP,2014-08,
+claro,índice de reclamações,SMP,2014-08,
+ctbc celular,índice de reclamações,SMP,2014-08,
+oi celular,índice de reclamações,SMP,2014-08,
+sercomtel celular,índice de reclamações,SMP,2014-08,
+tim gsm,índice de reclamações,SMP,2014-08,
+vivo,índice de reclamações,SMP,2014-08,
+claro,quantidade de resolvidas,SMP,2014-08,
+ctbc celular,quantidade de resolvidas,SMP,2014-08,
+oi celular,quantidade de resolvidas,SMP,2014-08,
+sercomtel celular,quantidade de resolvidas,SMP,2014-08,
+tim gsm,quantidade de resolvidas,SMP,2014-08,
+vivo,quantidade de resolvidas,SMP,2014-08,
+claro,quantidade de reabertas,SMP,2014-08,
+ctbc celular,quantidade de reabertas,SMP,2014-08,
+oi celular,quantidade de reabertas,SMP,2014-08,
+sercomtel celular,quantidade de reabertas,SMP,2014-08,
+tim gsm,quantidade de reabertas,SMP,2014-08,
+vivo,quantidade de reabertas,SMP,2014-08,
+claro,taxa de reabertas,SMP,2014-08,
+ctbc celular,taxa de reabertas,SMP,2014-08,
+oi celular,taxa de reabertas,SMP,2014-08,
+sercomtel celular,taxa de reabertas,SMP,2014-08,0.0
+tim gsm,taxa de reabertas,SMP,2014-08,
+vivo,taxa de reabertas,SMP,2014-08,
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-08,
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-08,
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-08,
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-08,
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-08,0.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-08,
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-08,
+tim gsm,quantidade de reclamações no período,SMP,2014-08,
+claro,quantidade de reclamações no período,SMP,2014-08,
+ctbc celular,quantidade de reclamações no período,SMP,2014-08,
+oi celular,quantidade de reclamações no período,SMP,2014-08,
+sercomtel celular,quantidade de reclamações no período,SMP,2014-08,
+vivo,quantidade de reclamações no período,SMP,2014-08,
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-08,
+claro,quantidade de sol. resolvidas no período,SMP,2014-08,
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-08,
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-08,
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-08,
+vivo,quantidade de sol. resolvidas no período,SMP,2014-08,
+tim gsm,taxa de resolvidas no período,SMP,2014-08,
+claro,taxa de resolvidas no período,SMP,2014-08,
+ctbc celular,taxa de resolvidas no período,SMP,2014-08,
+oi celular,taxa de resolvidas no período,SMP,2014-08,
+sercomtel celular,taxa de resolvidas no período,SMP,2014-08,
+vivo,taxa de resolvidas no período,SMP,2014-08,
+claro,indicador de desempenho no atendimento (ida),SMP,2014-09,78.779
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-09,87.662
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-09,77.048
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-09,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-09,88.1
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-09,91.4
+claro,quantidade de reclamações,SMP,2014-09,25367.0
+ctbc celular,quantidade de reclamações,SMP,2014-09,206.0
+oi celular,quantidade de reclamações,SMP,2014-09,23024.0
+sercomtel celular,quantidade de reclamações,SMP,2014-09,5.0
+tim gsm,quantidade de reclamações,SMP,2014-09,32799.0
+vivo,quantidade de reclamações,SMP,2014-09,29634.0
+claro,quantidade de acessos em serviço,SMP,2014-09,69559504.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-09,1137815.0
+oi celular,quantidade de acessos em serviço,SMP,2014-09,51415666.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-09,51682.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-09,74837333.0
+vivo,quantidade de acessos em serviço,SMP,2014-09,79659200.0
+claro,índice de reclamações,SMP,2014-09,0.365
+ctbc celular,índice de reclamações,SMP,2014-09,0.181
+oi celular,índice de reclamações,SMP,2014-09,0.448
+sercomtel celular,índice de reclamações,SMP,2014-09,0.097
+tim gsm,índice de reclamações,SMP,2014-09,0.438
+vivo,índice de reclamações,SMP,2014-09,0.372
+claro,quantidade de resolvidas,SMP,2014-09,25034.0
+ctbc celular,quantidade de resolvidas,SMP,2014-09,206.0
+oi celular,quantidade de resolvidas,SMP,2014-09,22798.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-09,5.0
+tim gsm,quantidade de resolvidas,SMP,2014-09,32280.0
+vivo,quantidade de resolvidas,SMP,2014-09,29563.0
+claro,quantidade de reabertas,SMP,2014-09,2924.0
+ctbc celular,quantidade de reabertas,SMP,2014-09,22.0
+oi celular,quantidade de reabertas,SMP,2014-09,1939.0
+sercomtel celular,quantidade de reabertas,SMP,2014-09,0.0
+tim gsm,quantidade de reabertas,SMP,2014-09,2371.0
+vivo,quantidade de reabertas,SMP,2014-09,2041.0
+claro,taxa de reabertas,SMP,2014-09,11.68
+ctbc celular,taxa de reabertas,SMP,2014-09,10.68
+oi celular,taxa de reabertas,SMP,2014-09,8.505
+sercomtel celular,taxa de reabertas,SMP,2014-09,0.0
+tim gsm,taxa de reabertas,SMP,2014-09,7.345
+vivo,taxa de reabertas,SMP,2014-09,6.904
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,21051.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,171.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,19407.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,5.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,28286.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-09,25707.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-09,82.986
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-09,83.01
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-09,84.29
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-09,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-09,86.24
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-09,86.748
+tim gsm,quantidade de reclamações no período,SMP,2014-09,94764.0
+claro,quantidade de reclamações no período,SMP,2014-09,74231.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-09,719.0
+oi celular,quantidade de reclamações no período,SMP,2014-09,70515.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-09,4.0
+vivo,quantidade de reclamações no período,SMP,2014-09,82488.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-09,94443.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-09,74136.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-09,719.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-09,70177.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-09,4.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-09,82346.0
+tim gsm,taxa de resolvidas no período,SMP,2014-09,99.661
+claro,taxa de resolvidas no período,SMP,2014-09,99.872
+ctbc celular,taxa de resolvidas no período,SMP,2014-09,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-09,99.521
+sercomtel celular,taxa de resolvidas no período,SMP,2014-09,100.0
+vivo,taxa de resolvidas no período,SMP,2014-09,99.828
+claro,indicador de desempenho no atendimento (ida),SMP,2014-10,78.92
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-10,80.41
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-10,80.958
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-10,100.0
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-10,88.7
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-10,93.6
+claro,quantidade de reclamações,SMP,2014-10,24044.0
+ctbc celular,quantidade de reclamações,SMP,2014-10,124.0
+oi celular,quantidade de reclamações,SMP,2014-10,19092.0
+sercomtel celular,quantidade de reclamações,SMP,2014-10,7.0
+tim gsm,quantidade de reclamações,SMP,2014-10,32001.0
+vivo,quantidade de reclamações,SMP,2014-10,26144.0
+claro,quantidade de acessos em serviço,SMP,2014-10,69845165.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-10,1159408.0
+oi celular,quantidade de acessos em serviço,SMP,2014-10,51286566.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-10,51660.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-10,75139067.0
+vivo,quantidade de acessos em serviço,SMP,2014-10,79724532.0
+claro,índice de reclamações,SMP,2014-10,0.344
+ctbc celular,índice de reclamações,SMP,2014-10,0.107
+oi celular,índice de reclamações,SMP,2014-10,0.372
+sercomtel celular,índice de reclamações,SMP,2014-10,0.136
+tim gsm,índice de reclamações,SMP,2014-10,0.426
+vivo,índice de reclamações,SMP,2014-10,0.328
+claro,quantidade de resolvidas,SMP,2014-10,22807.0
+ctbc celular,quantidade de resolvidas,SMP,2014-10,124.0
+oi celular,quantidade de resolvidas,SMP,2014-10,18868.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-10,6.0
+tim gsm,quantidade de resolvidas,SMP,2014-10,31035.0
+vivo,quantidade de resolvidas,SMP,2014-10,25994.0
+claro,quantidade de reabertas,SMP,2014-10,2484.0
+ctbc celular,quantidade de reabertas,SMP,2014-10,25.0
+oi celular,quantidade de reabertas,SMP,2014-10,1512.0
+sercomtel celular,quantidade de reabertas,SMP,2014-10,0.0
+tim gsm,quantidade de reabertas,SMP,2014-10,1889.0
+vivo,quantidade de reabertas,SMP,2014-10,1714.0
+claro,taxa de reabertas,SMP,2014-10,10.891
+ctbc celular,taxa de reabertas,SMP,2014-10,20.161
+oi celular,taxa de reabertas,SMP,2014-10,8.014
+sercomtel celular,taxa de reabertas,SMP,2014-10,0.0
+tim gsm,taxa de reabertas,SMP,2014-10,6.087
+vivo,taxa de reabertas,SMP,2014-10,6.594
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,18942.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,98.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,15980.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,6.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,27693.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-10,22827.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-10,78.781
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-10,79.032
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-10,83.7
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-10,85.714
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-10,86.538
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-10,87.313
+tim gsm,quantidade de reclamações no período,SMP,2014-10,97094.0
+claro,quantidade de reclamações no período,SMP,2014-10,77657.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-10,735.0
+oi celular,quantidade de reclamações no período,SMP,2014-10,70828.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-10,7.0
+vivo,quantidade de reclamações no período,SMP,2014-10,87982.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-10,96490.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-10,77111.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-10,735.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-10,70519.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-10,7.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-10,87788.0
+tim gsm,taxa de resolvidas no período,SMP,2014-10,99.378
+claro,taxa de resolvidas no período,SMP,2014-10,99.297
+ctbc celular,taxa de resolvidas no período,SMP,2014-10,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-10,99.564
+sercomtel celular,taxa de resolvidas no período,SMP,2014-10,100.0
+vivo,taxa de resolvidas no período,SMP,2014-10,99.78
+claro,indicador de desempenho no atendimento (ida),SMP,2014-11,82.357
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-11,85.225
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-11,91.741
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-11,4.167
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-11,90.516
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-11,92.709
+claro,quantidade de reclamações,SMP,2014-11,20577.0
+ctbc celular,quantidade de reclamações,SMP,2014-11,141.0
+oi celular,quantidade de reclamações,SMP,2014-11,18817.0
+sercomtel celular,quantidade de reclamações,SMP,2014-11,1.0
+tim gsm,quantidade de reclamações,SMP,2014-11,29323.0
+vivo,quantidade de reclamações,SMP,2014-11,27752.0
+claro,quantidade de acessos em serviço,SMP,2014-11,70521507.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-11,1176641.0
+oi celular,quantidade de acessos em serviço,SMP,2014-11,51527644.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-11,53225.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-11,75250704.0
+vivo,quantidade de acessos em serviço,SMP,2014-11,80250744.0
+claro,índice de reclamações,SMP,2014-11,0.292
+ctbc celular,índice de reclamações,SMP,2014-11,0.12
+oi celular,índice de reclamações,SMP,2014-11,0.365
+sercomtel celular,índice de reclamações,SMP,2014-11,0.019
+tim gsm,índice de reclamações,SMP,2014-11,0.39
+vivo,índice de reclamações,SMP,2014-11,0.346
+claro,quantidade de resolvidas,SMP,2014-11,20432.0
+ctbc celular,quantidade de resolvidas,SMP,2014-11,141.0
+oi celular,quantidade de resolvidas,SMP,2014-11,18484.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-11,1.0
+tim gsm,quantidade de resolvidas,SMP,2014-11,29054.0
+vivo,quantidade de resolvidas,SMP,2014-11,27498.0
+claro,quantidade de reabertas,SMP,2014-11,1715.0
+ctbc celular,quantidade de reabertas,SMP,2014-11,20.0
+oi celular,quantidade de reabertas,SMP,2014-11,1418.0
+sercomtel celular,quantidade de reabertas,SMP,2014-11,1.0
+tim gsm,quantidade de reabertas,SMP,2014-11,1843.0
+vivo,quantidade de reabertas,SMP,2014-11,1788.0
+claro,taxa de reabertas,SMP,2014-11,8.394
+ctbc celular,taxa de reabertas,SMP,2014-11,14.184
+oi celular,taxa de reabertas,SMP,2014-11,7.671
+sercomtel celular,taxa de reabertas,SMP,2014-11,100.0
+tim gsm,taxa de reabertas,SMP,2014-11,6.343
+vivo,taxa de reabertas,SMP,2014-11,6.502
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,15757.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,116.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,16042.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,0.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,25310.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-11,24246.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-11,76.576
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-11,82.27
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-11,85.253
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-11,0.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-11,86.314
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-11,87.367
+tim gsm,quantidade de reclamações no período,SMP,2014-11,96056.0
+claro,quantidade de reclamações no período,SMP,2014-11,74641.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-11,586.0
+oi celular,quantidade de reclamações no período,SMP,2014-11,64576.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-11,11.0
+vivo,quantidade de reclamações no período,SMP,2014-11,85654.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-11,95644.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-11,74503.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-11,586.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-11,64295.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-11,11.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-11,85466.0
+tim gsm,taxa de resolvidas no período,SMP,2014-11,99.571
+claro,taxa de resolvidas no período,SMP,2014-11,99.815
+ctbc celular,taxa de resolvidas no período,SMP,2014-11,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-11,99.565
+sercomtel celular,taxa de resolvidas no período,SMP,2014-11,100.0
+vivo,taxa de resolvidas no período,SMP,2014-11,99.781
+claro,indicador de desempenho no atendimento (ida),SMP,2014-12,99.341
+ctbc celular,indicador de desempenho no atendimento (ida),SMP,2014-12,79.676
+oi celular,indicador de desempenho no atendimento (ida),SMP,2014-12,95.648
+sercomtel celular,indicador de desempenho no atendimento (ida),SMP,2014-12,37.5
+tim gsm,indicador de desempenho no atendimento (ida),SMP,2014-12,94.879
+vivo,indicador de desempenho no atendimento (ida),SMP,2014-12,96.022
+claro,quantidade de reclamações,SMP,2014-12,15158.0
+ctbc celular,quantidade de reclamações,SMP,2014-12,90.0
+oi celular,quantidade de reclamações,SMP,2014-12,14615.0
+sercomtel celular,quantidade de reclamações,SMP,2014-12,1.0
+tim gsm,quantidade de reclamações,SMP,2014-12,22899.0
+vivo,quantidade de reclamações,SMP,2014-12,22348.0
+claro,quantidade de acessos em serviço,SMP,2014-12,71106993.0
+ctbc celular,quantidade de acessos em serviço,SMP,2014-12,1205384.0
+oi celular,quantidade de acessos em serviço,SMP,2014-12,50917933.0
+sercomtel celular,quantidade de acessos em serviço,SMP,2014-12,56413.0
+tim gsm,quantidade de acessos em serviço,SMP,2014-12,75720577.0
+vivo,quantidade de acessos em serviço,SMP,2014-12,79937773.0
+claro,índice de reclamações,SMP,2014-12,0.213
+ctbc celular,índice de reclamações,SMP,2014-12,0.075
+oi celular,índice de reclamações,SMP,2014-12,0.287
+sercomtel celular,índice de reclamações,SMP,2014-12,0.018
+tim gsm,índice de reclamações,SMP,2014-12,0.302
+vivo,índice de reclamações,SMP,2014-12,0.28
+claro,quantidade de resolvidas,SMP,2014-12,14863.0
+ctbc celular,quantidade de resolvidas,SMP,2014-12,90.0
+oi celular,quantidade de resolvidas,SMP,2014-12,14470.0
+sercomtel celular,quantidade de resolvidas,SMP,2014-12,1.0
+tim gsm,quantidade de resolvidas,SMP,2014-12,22690.0
+vivo,quantidade de resolvidas,SMP,2014-12,22260.0
+claro,quantidade de reabertas,SMP,2014-12,1134.0
+ctbc celular,quantidade de reabertas,SMP,2014-12,17.0
+oi celular,quantidade de reabertas,SMP,2014-12,1036.0
+sercomtel celular,quantidade de reabertas,SMP,2014-12,1.0
+tim gsm,quantidade de reabertas,SMP,2014-12,1342.0
+vivo,quantidade de reabertas,SMP,2014-12,1154.0
+claro,taxa de reabertas,SMP,2014-12,7.63
+ctbc celular,taxa de reabertas,SMP,2014-12,18.889
+oi celular,taxa de reabertas,SMP,2014-12,7.16
+sercomtel celular,taxa de reabertas,SMP,2014-12,100.0
+tim gsm,taxa de reabertas,SMP,2014-12,5.914
+vivo,taxa de reabertas,SMP,2014-12,5.184
+claro,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,13383.0
+ctbc celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,67.0
+oi celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,12629.0
+sercomtel celular,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,1.0
+tim gsm,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,19813.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SMP,2014-12,19774.0
+claro,taxa de resolvidas em 5 dias úteis,SMP,2014-12,88.29
+ctbc celular,taxa de resolvidas em 5 dias úteis,SMP,2014-12,74.444
+oi celular,taxa de resolvidas em 5 dias úteis,SMP,2014-12,86.411
+sercomtel celular,taxa de resolvidas em 5 dias úteis,SMP,2014-12,100.0
+tim gsm,taxa de resolvidas em 5 dias úteis,SMP,2014-12,86.523
+vivo,taxa de resolvidas em 5 dias úteis,SMP,2014-12,88.482
+tim gsm,quantidade de reclamações no período,SMP,2014-12,94135.0
+claro,quantidade de reclamações no período,SMP,2014-12,69976.0
+ctbc celular,quantidade de reclamações no período,SMP,2014-12,470.0
+oi celular,quantidade de reclamações no período,SMP,2014-12,60946.0
+sercomtel celular,quantidade de reclamações no período,SMP,2014-12,12.0
+vivo,quantidade de reclamações no período,SMP,2014-12,83546.0
+tim gsm,quantidade de sol. resolvidas no período,SMP,2014-12,93843.0
+claro,quantidade de sol. resolvidas no período,SMP,2014-12,69971.0
+ctbc celular,quantidade de sol. resolvidas no período,SMP,2014-12,470.0
+oi celular,quantidade de sol. resolvidas no período,SMP,2014-12,60830.0
+sercomtel celular,quantidade de sol. resolvidas no período,SMP,2014-12,12.0
+vivo,quantidade de sol. resolvidas no período,SMP,2014-12,83378.0
+tim gsm,taxa de resolvidas no período,SMP,2014-12,99.69
+claro,taxa de resolvidas no período,SMP,2014-12,99.993
+ctbc celular,taxa de resolvidas no período,SMP,2014-12,100.0
+oi celular,taxa de resolvidas no período,SMP,2014-12,100.0
+sercomtel celular,taxa de resolvidas no período,SMP,2014-12,99.799
+vivo,taxa de resolvidas no período,SMP,2014-12,99.81

@@ -1,0 +1,22 @@
+services:
+    db:
+        container_name: db
+        image: postgres:17.5-bookworm
+        environment:
+            POSTGRES_USER: julio
+            POSTGRES_PASSWORD: 123456
+            POSTGRES_DB: project_ida
+        # volumes:
+            # - ./init:/docker-entrypoint-initdb.d
+        ports:
+            - "5432:5432"
+
+
+    backend:
+        container_name: backend
+        build: ./backend
+        volumes:
+            - ./backend:/app
+            - ./data:/data
+        depends_on:
+            - db

@@ -1,0 +1,865 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-01,99.49218
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-01,63.34056
+net,indicador de desempenho no atendimento (ida),SEAC,2016-01,81.13296
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-01,45.44534
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-01,42.07784
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-01,86.74449
+algar,índice de reclamações,SEAC,2016-01,0.683008
+claro,índice de reclamações,SEAC,2016-01,3.032864
+net,índice de reclamações,SEAC,2016-01,1.876358
+oi,índice de reclamações,SEAC,2016-01,4.196053
+sky,índice de reclamações,SEAC,2016-01,4.023939
+vivo,índice de reclamações,SEAC,2016-01,1.511608
+algar,quantidade de acessos em serviço,SEAC,2016-01,105416.0
+claro,quantidade de acessos em serviço,SEAC,2016-01,2692175.0
+net,quantidade de acessos em serviço,SEAC,2016-01,7183065.0
+oi,quantidade de acessos em serviço,SEAC,2016-01,1176582.0
+sky,quantidade de acessos em serviço,SEAC,2016-01,5412359.0
+vivo,quantidade de acessos em serviço,SEAC,2016-01,777318.0
+algar,quantidade de reabertas,SEAC,2016-01,0.0
+claro,quantidade de reabertas,SEAC,2016-01,452.0
+net,quantidade de reabertas,SEAC,2016-01,1026.0
+oi,quantidade de reabertas,SEAC,2016-01,390.0
+sky,quantidade de reabertas,SEAC,2016-01,2095.0
+vivo,quantidade de reabertas,SEAC,2016-01,93.0
+algar,quantidade de reclamações,SEAC,2016-01,72.0
+claro,quantidade de reclamações,SEAC,2016-01,8165.0
+net,quantidade de reclamações,SEAC,2016-01,13478.0
+oi,quantidade de reclamações,SEAC,2016-01,4937.0
+sky,quantidade de reclamações,SEAC,2016-01,21779.0
+vivo,quantidade de reclamações,SEAC,2016-01,1175.0
+algar,quantidade de reclamações no período,SEAC,2016-01,149.0
+claro,quantidade de reclamações no período,SEAC,2016-01,18715.0
+net,quantidade de reclamações no período,SEAC,2016-01,33571.0
+oi,quantidade de reclamações no período,SEAC,2016-01,14117.0
+sky,quantidade de reclamações no período,SEAC,2016-01,63046.0
+vivo,quantidade de reclamações no período,SEAC,2016-01,4091.0
+algar,quantidade de respondidas,SEAC,2016-01,72.0
+claro,quantidade de respondidas,SEAC,2016-01,8119.0
+net,quantidade de respondidas,SEAC,2016-01,13471.0
+oi,quantidade de respondidas,SEAC,2016-01,4919.0
+sky,quantidade de respondidas,SEAC,2016-01,21767.0
+vivo,quantidade de respondidas,SEAC,2016-01,1173.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,66.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,7306.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,11503.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,4228.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,18673.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-01,1013.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-01,149.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-01,18706.0
+net,quantidade de sol. respondidas no período,SEAC,2016-01,33404.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-01,14052.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-01,63034.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-01,4090.0
+algar,taxa de reabertas,SEAC,2016-01,0.0
+claro,taxa de reabertas,SEAC,2016-01,5.567188
+net,taxa de reabertas,SEAC,2016-01,7.616361
+oi,taxa de reabertas,SEAC,2016-01,7.928441
+sky,taxa de reabertas,SEAC,2016-01,9.624661
+vivo,taxa de reabertas,SEAC,2016-01,7.928389
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-01,91.66667
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-01,89.47949
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-01,85.34649
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-01,85.63905
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-01,85.73856
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-01,86.21277
+algar,taxa de respondidas no período,SEAC,2016-01,100.0
+claro,taxa de respondidas no período,SEAC,2016-01,99.952
+net,taxa de respondidas no período,SEAC,2016-01,99.503
+oi,taxa de respondidas no período,SEAC,2016-01,99.54
+sky,taxa de respondidas no período,SEAC,2016-01,99.981
+vivo,taxa de respondidas no período,SEAC,2016-01,99.976
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-02,91.1603479291121
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-02,62.7007196566381
+net,indicador de desempenho no atendimento (ida),SEAC,2016-02,71.1244448689854
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-02,41.1113203402065
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-02,39.367989263842
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-02,87.9722351138537
+algar,índice de reclamações,SEAC,2016-02,0.773188495718827
+claro,índice de reclamações,SEAC,2016-02,3.07445322231853
+net,índice de reclamações,SEAC,2016-02,1.84515238052277
+oi,índice de reclamações,SEAC,2016-02,4.47776417788658
+sky,índice de reclamações,SEAC,2016-02,4.17146697209716
+vivo,índice de reclamações,SEAC,2016-02,1.43180471759951
+algar,quantidade de acessos em serviço,SEAC,2016-02,104761.0
+claro,quantidade de acessos em serviço,SEAC,2016-02,2654781.0
+net,quantidade de acessos em serviço,SEAC,2016-02,7204825.0
+oi,quantidade de acessos em serviço,SEAC,2016-02,1176480.0
+sky,quantidade de acessos em serviço,SEAC,2016-02,5365978.0
+vivo,quantidade de acessos em serviço,SEAC,2016-02,761277.0
+algar,quantidade de reabertas,SEAC,2016-02,9.0
+claro,quantidade de reabertas,SEAC,2016-02,521.0
+net,quantidade de reabertas,SEAC,2016-02,1131.0
+oi,quantidade de reabertas,SEAC,2016-02,327.0
+sky,quantidade de reabertas,SEAC,2016-02,2311.0
+vivo,quantidade de reabertas,SEAC,2016-02,62.0
+algar,quantidade de reclamações,SEAC,2016-02,81.0
+claro,quantidade de reclamações,SEAC,2016-02,8162.0
+net,quantidade de reclamações,SEAC,2016-02,13294.0
+oi,quantidade de reclamações,SEAC,2016-02,5268.0
+sky,quantidade de reclamações,SEAC,2016-02,22384.0
+vivo,quantidade de reclamações,SEAC,2016-02,1090.0
+algar,quantidade de reclamações no período,SEAC,2016-02,183.0
+claro,quantidade de reclamações no período,SEAC,2016-02,20870.0
+net,quantidade de reclamações no período,SEAC,2016-02,35888.0
+oi,quantidade de reclamações no período,SEAC,2016-02,14214.0
+sky,quantidade de reclamações no período,SEAC,2016-02,62385.0
+vivo,quantidade de reclamações no período,SEAC,2016-02,3691.0
+algar,quantidade de respondidas,SEAC,2016-02,81.0
+claro,quantidade de respondidas,SEAC,2016-02,8157.0
+net,quantidade de respondidas,SEAC,2016-02,13285.0
+oi,quantidade de respondidas,SEAC,2016-02,5227.0
+sky,quantidade de respondidas,SEAC,2016-02,22374.0
+vivo,quantidade de respondidas,SEAC,2016-02,1090.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,70.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,7374.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,11233.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,4546.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,19112.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-02,943.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-02,183.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-02,20870.0
+net,quantidade de sol. respondidas no período,SEAC,2016-02,35759.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-02,14172.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-02,62365.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-02,3671.0
+algar,taxa de reabertas,SEAC,2016-02,11.1111111111111
+claro,taxa de reabertas,SEAC,2016-02,6.38715213926689
+net,taxa de reabertas,SEAC,2016-02,8.51336093338352
+oi,taxa de reabertas,SEAC,2016-02,6.2559785727951
+sky,taxa de reabertas,SEAC,2016-02,10.3289532493072
+vivo,taxa de reabertas,SEAC,2016-02,5.68807339449541
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-02,86.4197530864197
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-02,90.3455035530507
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-02,84.4967654581014
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-02,86.294608959757
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-02,85.3824160114367
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-02,86.5137614678899
+algar,taxa de respondidas no período,SEAC,2016-02,100.0
+claro,taxa de respondidas no período,SEAC,2016-02,100.0
+net,taxa de respondidas no período,SEAC,2016-02,99.641
+oi,taxa de respondidas no período,SEAC,2016-02,99.705
+sky,taxa de respondidas no período,SEAC,2016-02,99.968
+vivo,taxa de respondidas no período,SEAC,2016-02,99.458
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-03,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-03,66.2578631244338
+net,indicador de desempenho no atendimento (ida),SEAC,2016-03,72.1851134005535
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-03,32.3165742299929
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-03,39.8579820691663
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-03,83.5699186457994
+algar,índice de reclamações,SEAC,2016-03,0.639550977940264
+claro,índice de reclamações,SEAC,2016-03,2.8432388969118
+net,índice de reclamações,SEAC,2016-03,2.07197225859365
+oi,índice de reclamações,SEAC,2016-03,5.04942267505047
+sky,índice de reclamações,SEAC,2016-03,4.19062279827583
+vivo,índice de reclamações,SEAC,2016-03,1.71795528802304
+algar,quantidade de acessos em serviço,SEAC,2016-03,104761.0
+claro,quantidade de acessos em serviço,SEAC,2016-03,2621658.0
+net,quantidade de acessos em serviço,SEAC,2016-03,7227896.0
+oi,quantidade de acessos em serviço,SEAC,2016-03,1180531.0
+sky,quantidade de acessos em serviço,SEAC,2016-03,5342404.0
+vivo,quantidade de acessos em serviço,SEAC,2016-03,753221.0
+algar,quantidade de reabertas,SEAC,2016-03,2.0
+claro,quantidade de reabertas,SEAC,2016-03,502.0
+net,quantidade de reabertas,SEAC,2016-03,1110.0
+oi,quantidade de reabertas,SEAC,2016-03,390.0
+sky,quantidade de reabertas,SEAC,2016-03,2030.0
+vivo,quantidade de reabertas,SEAC,2016-03,87.0
+algar,quantidade de reclamações,SEAC,2016-03,67.0
+claro,quantidade de reclamações,SEAC,2016-03,7454.0
+net,quantidade de reclamações,SEAC,2016-03,14976.0
+oi,quantidade de reclamações,SEAC,2016-03,5961.0
+sky,quantidade de reclamações,SEAC,2016-03,22388.0
+vivo,quantidade de reclamações,SEAC,2016-03,1294.0
+algar,quantidade de reclamações no período,SEAC,2016-03,213.0
+claro,quantidade de reclamações no período,SEAC,2016-03,22921.0
+net,quantidade de reclamações no período,SEAC,2016-03,38158.0
+oi,quantidade de reclamações no período,SEAC,2016-03,15059.0
+sky,quantidade de reclamações no período,SEAC,2016-03,64576.0
+vivo,quantidade de reclamações no período,SEAC,2016-03,3450.0
+algar,quantidade de respondidas,SEAC,2016-03,67.0
+claro,quantidade de respondidas,SEAC,2016-03,7441.0
+net,quantidade de respondidas,SEAC,2016-03,14950.0
+oi,quantidade de respondidas,SEAC,2016-03,5931.0
+sky,quantidade de respondidas,SEAC,2016-03,22373.0
+vivo,quantidade de respondidas,SEAC,2016-03,1294.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,58.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,6462.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,12308.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,5109.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,19165.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-03,1121.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-03,213.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-03,22920.0
+net,quantidade de sol. respondidas no período,SEAC,2016-03,38086.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-03,15022.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-03,64562.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-03,3450.0
+algar,taxa de reabertas,SEAC,2016-03,2.98507462686567
+claro,taxa de reabertas,SEAC,2016-03,6.74640505308426
+net,taxa de reabertas,SEAC,2016-03,7.4247491638796
+oi,taxa de reabertas,SEAC,2016-03,6.5756196256955
+sky,taxa de reabertas,SEAC,2016-03,9.07343673177491
+vivo,taxa de reabertas,SEAC,2016-03,6.72333848531685
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-03,86.5671641791045
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-03,86.69170914945
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-03,82.1848290598291
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-03,85.7070961248113
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-03,85.6038949437199
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-03,86.6306027820711
+algar,taxa de respondidas no período,SEAC,2016-03,100.0
+claro,taxa de respondidas no período,SEAC,2016-03,99.996
+net,taxa de respondidas no período,SEAC,2016-03,99.811
+oi,taxa de respondidas no período,SEAC,2016-03,99.754
+sky,taxa de respondidas no período,SEAC,2016-03,99.978
+vivo,taxa de respondidas no período,SEAC,2016-03,100.0
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-04,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-04,74.7411457609133
+net,indicador de desempenho no atendimento (ida),SEAC,2016-04,84.2046037724353
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-04,43.632383194713
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-04,58.9468810448211
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-04,86.4203871029732
+algar,índice de reclamações,SEAC,2016-04,0.571949280701074
+claro,índice de reclamações,SEAC,2016-04,2.29182552554064
+net,índice de reclamações,SEAC,2016-04,1.6767007547917
+oi,índice de reclamações,SEAC,2016-04,4.31389509234366
+sky,índice de reclamações,SEAC,2016-04,3.31845273208663
+vivo,índice de reclamações,SEAC,2016-04,1.53267483830674
+algar,quantidade de acessos em serviço,SEAC,2016-04,103156.0
+claro,quantidade de acessos em serviço,SEAC,2016-04,2583530.0
+net,quantidade de acessos em serviço,SEAC,2016-04,7236831.0
+oi,quantidade de acessos em serviço,SEAC,2016-04,1186167.0
+sky,quantidade de acessos em serviço,SEAC,2016-04,5339838.0
+vivo,quantidade de acessos em serviço,SEAC,2016-04,1777285.0
+algar,quantidade de reabertas,SEAC,2016-04,1.0
+claro,quantidade de reabertas,SEAC,2016-04,313.0
+net,quantidade de reabertas,SEAC,2016-04,737.0
+oi,quantidade de reabertas,SEAC,2016-04,409.0
+sky,quantidade de reabertas,SEAC,2016-04,1182.0
+vivo,quantidade de reabertas,SEAC,2016-04,130.0
+algar,quantidade de reclamações,SEAC,2016-04,59.0
+claro,quantidade de reclamações,SEAC,2016-04,5921.0
+net,quantidade de reclamações,SEAC,2016-04,12134.0
+oi,quantidade de reclamações,SEAC,2016-04,5117.0
+sky,quantidade de reclamações,SEAC,2016-04,17720.0
+vivo,quantidade de reclamações,SEAC,2016-04,2724.0
+algar,quantidade de reclamações no período,SEAC,2016-04,220.0
+claro,quantidade de reclamações no período,SEAC,2016-04,23778.0
+net,quantidade de reclamações no período,SEAC,2016-04,41766.0
+oi,quantidade de reclamações no período,SEAC,2016-04,16167.0
+sky,quantidade de reclamações no período,SEAC,2016-04,66552.0
+vivo,quantidade de reclamações no período,SEAC,2016-04,8108.0
+algar,quantidade de respondidas,SEAC,2016-04,59.0
+claro,quantidade de respondidas,SEAC,2016-04,5919.0
+net,quantidade de respondidas,SEAC,2016-04,12131.0
+oi,quantidade de respondidas,SEAC,2016-04,5115.0
+sky,quantidade de respondidas,SEAC,2016-04,17589.0
+vivo,quantidade de respondidas,SEAC,2016-04,2710.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,55.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,5230.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,10630.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,4356.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,15321.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-04,2362.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-04,220.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-04,23777.0
+net,quantidade de sol. respondidas no período,SEAC,2016-04,41763.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-04,16103.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-04,66536.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-04,8103.0
+algar,taxa de reabertas,SEAC,2016-04,1.69491525423729
+claro,taxa de reabertas,SEAC,2016-04,5.28805541476601
+net,taxa de reabertas,SEAC,2016-04,6.07534415959113
+oi,taxa de reabertas,SEAC,2016-04,7.9960899315738
+sky,taxa de reabertas,SEAC,2016-04,6.72010915913355
+vivo,taxa de reabertas,SEAC,2016-04,4.7970479704797
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-04,93.2203389830508
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-04,88.329674041547
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-04,87.6050766441404
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-04,85.1280046902482
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-04,86.461625282167
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-04,86.7107195301028
+algar,taxa de respondidas no período,SEAC,2016-04,100.0
+claro,taxa de respondidas no período,SEAC,2016-04,99.996
+net,taxa de respondidas no período,SEAC,2016-04,99.993
+oi,taxa de respondidas no período,SEAC,2016-04,99.604
+sky,taxa de respondidas no período,SEAC,2016-04,99.976
+vivo,taxa de respondidas no período,SEAC,2016-04,99.938
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-05,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-05,77.7292532910107
+net,indicador de desempenho no atendimento (ida),SEAC,2016-05,84.493899318821
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-05,32.3564083688687
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-05,64.8957177164956
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-05,88.620562494132
+algar,índice de reclamações,SEAC,2016-05,0.431808591028195
+claro,índice de reclamações,SEAC,2016-05,2.09759853608431
+net,índice de reclamações,SEAC,2016-05,1.65789654427664
+oi,índice de reclamações,SEAC,2016-05,4.3786701346113
+sky,índice de reclamações,SEAC,2016-05,2.93177834842779
+vivo,índice de reclamações,SEAC,2016-05,1.38966343788142
+algar,quantidade de acessos em serviço,SEAC,2016-05,101897.0
+claro,quantidade de acessos em serviço,SEAC,2016-05,2566268.0
+net,quantidade de acessos em serviço,SEAC,2016-05,7250754.0
+oi,quantidade de acessos em serviço,SEAC,2016-05,1196482.0
+sky,quantidade de acessos em serviço,SEAC,2016-05,5345561.0
+vivo,quantidade de acessos em serviço,SEAC,2016-05,1768054.0
+algar,quantidade de reabertas,SEAC,2016-05,3.0
+claro,quantidade de reabertas,SEAC,2016-05,276.0
+net,quantidade de reabertas,SEAC,2016-05,640.0
+oi,quantidade de reabertas,SEAC,2016-05,432.0
+sky,quantidade de reabertas,SEAC,2016-05,1086.0
+vivo,quantidade de reabertas,SEAC,2016-05,124.0
+algar,quantidade de reclamações,SEAC,2016-05,44.0
+claro,quantidade de reclamações,SEAC,2016-05,5383.0
+net,quantidade de reclamações,SEAC,2016-05,12021.0
+oi,quantidade de reclamações,SEAC,2016-05,5239.0
+sky,quantidade de reclamações,SEAC,2016-05,15672.0
+vivo,quantidade de reclamações,SEAC,2016-05,2457.0
+algar,quantidade de reclamações no período,SEAC,2016-05,207.0
+claro,quantidade de reclamações no período,SEAC,2016-05,21533.0
+net,quantidade de reclamações no período,SEAC,2016-05,40420.0
+oi,quantidade de reclamações no período,SEAC,2016-05,16348.0
+sky,quantidade de reclamações no período,SEAC,2016-05,62496.0
+vivo,quantidade de reclamações no período,SEAC,2016-05,8154.0
+algar,quantidade de respondidas,SEAC,2016-05,44.0
+claro,quantidade de respondidas,SEAC,2016-05,5383.0
+net,quantidade de respondidas,SEAC,2016-05,12012.0
+oi,quantidade de respondidas,SEAC,2016-05,5235.0
+sky,quantidade de respondidas,SEAC,2016-05,15664.0
+vivo,quantidade de respondidas,SEAC,2016-05,2450.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,41.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,4775.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,10658.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,4434.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,13589.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-05,2143.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-05,207.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-05,21533.0
+net,quantidade de sol. respondidas no período,SEAC,2016-05,40418.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-05,16325.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-05,62487.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-05,8141.0
+algar,taxa de reabertas,SEAC,2016-05,6.81818181818182
+claro,taxa de reabertas,SEAC,2016-05,5.12725246145272
+net,taxa de reabertas,SEAC,2016-05,5.32800532800533
+oi,taxa de reabertas,SEAC,2016-05,8.25214899713467
+sky,taxa de reabertas,SEAC,2016-05,6.93309499489275
+vivo,taxa de reabertas,SEAC,2016-05,5.06122448979592
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-05,93.1818181818182
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-05,88.7051829834665
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-05,88.6615090258714
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-05,84.6344722275243
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-05,86.7087799897907
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-05,87.2201872201872
+algar,taxa de respondidas no período,SEAC,2016-05,100.0
+claro,taxa de respondidas no período,SEAC,2016-05,100.0
+net,taxa de respondidas no período,SEAC,2016-05,99.995
+oi,taxa de respondidas no período,SEAC,2016-05,99.859
+sky,taxa de respondidas no período,SEAC,2016-05,99.986
+vivo,taxa de respondidas no período,SEAC,2016-05,99.841
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-06,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-06,78.7473483805901
+net,indicador de desempenho no atendimento (ida),SEAC,2016-06,83.7013962719605
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-06,35.7340568758746
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-06,67.7463243092007
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-06,89.4120687535623
+algar,índice de reclamações,SEAC,2016-06,0.578885400313972
+claro,índice de reclamações,SEAC,2016-06,2.03142235526165
+net,índice de reclamações,SEAC,2016-06,1.70940924232257
+oi,índice de reclamações,SEAC,2016-06,4.49938825195582
+sky,índice de reclamações,SEAC,2016-06,2.74648891990196
+vivo,índice de reclamações,SEAC,2016-06,1.33821553101845
+algar,quantidade de acessos em serviço,SEAC,2016-06,101920.0
+claro,quantidade de acessos em serviço,SEAC,2016-06,2558306.0
+net,quantidade de acessos em serviço,SEAC,2016-06,7261573.0
+oi,quantidade de acessos em serviço,SEAC,2016-06,1208831.0
+sky,quantidade de acessos em serviço,SEAC,2016-06,5348283.0
+vivo,quantidade de acessos em serviço,SEAC,2016-06,1762048.0
+algar,quantidade de reabertas,SEAC,2016-06,2.0
+claro,quantidade de reabertas,SEAC,2016-06,272.0
+net,quantidade de reabertas,SEAC,2016-06,749.0
+oi,quantidade de reabertas,SEAC,2016-06,439.0
+sky,quantidade de reabertas,SEAC,2016-06,1172.0
+vivo,quantidade de reabertas,SEAC,2016-06,142.0
+algar,quantidade de reclamações,SEAC,2016-06,59.0
+claro,quantidade de reclamações,SEAC,2016-06,5197.0
+net,quantidade de reclamações,SEAC,2016-06,12413.0
+oi,quantidade de reclamações,SEAC,2016-06,5439.0
+sky,quantidade de reclamações,SEAC,2016-06,14689.0
+vivo,quantidade de reclamações,SEAC,2016-06,2358.0
+algar,quantidade de reclamações no período,SEAC,2016-06,170.0
+claro,quantidade de reclamações no período,SEAC,2016-06,18755.0
+net,quantidade de reclamações no período,SEAC,2016-06,39145.0
+oi,quantidade de reclamações no período,SEAC,2016-06,16319.0
+sky,quantidade de reclamações no período,SEAC,2016-06,55778.0
+vivo,quantidade de reclamações no período,SEAC,2016-06,8034.0
+algar,quantidade de respondidas,SEAC,2016-06,59.0
+claro,quantidade de respondidas,SEAC,2016-06,5194.0
+net,quantidade de respondidas,SEAC,2016-06,12412.0
+oi,quantidade de respondidas,SEAC,2016-06,5439.0
+sky,quantidade de respondidas,SEAC,2016-06,14684.0
+vivo,quantidade de respondidas,SEAC,2016-06,2336.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,53.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,4619.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,10810.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,4626.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,12626.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-06,2030.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-06,170.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-06,18731.0
+net,quantidade de sol. respondidas no período,SEAC,2016-06,39132.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-06,16268.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-06,55766.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-06,8013.0
+algar,taxa de reabertas,SEAC,2016-06,3.38983050847458
+claro,taxa de reabertas,SEAC,2016-06,5.2368117058144
+net,taxa de reabertas,SEAC,2016-06,6.03448275862069
+oi,taxa de reabertas,SEAC,2016-06,8.07133664276521
+sky,taxa de reabertas,SEAC,2016-06,7.98147643693816
+vivo,taxa de reabertas,SEAC,2016-06,6.07876712328767
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-06,89.8305084745763
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-06,88.878198960939
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-06,87.0861193909611
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-06,85.0523993381136
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-06,85.9554768874668
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-06,86.0899067005937
+algar,taxa de respondidas no período,SEAC,2016-06,100.0
+claro,taxa de respondidas no período,SEAC,2016-06,99.872
+net,taxa de respondidas no período,SEAC,2016-06,99.967
+oi,taxa de respondidas no período,SEAC,2016-06,99.687
+sky,taxa de respondidas no período,SEAC,2016-06,99.978
+vivo,taxa de respondidas no período,SEAC,2016-06,99.739
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-07,86.7591937955587
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-07,77.0594039157158
+net,indicador de desempenho no atendimento (ida),SEAC,2016-07,84.2249029920037
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-07,52.6600495710282
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-07,71.0513744579063
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-07,87.3398882946574
+algar,índice de reclamações,SEAC,2016-07,0.674255344465157
+claro,índice de reclamações,SEAC,2016-07,2.14113874547847
+net,índice de reclamações,SEAC,2016-07,1.67538130551976
+oi,índice de reclamações,SEAC,2016-07,3.72709677788317
+sky,índice de reclamações,SEAC,2016-07,2.53166066023609
+vivo,índice de reclamações,SEAC,2016-07,1.47290726084727
+algar,quantidade de acessos em serviço,SEAC,2016-07,100852.0
+claro,quantidade de acessos em serviço,SEAC,2016-07,2562188.0
+net,quantidade de acessos em serviço,SEAC,2016-07,7278940.0
+oi,quantidade de acessos em serviço,SEAC,2016-07,1224009.0
+sky,quantidade de acessos em serviço,SEAC,2016-07,5368413.0
+vivo,quantidade de acessos em serviço,SEAC,2016-07,1759106.0
+algar,quantidade de reabertas,SEAC,2016-07,6.0
+claro,quantidade de reabertas,SEAC,2016-07,280.0
+net,quantidade de reabertas,SEAC,2016-07,729.0
+oi,quantidade de reabertas,SEAC,2016-07,323.0
+sky,quantidade de reabertas,SEAC,2016-07,935.0
+vivo,quantidade de reabertas,SEAC,2016-07,154.0
+algar,quantidade de reclamações,SEAC,2016-07,68.0
+claro,quantidade de reclamações,SEAC,2016-07,5486.0
+net,quantidade de reclamações,SEAC,2016-07,12195.0
+oi,quantidade de reclamações,SEAC,2016-07,4562.0
+sky,quantidade de reclamações,SEAC,2016-07,13591.0
+vivo,quantidade de reclamações,SEAC,2016-07,2591.0
+algar,quantidade de reclamações no período,SEAC,2016-07,162.0
+claro,quantidade de reclamações no período,SEAC,2016-07,16499.0
+net,quantidade de reclamações no período,SEAC,2016-07,36574.0
+oi,quantidade de reclamações no período,SEAC,2016-07,15810.0
+sky,quantidade de reclamações no período,SEAC,2016-07,48077.0
+vivo,quantidade de reclamações no período,SEAC,2016-07,7539.0
+algar,quantidade de respondidas,SEAC,2016-07,68.0
+claro,quantidade de respondidas,SEAC,2016-07,5478.0
+net,quantidade de respondidas,SEAC,2016-07,12191.0
+oi,quantidade de respondidas,SEAC,2016-07,4513.0
+sky,quantidade de respondidas,SEAC,2016-07,13564.0
+vivo,quantidade de respondidas,SEAC,2016-07,2569.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,53.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,4985.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,10679.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,3902.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,11749.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-07,2252.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-07,162.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-07,16475.0
+net,quantidade de sol. respondidas no período,SEAC,2016-07,36564.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-07,15756.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-07,48056.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-07,7506.0
+algar,taxa de reabertas,SEAC,2016-07,8.82352941176471
+claro,taxa de reabertas,SEAC,2016-07,5.11135450894487
+net,taxa de reabertas,SEAC,2016-07,5.97982117955869
+oi,taxa de reabertas,SEAC,2016-07,7.15710170618214
+sky,taxa de reabertas,SEAC,2016-07,6.8932468298437
+vivo,taxa de reabertas,SEAC,2016-07,5.99455040871935
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-07,77.9411764705882
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-07,90.8676631425447
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-07,87.5686756867569
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-07,85.5326611135467
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-07,86.4469133985726
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-07,86.9162485526824
+algar,taxa de respondidas no período,SEAC,2016-07,100.0
+claro,taxa de respondidas no período,SEAC,2016-07,99.855
+net,taxa de respondidas no período,SEAC,2016-07,99.973
+oi,taxa de respondidas no período,SEAC,2016-07,99.658
+sky,taxa de respondidas no período,SEAC,2016-07,99.956
+vivo,taxa de respondidas no período,SEAC,2016-07,99.562
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-08,91.1152875811529
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-08,73.4642368203359
+net,indicador de desempenho no atendimento (ida),SEAC,2016-08,82.5936628158905
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-08,46.9466736274633
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-08,69.5387340545232
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-08,85.1574676992524
+algar,índice de reclamações,SEAC,2016-08,0.726650142841501
+claro,índice de reclamações,SEAC,2016-08,2.37482460667817
+net,índice de reclamações,SEAC,2016-08,1.78141191696712
+oi,índice de reclamações,SEAC,2016-08,4.09846621421489
+sky,índice de reclamações,SEAC,2016-08,2.629982286456
+vivo,índice de reclamações,SEAC,2016-08,1.61476459954859
+algar,quantidade de acessos em serviço,SEAC,2016-08,100461.0
+claro,quantidade de acessos em serviço,SEAC,2016-08,2574927.0
+net,quantidade de acessos em serviço,SEAC,2016-08,7397503.0
+oi,quantidade de acessos em serviço,SEAC,2016-08,1242416.0
+sky,quantidade de acessos em serviço,SEAC,2016-08,5323610.0
+vivo,quantidade de acessos em serviço,SEAC,2016-08,1762486.0
+algar,quantidade de reabertas,SEAC,2016-08,9.0
+claro,quantidade de reabertas,SEAC,2016-08,347.0
+net,quantidade de reabertas,SEAC,2016-08,944.0
+oi,quantidade de reabertas,SEAC,2016-08,359.0
+sky,quantidade de reabertas,SEAC,2016-08,981.0
+vivo,quantidade de reabertas,SEAC,2016-08,179.0
+algar,quantidade de reclamações,SEAC,2016-08,73.0
+claro,quantidade de reclamações,SEAC,2016-08,6115.0
+net,quantidade de reclamações,SEAC,2016-08,13178.0
+oi,quantidade de reclamações,SEAC,2016-08,5092.0
+sky,quantidade de reclamações,SEAC,2016-08,14001.0
+vivo,quantidade de reclamações,SEAC,2016-08,2846.0
+algar,quantidade de reclamações no período,SEAC,2016-08,171.0
+claro,quantidade de reclamações no período,SEAC,2016-08,16063.0
+net,quantidade de reclamações no período,SEAC,2016-08,36750.0
+oi,quantidade de reclamações no período,SEAC,2016-08,15254.0
+sky,quantidade de reclamações no período,SEAC,2016-08,43946.0
+vivo,quantidade de reclamações no período,SEAC,2016-08,6943.0
+algar,quantidade de respondidas,SEAC,2016-08,73.0
+claro,quantidade de respondidas,SEAC,2016-08,6113.0
+net,quantidade de respondidas,SEAC,2016-08,13177.0
+oi,quantidade de respondidas,SEAC,2016-08,5048.0
+sky,quantidade de respondidas,SEAC,2016-08,14000.0
+vivo,quantidade de respondidas,SEAC,2016-08,2825.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,63.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,5484.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,11474.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,4340.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,12015.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-08,2506.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-08,171.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-08,16051.0
+net,quantidade de sol. respondidas no período,SEAC,2016-08,36742.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-08,15211.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-08,43936.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-08,6895.0
+algar,taxa de reabertas,SEAC,2016-08,12.3287671232877
+claro,taxa de reabertas,SEAC,2016-08,5.67642728611157
+net,taxa de reabertas,SEAC,2016-08,7.16399787508538
+oi,taxa de reabertas,SEAC,2016-08,7.11172741679873
+sky,taxa de reabertas,SEAC,2016-08,7.00714285714286
+vivo,taxa de reabertas,SEAC,2016-08,6.33628318584071
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-08,86.3013698630137
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-08,89.6811120196239
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-08,87.069358020944
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-08,85.2317360565593
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-08,85.8152989072209
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-08,88.0534082923401
+algar,taxa de respondidas no período,SEAC,2016-08,100.0
+claro,taxa de respondidas no período,SEAC,2016-08,99.925
+net,taxa de respondidas no período,SEAC,2016-08,99.978
+oi,taxa de respondidas no período,SEAC,2016-08,99.718
+sky,taxa de respondidas no período,SEAC,2016-08,99.977
+vivo,taxa de respondidas no período,SEAC,2016-08,99.309
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-09,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-09,75.044
+net,indicador de desempenho no atendimento (ida),SEAC,2016-09,86.127
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-09,57.322
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-09,76.251
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-09,87.72
+algar,índice de reclamações,SEAC,2016-09,0.47
+claro,índice de reclamações,SEAC,2016-09,2.272
+net,índice de reclamações,SEAC,2016-09,1.552
+oi,índice de reclamações,SEAC,2016-09,3.424
+sky,índice de reclamações,SEAC,2016-09,2.194
+vivo,índice de reclamações,SEAC,2016-09,1.448
+algar,quantidade de acessos em serviço,SEAC,2016-09,100090.0
+claro,quantidade de acessos em serviço,SEAC,2016-09,2591386.0
+net,quantidade de acessos em serviço,SEAC,2016-09,7404664.0
+oi,quantidade de acessos em serviço,SEAC,2016-09,1259024.0
+sky,quantidade de acessos em serviço,SEAC,2016-09,5337536.0
+vivo,quantidade de acessos em serviço,SEAC,2016-09,1762913.0
+algar,quantidade de reabertas,SEAC,2016-09,2.0
+claro,quantidade de reabertas,SEAC,2016-09,369.0
+net,quantidade de reabertas,SEAC,2016-09,773.0
+oi,quantidade de reabertas,SEAC,2016-09,301.0
+sky,quantidade de reabertas,SEAC,2016-09,903.0
+vivo,quantidade de reabertas,SEAC,2016-09,189.0
+algar,quantidade de reclamações,SEAC,2016-09,47.0
+claro,quantidade de reclamações,SEAC,2016-09,5888.0
+net,quantidade de reclamações,SEAC,2016-09,11490.0
+oi,quantidade de reclamações,SEAC,2016-09,4311.0
+sky,quantidade de reclamações,SEAC,2016-09,11709.0
+vivo,quantidade de reclamações,SEAC,2016-09,2553.0
+algar,quantidade de reclamações no período,SEAC,2016-09,200.0
+claro,quantidade de reclamações no período,SEAC,2016-09,16794.0
+net,quantidade de reclamações no período,SEAC,2016-09,37878.0
+oi,quantidade de reclamações no período,SEAC,2016-09,15108.0
+sky,quantidade de reclamações no período,SEAC,2016-09,42280.0
+vivo,quantidade de reclamações no período,SEAC,2016-09,7772.0
+algar,quantidade de respondidas,SEAC,2016-09,47.0
+claro,quantidade de respondidas,SEAC,2016-09,5867.0
+net,quantidade de respondidas,SEAC,2016-09,11483.0
+oi,quantidade de respondidas,SEAC,2016-09,4282.0
+sky,quantidade de respondidas,SEAC,2016-09,11707.0
+vivo,quantidade de respondidas,SEAC,2016-09,2519.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,44.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,5225.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,10134.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,3721.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,10106.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-09,2188.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-09,200.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-09,16793.0
+net,quantidade de sol. respondidas no período,SEAC,2016-09,37869.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-09,15063.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-09,42277.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-09,7743.0
+algar,taxa de reabertas,SEAC,2016-09,4.255
+claro,taxa de reabertas,SEAC,2016-09,6.289
+net,taxa de reabertas,SEAC,2016-09,6.732
+oi,taxa de reabertas,SEAC,2016-09,7.029
+sky,taxa de reabertas,SEAC,2016-09,7.713
+vivo,taxa de reabertas,SEAC,2016-09,7.503
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-09,93.617
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-09,88.74
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-09,88.198
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-09,86.314
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-09,86.31
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-09,85.703
+algar,taxa de respondidas no período,SEAC,2016-09,100.0
+claro,taxa de respondidas no período,SEAC,2016-09,99.994
+net,taxa de respondidas no período,SEAC,2016-09,99.976
+oi,taxa de respondidas no período,SEAC,2016-09,99.702
+sky,taxa de respondidas no período,SEAC,2016-09,99.993
+vivo,taxa de respondidas no período,SEAC,2016-09,99.627
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-10,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-10,75.316
+net,indicador de desempenho no atendimento (ida),SEAC,2016-10,85.975
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-10,57.47
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-10,75.971
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-10,89.847
+algar,índice de reclamações,SEAC,2016-10,0.462
+claro,índice de reclamações,SEAC,2016-10,2.254
+net,índice de reclamações,SEAC,2016-10,1.562
+oi,índice de reclamações,SEAC,2016-10,3.414
+sky,índice de reclamações,SEAC,2016-10,2.212
+vivo,índice de reclamações,SEAC,2016-10,1.31
+algar,quantidade de acessos em serviço,SEAC,2016-10,99631.0
+claro,quantidade de acessos em serviço,SEAC,2016-10,2602420.0
+net,quantidade de acessos em serviço,SEAC,2016-10,7408416.0
+oi,quantidade de acessos em serviço,SEAC,2016-10,1274002.0
+sky,quantidade de acessos em serviço,SEAC,2016-10,5310825.0
+vivo,quantidade de acessos em serviço,SEAC,2016-10,1749717.0
+algar,quantidade de reabertas,SEAC,2016-10,3.0
+claro,quantidade de reabertas,SEAC,2016-10,263.0
+net,quantidade de reabertas,SEAC,2016-10,807.0
+oi,quantidade de reabertas,SEAC,2016-10,271.0
+sky,quantidade de reabertas,SEAC,2016-10,938.0
+vivo,quantidade de reabertas,SEAC,2016-10,131.0
+algar,quantidade de reclamações,SEAC,2016-10,46.0
+claro,quantidade de reclamações,SEAC,2016-10,5867.0
+net,quantidade de reclamações,SEAC,2016-10,11569.0
+oi,quantidade de reclamações,SEAC,2016-10,4350.0
+sky,quantidade de reclamações,SEAC,2016-10,11747.0
+vivo,quantidade de reclamações,SEAC,2016-10,2292.0
+algar,quantidade de reclamações no período,SEAC,2016-10,188.0
+claro,quantidade de reclamações no período,SEAC,2016-10,17488.0
+net,quantidade de reclamações no período,SEAC,2016-10,36906.0
+oi,quantidade de reclamações no período,SEAC,2016-10,13966.0
+sky,quantidade de reclamações no período,SEAC,2016-10,39299.0
+vivo,quantidade de reclamações no período,SEAC,2016-10,7992.0
+algar,quantidade de respondidas,SEAC,2016-10,46.0
+claro,quantidade de respondidas,SEAC,2016-10,5865.0
+net,quantidade de respondidas,SEAC,2016-10,11568.0
+oi,quantidade de respondidas,SEAC,2016-10,4339.0
+sky,quantidade de respondidas,SEAC,2016-10,11742.0
+vivo,quantidade de respondidas,SEAC,2016-10,2271.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,42.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,5311.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,9981.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,3802.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,10020.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-10,1986.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-10,188.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-10,17488.0
+net,quantidade de sol. respondidas no período,SEAC,2016-10,36904.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-10,13947.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-10,39297.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-10,7975.0
+algar,taxa de reabertas,SEAC,2016-10,6.522
+claro,taxa de reabertas,SEAC,2016-10,4.484
+net,taxa de reabertas,SEAC,2016-10,6.976
+oi,taxa de reabertas,SEAC,2016-10,6.246
+sky,taxa de reabertas,SEAC,2016-10,7.988
+vivo,taxa de reabertas,SEAC,2016-10,5.768
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-10,91.304
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-10,90.523
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-10,86.274
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-10,87.402
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-10,85.298
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-10,86.649
+algar,taxa de respondidas no período,SEAC,2016-10,100.0
+claro,taxa de respondidas no período,SEAC,2016-10,100.0
+net,taxa de respondidas no período,SEAC,2016-10,99.995
+oi,taxa de respondidas no período,SEAC,2016-10,99.864
+sky,taxa de respondidas no período,SEAC,2016-10,99.995
+vivo,taxa de respondidas no período,SEAC,2016-10,99.787
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-11,85.639880952381
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-11,71.5494672426663
+net,indicador de desempenho no atendimento (ida),SEAC,2016-11,84.7830210693505
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-11,50.8712341589684
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-11,74.4819790459508
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-11,87.008523389536
+algar,índice de reclamações,SEAC,2016-11,0.567467877264805
+claro,índice de reclamações,SEAC,2016-11,2.49928462922669
+net,índice de reclamações,SEAC,2016-11,1.63910363049222
+oi,índice de reclamações,SEAC,2016-11,3.49345046072648
+sky,índice de reclamações,SEAC,2016-11,2.3086713620132
+vivo,índice de reclamações,SEAC,2016-11,1.49444597968016
+algar,quantidade de acessos em serviço,SEAC,2016-11,98684.0
+claro,quantidade de acessos em serviço,SEAC,2016-11,2603545.0
+net,quantidade de acessos em serviço,SEAC,2016-11,7398556.0
+oi,quantidade de acessos em serviço,SEAC,2016-11,1286121.0
+sky,quantidade de acessos em serviço,SEAC,2016-11,5247607.0
+vivo,quantidade de acessos em serviço,SEAC,2016-11,1729738.0
+algar,quantidade de reabertas,SEAC,2016-11,7.0
+claro,quantidade de reabertas,SEAC,2016-11,343.0
+net,quantidade de reabertas,SEAC,2016-11,773.0
+oi,quantidade de reabertas,SEAC,2016-11,387.0
+sky,quantidade de reabertas,SEAC,2016-11,879.0
+vivo,quantidade de reabertas,SEAC,2016-11,133.0
+algar,quantidade de reclamações,SEAC,2016-11,56.0
+claro,quantidade de reclamações,SEAC,2016-11,6507.0
+net,quantidade de reclamações,SEAC,2016-11,12127.0
+oi,quantidade de reclamações,SEAC,2016-11,4493.0
+sky,quantidade de reclamações,SEAC,2016-11,12115.0
+vivo,quantidade de reclamações,SEAC,2016-11,2585.0
+algar,quantidade de reclamações no período,SEAC,2016-11,166.0
+claro,quantidade de reclamações no período,SEAC,2016-11,17870.0
+net,quantidade de reclamações no período,SEAC,2016-11,36236.0
+oi,quantidade de reclamações no período,SEAC,2016-11,13755.0
+sky,quantidade de reclamações no período,SEAC,2016-11,37456.0
+vivo,quantidade de reclamações no período,SEAC,2016-11,7692.0
+algar,quantidade de respondidas,SEAC,2016-11,56.0
+claro,quantidade de respondidas,SEAC,2016-11,6507.0
+net,quantidade de respondidas,SEAC,2016-11,12126.0
+oi,quantidade de respondidas,SEAC,2016-11,4493.0
+sky,quantidade de respondidas,SEAC,2016-11,12096.0
+vivo,quantidade de respondidas,SEAC,2016-11,2578.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,45.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,5822.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,10480.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,3824.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,10454.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-11,2268.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-11,166.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-11,17870.0
+net,quantidade de sol. respondidas no período,SEAC,2016-11,36232.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-11,13714.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-11,37456.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-11,7649.0
+algar,taxa de reabertas,SEAC,2016-11,12.5
+claro,taxa de reabertas,SEAC,2016-11,5.27124635008452
+net,taxa de reabertas,SEAC,2016-11,6.37473198086756
+oi,taxa de reabertas,SEAC,2016-11,8.61339862007567
+sky,taxa de reabertas,SEAC,2016-11,7.26686507936508
+vivo,taxa de reabertas,SEAC,2016-11,5.15903801396431
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-11,80.3571428571429
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-11,89.4728753649915
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-11,86.4187350540117
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-11,85.1101713776986
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-11,86.2897234832852
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-11,87.7369439071567
+algar,taxa de respondidas no período,SEAC,2016-11,100.0
+claro,taxa de respondidas no período,SEAC,2016-11,100.0
+net,taxa de respondidas no período,SEAC,2016-11,99.989
+oi,taxa de respondidas no período,SEAC,2016-11,99.702
+sky,taxa de respondidas no período,SEAC,2016-11,100.0
+vivo,taxa de respondidas no período,SEAC,2016-11,99.441
+algar,indicador de desempenho no atendimento (ida),SEAC,2016-12,100.0
+claro,indicador de desempenho no atendimento (ida),SEAC,2016-12,74.3499487383604
+net,indicador de desempenho no atendimento (ida),SEAC,2016-12,85.1763518961459
+oi,indicador de desempenho no atendimento (ida),SEAC,2016-12,55.0101649217341
+sky,indicador de desempenho no atendimento (ida),SEAC,2016-12,76.1434840435782
+vivo,indicador de desempenho no atendimento (ida),SEAC,2016-12,87.7631487165961
+algar,índice de reclamações,SEAC,2016-12,0.622137910636518
+claro,índice de reclamações,SEAC,2016-12,2.31725333200658
+net,índice de reclamações,SEAC,2016-12,1.61353712675052
+oi,índice de reclamações,SEAC,2016-12,3.57433928008728
+sky,índice de reclamações,SEAC,2016-12,2.20067353716742
+vivo,índice de reclamações,SEAC,2016-12,1.44539533342125
+algar,quantidade de acessos em serviço,SEAC,2016-12,98049.0
+claro,quantidade de acessos em serviço,SEAC,2016-12,2552591.0
+net,quantidade de acessos em serviço,SEAC,2016-12,7404230.0
+oi,quantidade de acessos em serviço,SEAC,2016-12,1304297.0
+sky,quantidade de acessos em serviço,SEAC,2016-12,5249302.0
+vivo,quantidade de acessos em serviço,SEAC,2016-12,1713718.0
+algar,quantidade de reabertas,SEAC,2016-12,4.0
+claro,quantidade de reabertas,SEAC,2016-12,257.0
+net,quantidade de reabertas,SEAC,2016-12,659.0
+oi,quantidade de reabertas,SEAC,2016-12,344.0
+sky,quantidade de reabertas,SEAC,2016-12,820.0
+vivo,quantidade de reabertas,SEAC,2016-12,145.0
+algar,quantidade de reclamações,SEAC,2016-12,61.0
+claro,quantidade de reclamações,SEAC,2016-12,5915.0
+net,quantidade de reclamações,SEAC,2016-12,11947.0
+oi,quantidade de reclamações,SEAC,2016-12,4662.0
+sky,quantidade de reclamações,SEAC,2016-12,11552.0
+vivo,quantidade de reclamações,SEAC,2016-12,2477.0
+algar,quantidade de reclamações no período,SEAC,2016-12,149.0
+claro,quantidade de reclamações no período,SEAC,2016-12,18262.0
+net,quantidade de reclamações no período,SEAC,2016-12,35185.0
+oi,quantidade de reclamações no período,SEAC,2016-12,13156.0
+sky,quantidade de reclamações no período,SEAC,2016-12,35570.0
+vivo,quantidade de reclamações no período,SEAC,2016-12,7430.0
+algar,quantidade de respondidas,SEAC,2016-12,61.0
+claro,quantidade de respondidas,SEAC,2016-12,5915.0
+net,quantidade de respondidas,SEAC,2016-12,11946.0
+oi,quantidade de respondidas,SEAC,2016-12,4635.0
+sky,quantidade de respondidas,SEAC,2016-12,11548.0
+vivo,quantidade de respondidas,SEAC,2016-12,2466.0
+algar,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,55.0
+claro,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,5277.0
+net,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,10413.0
+oi,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,4002.0
+sky,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,9983.0
+vivo,quantidade de sol. respondidas em até 5 dias,SEAC,2016-12,2158.0
+algar,quantidade de sol. respondidas no período,SEAC,2016-12,149.0
+claro,quantidade de sol. respondidas no período,SEAC,2016-12,18262.0
+net,quantidade de sol. respondidas no período,SEAC,2016-12,35184.0
+oi,quantidade de sol. respondidas no período,SEAC,2016-12,13147.0
+sky,quantidade de sol. respondidas no período,SEAC,2016-12,35570.0
+vivo,quantidade de sol. respondidas no período,SEAC,2016-12,7412.0
+algar,taxa de reabertas,SEAC,2016-12,6.55737704918033
+claro,taxa de reabertas,SEAC,2016-12,4.34488588334742
+net,taxa de reabertas,SEAC,2016-12,5.5164908756069
+oi,taxa de reabertas,SEAC,2016-12,7.4217907227616
+sky,taxa de reabertas,SEAC,2016-12,7.10079667474887
+vivo,taxa de reabertas,SEAC,2016-12,5.87996755879968
+algar,taxa de respondidas em 5 dias úteis,SEAC,2016-12,90.1639344262295
+claro,taxa de respondidas em 5 dias úteis,SEAC,2016-12,89.2138630600169
+net,taxa de respondidas em 5 dias úteis,SEAC,2016-12,87.1599564744287
+oi,taxa de respondidas em 5 dias úteis,SEAC,2016-12,85.8429858429858
+sky,taxa de respondidas em 5 dias úteis,SEAC,2016-12,86.4179362880887
+vivo,taxa de respondidas em 5 dias úteis,SEAC,2016-12,87.1215179652806
+algar,taxa de respondidas no período,SEAC,2016-12,100.0
+claro,taxa de respondidas no período,SEAC,2016-12,100.0
+net,taxa de respondidas no período,SEAC,2016-12,99.997
+oi,taxa de respondidas no período,SEAC,2016-12,99.932
+sky,taxa de respondidas no período,SEAC,2016-12,100.0
+vivo,taxa de respondidas no período,SEAC,2016-12,99.758

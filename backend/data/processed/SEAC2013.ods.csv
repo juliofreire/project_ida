@@ -1,0 +1,673 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-01,96.324
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-01,91.4
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-01,42.037
+net,indicador de desempenho no atendimento (ida),SEAC,2013-01,98.611
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-01,56.528
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-01,75.938
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-01,80.97
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-01,72.027
+claro tv,quantidade de reclamações,SEAC,2013-01,2856.0
+ctbc tv,quantidade de reclamações,SEAC,2013-01,140.0
+gvt,quantidade de reclamações,SEAC,2013-01,1995.0
+net,quantidade de reclamações,SEAC,2013-01,4017.0
+oi tv,quantidade de reclamações,SEAC,2013-01,2767.0
+sky,quantidade de reclamações,SEAC,2013-01,9163.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-01,900.0
+viacabo,quantidade de reclamações,SEAC,2013-01,35.0
+claro tv,número de assinantes,SEAC,2013-01,3212857.0
+ctbc tv,número de assinantes,SEAC,2013-01,115798.0
+gvt,número de assinantes,SEAC,2013-01,451605.0
+net,número de assinantes,SEAC,2013-01,5426127.0
+oi tv,número de assinantes,SEAC,2013-01,792107.0
+sky,número de assinantes,SEAC,2013-01,5144946.0
+telefônica vivo,número de assinantes,SEAC,2013-01,586152.0
+viacabo,número de assinantes,SEAC,2013-01,107935.0
+claro tv,índice de reclamações,SEAC,2013-01,0.889
+ctbc tv,índice de reclamações,SEAC,2013-01,1.209
+gvt,índice de reclamações,SEAC,2013-01,4.418
+net,índice de reclamações,SEAC,2013-01,0.74
+oi tv,índice de reclamações,SEAC,2013-01,3.493
+sky,índice de reclamações,SEAC,2013-01,1.781
+telefônica vivo,índice de reclamações,SEAC,2013-01,1.535
+viacabo,índice de reclamações,SEAC,2013-01,0.324
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,88.761
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,92.857
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,87.769
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,88.499
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,86.592
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,86.871
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,83.778
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-01,65.714
+claro tv,taxa de reabertas,SEAC,2013-01,6.406
+ctbc tv,taxa de reabertas,SEAC,2013-01,5.0
+gvt,taxa de reabertas,SEAC,2013-01,7.402
+net,taxa de reabertas,SEAC,2013-01,6.757
+oi tv,taxa de reabertas,SEAC,2013-01,6.65
+sky,taxa de reabertas,SEAC,2013-01,10.659
+telefônica vivo,taxa de reabertas,SEAC,2013-01,6.286
+viacabo,taxa de reabertas,SEAC,2013-01,26.471
+claro tv,taxa de resolvidas no período,SEAC,2013-01,99.577
+ctbc tv,taxa de resolvidas no período,SEAC,2013-01,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-01,100.0
+net,taxa de resolvidas no período,SEAC,2013-01,99.754
+oi tv,taxa de resolvidas no período,SEAC,2013-01,99.603
+sky,taxa de resolvidas no período,SEAC,2013-01,99.249
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-01,99.048
+viacabo,taxa de resolvidas no período,SEAC,2013-01,100.0
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-02,97.03
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-02,95.954
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-02,23.982
+net,indicador de desempenho no atendimento (ida),SEAC,2013-02,85.625
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-02,59.92
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-02,75.667
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-02,82.6
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-02,59.019
+claro tv,quantidade de reclamações,SEAC,2013-02,2734.0
+ctbc tv,quantidade de reclamações,SEAC,2013-02,108.0
+gvt,quantidade de reclamações,SEAC,2013-02,2264.0
+net,quantidade de reclamações,SEAC,2013-02,4857.0
+oi tv,quantidade de reclamações,SEAC,2013-02,2634.0
+sky,quantidade de reclamações,SEAC,2013-02,7916.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-02,1006.0
+viacabo,quantidade de reclamações,SEAC,2013-02,33.0
+claro tv,número de assinantes,SEAC,2013-02,3242968.0
+ctbc tv,número de assinantes,SEAC,2013-02,118296.0
+gvt,número de assinantes,SEAC,2013-02,468223.0
+net,número de assinantes,SEAC,2013-02,5468283.0
+oi tv,número de assinantes,SEAC,2013-02,809160.0
+sky,número de assinantes,SEAC,2013-02,5216679.0
+telefônica vivo,número de assinantes,SEAC,2013-02,564857.0
+viacabo,número de assinantes,SEAC,2013-02,108512.0
+claro tv,índice de reclamações,SEAC,2013-02,0.843
+ctbc tv,índice de reclamações,SEAC,2013-02,0.913
+gvt,índice de reclamações,SEAC,2013-02,4.835
+net,índice de reclamações,SEAC,2013-02,0.888
+oi tv,índice de reclamações,SEAC,2013-02,3.255
+sky,índice de reclamações,SEAC,2013-02,1.517
+telefônica vivo,índice de reclamações,SEAC,2013-02,1.781
+viacabo,índice de reclamações,SEAC,2013-02,0.304
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,85.918
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,92.593
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,82.906
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,83.673
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,86.067
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,86.71
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,87.773
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-02,48.485
+claro tv,taxa de reabertas,SEAC,2013-02,7.403
+ctbc tv,taxa de reabertas,SEAC,2013-02,2.778
+gvt,taxa de reabertas,SEAC,2013-02,9.489
+net,taxa de reabertas,SEAC,2013-02,8.428
+oi tv,taxa de reabertas,SEAC,2013-02,6.737
+sky,taxa de reabertas,SEAC,2013-02,12.814
+telefônica vivo,taxa de reabertas,SEAC,2013-02,7.207
+viacabo,taxa de reabertas,SEAC,2013-02,38.095
+claro tv,taxa de resolvidas no período,SEAC,2013-02,99.1
+ctbc tv,taxa de resolvidas no período,SEAC,2013-02,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-02,100.0
+net,taxa de resolvidas no período,SEAC,2013-02,99.583
+oi tv,taxa de resolvidas no período,SEAC,2013-02,99.722
+sky,taxa de resolvidas no período,SEAC,2013-02,98.51
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-02,99.839
+viacabo,taxa de resolvidas no período,SEAC,2013-02,100.0
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-03,90.387
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-03,96.601
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-03,24.907
+net,indicador de desempenho no atendimento (ida),SEAC,2013-03,89.883
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-03,47.427
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-03,76.824
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-03,85.13
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-03,82.564
+claro tv,quantidade de reclamações,SEAC,2013-03,2857.0
+ctbc tv,quantidade de reclamações,SEAC,2013-03,105.0
+gvt,quantidade de reclamações,SEAC,2013-03,2381.0
+net,quantidade de reclamações,SEAC,2013-03,5350.0
+oi tv,quantidade de reclamações,SEAC,2013-03,3112.0
+sky,quantidade de reclamações,SEAC,2013-03,9008.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-03,898.0
+viacabo,quantidade de reclamações,SEAC,2013-03,44.0
+claro tv,número de assinantes,SEAC,2013-03,3273023.0
+ctbc tv,número de assinantes,SEAC,2013-03,120561.0
+gvt,número de assinantes,SEAC,2013-03,486964.0
+net,número de assinantes,SEAC,2013-03,5515176.0
+oi tv,número de assinantes,SEAC,2013-03,840263.0
+sky,número de assinantes,SEAC,2013-03,5258503.0
+telefônica vivo,número de assinantes,SEAC,2013-03,555512.0
+viacabo,número de assinantes,SEAC,2013-03,109777.0
+claro tv,índice de reclamações,SEAC,2013-03,0.873
+ctbc tv,índice de reclamações,SEAC,2013-03,0.871
+gvt,índice de reclamações,SEAC,2013-03,4.889
+net,índice de reclamações,SEAC,2013-03,0.97
+oi tv,índice de reclamações,SEAC,2013-03,3.704
+sky,índice de reclamações,SEAC,2013-03,1.713
+telefônica vivo,índice de reclamações,SEAC,2013-03,1.617
+viacabo,índice de reclamações,SEAC,2013-03,0.401
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,81.449
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,89.524
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,70.391
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,85.514
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,85.893
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,87.766
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,89.198
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-03,81.818
+claro tv,taxa de reabertas,SEAC,2013-03,7.499
+ctbc tv,taxa de reabertas,SEAC,2013-03,7.619
+gvt,taxa de reabertas,SEAC,2013-03,6.628
+net,taxa de reabertas,SEAC,2013-03,8.311
+oi tv,taxa de reabertas,SEAC,2013-03,8.952
+sky,taxa de reabertas,SEAC,2013-03,10.914
+telefônica vivo,taxa de reabertas,SEAC,2013-03,7.063
+viacabo,taxa de reabertas,SEAC,2013-03,15.0
+claro tv,taxa de resolvidas no período,SEAC,2013-03,99.105
+ctbc tv,taxa de resolvidas no período,SEAC,2013-03,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-03,99.964
+net,taxa de resolvidas no período,SEAC,2013-03,99.683
+oi tv,taxa de resolvidas no período,SEAC,2013-03,99.642
+sky,taxa de resolvidas no período,SEAC,2013-03,99.116
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-03,99.963
+viacabo,taxa de resolvidas no período,SEAC,2013-03,99.0
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-04,96.529
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-04,95.617
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-04,46.169
+net,indicador de desempenho no atendimento (ida),SEAC,2013-04,96.188
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-04,52.019
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-04,79.737
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-04,89.122
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-04,77.107
+claro tv,quantidade de reclamações,SEAC,2013-04,2894.0
+ctbc tv,quantidade de reclamações,SEAC,2013-04,118.0
+gvt,quantidade de reclamações,SEAC,2013-04,1892.0
+net,quantidade de reclamações,SEAC,2013-04,4971.0
+oi tv,quantidade de reclamações,SEAC,2013-04,3231.0
+sky,quantidade de reclamações,SEAC,2013-04,7591.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-04,722.0
+viacabo,quantidade de reclamações,SEAC,2013-04,57.0
+claro tv,número de assinantes,SEAC,2013-04,3305106.0
+ctbc tv,número de assinantes,SEAC,2013-04,126215.0
+gvt,número de assinantes,SEAC,2013-04,500958.0
+net,número de assinantes,SEAC,2013-04,5537135.0
+oi tv,número de assinantes,SEAC,2013-04,857313.0
+sky,número de assinantes,SEAC,2013-04,5342814.0
+telefônica vivo,número de assinantes,SEAC,2013-04,532033.0
+viacabo,número de assinantes,SEAC,2013-04,111341.0
+claro tv,índice de reclamações,SEAC,2013-04,0.876
+ctbc tv,índice de reclamações,SEAC,2013-04,0.935
+gvt,índice de reclamações,SEAC,2013-04,3.777
+net,índice de reclamações,SEAC,2013-04,0.898
+oi tv,índice de reclamações,SEAC,2013-04,3.769
+sky,índice de reclamações,SEAC,2013-04,1.421
+telefônica vivo,índice de reclamações,SEAC,2013-04,1.357
+viacabo,índice de reclamações,SEAC,2013-04,0.512
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,86.524
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,97.458
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,85.941
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,86.824
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,86.32
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,86.813
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,90.028
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-04,82.456
+claro tv,taxa de reabertas,SEAC,2013-04,7.712
+ctbc tv,taxa de reabertas,SEAC,2013-04,1.695
+gvt,taxa de reabertas,SEAC,2013-04,9.164
+net,taxa de reabertas,SEAC,2013-04,7.943
+oi tv,taxa de reabertas,SEAC,2013-04,6.444
+sky,taxa de reabertas,SEAC,2013-04,13.447
+telefônica vivo,taxa de reabertas,SEAC,2013-04,5.285
+viacabo,taxa de reabertas,SEAC,2013-04,27.273
+claro tv,taxa de resolvidas no período,SEAC,2013-04,99.563
+ctbc tv,taxa de resolvidas no período,SEAC,2013-04,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-04,100.0
+net,taxa de resolvidas no período,SEAC,2013-04,99.855
+oi tv,taxa de resolvidas no período,SEAC,2013-04,99.601
+sky,taxa de resolvidas no período,SEAC,2013-04,99.054
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-04,99.964
+viacabo,taxa de resolvidas no período,SEAC,2013-04,99.107
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-05,83.352
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-05,88.284
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-05,56.1
+net,indicador de desempenho no atendimento (ida),SEAC,2013-05,96.455
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-05,51.726
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-05,78.481
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-05,86.027
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-05,79.22
+claro tv,quantidade de reclamações,SEAC,2013-05,2787.0
+ctbc tv,quantidade de reclamações,SEAC,2013-05,134.0
+gvt,quantidade de reclamações,SEAC,2013-05,1632.0
+net,quantidade de reclamações,SEAC,2013-05,4907.0
+oi tv,quantidade de reclamações,SEAC,2013-05,3354.0
+sky,quantidade de reclamações,SEAC,2013-05,7213.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-05,828.0
+viacabo,quantidade de reclamações,SEAC,2013-05,65.0
+claro tv,número de assinantes,SEAC,2013-05,3335332.0
+ctbc tv,número de assinantes,SEAC,2013-05,124885.0
+gvt,número de assinantes,SEAC,2013-05,516257.0
+net,número de assinantes,SEAC,2013-05,5573333.0
+oi tv,número de assinantes,SEAC,2013-05,885472.0
+sky,número de assinantes,SEAC,2013-05,5212365.0
+telefônica vivo,número de assinantes,SEAC,2013-05,531364.0
+viacabo,número de assinantes,SEAC,2013-05,111892.0
+claro tv,índice de reclamações,SEAC,2013-05,0.836
+ctbc tv,índice de reclamações,SEAC,2013-05,1.073
+gvt,índice de reclamações,SEAC,2013-05,3.161
+net,índice de reclamações,SEAC,2013-05,0.88
+oi tv,índice de reclamações,SEAC,2013-05,3.788
+sky,índice de reclamações,SEAC,2013-05,1.384
+telefônica vivo,índice de reclamações,SEAC,2013-05,1.558
+viacabo,índice de reclamações,SEAC,2013-05,0.581
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,81.45
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,88.06
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,88.358
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,87.915
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,87.806
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,86.261
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,88.285
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-05,80.0
+claro tv,taxa de reabertas,SEAC,2013-05,8.34
+ctbc tv,taxa de reabertas,SEAC,2013-05,8.333
+gvt,taxa de reabertas,SEAC,2013-05,8.426
+net,taxa de reabertas,SEAC,2013-05,6.538
+oi tv,taxa de reabertas,SEAC,2013-05,5.953
+sky,taxa de reabertas,SEAC,2013-05,12.95
+telefônica vivo,taxa de reabertas,SEAC,2013-05,7.273
+viacabo,taxa de reabertas,SEAC,2013-05,22.581
+claro tv,taxa de resolvidas no período,SEAC,2013-05,98.802
+ctbc tv,taxa de resolvidas no período,SEAC,2013-05,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-05,100.0
+net,taxa de resolvidas no período,SEAC,2013-05,99.825
+oi tv,taxa de resolvidas no período,SEAC,2013-05,99.878
+sky,taxa de resolvidas no período,SEAC,2013-05,98.932
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-05,99.657
+viacabo,taxa de resolvidas no período,SEAC,2013-05,99.248
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-06,97.095
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-06,96.824
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-06,65.606
+net,indicador de desempenho no atendimento (ida),SEAC,2013-06,98.055
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-06,55.079
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-06,71.911
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-06,78.949
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-06,76.17
+claro tv,quantidade de reclamações,SEAC,2013-06,2819.0
+ctbc tv,quantidade de reclamações,SEAC,2013-06,108.0
+gvt,quantidade de reclamações,SEAC,2013-06,1337.0
+net,quantidade de reclamações,SEAC,2013-06,4367.0
+oi tv,quantidade de reclamações,SEAC,2013-06,3175.0
+sky,quantidade de reclamações,SEAC,2013-06,6581.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-06,1035.0
+viacabo,quantidade de reclamações,SEAC,2013-06,73.0
+claro tv,número de assinantes,SEAC,2013-06,3360527.0
+ctbc tv,número de assinantes,SEAC,2013-06,126105.0
+gvt,número de assinantes,SEAC,2013-06,530464.0
+net,número de assinantes,SEAC,2013-06,5624483.0
+oi tv,número de assinantes,SEAC,2013-06,889396.0
+sky,número de assinantes,SEAC,2013-06,5167826.0
+telefônica vivo,número de assinantes,SEAC,2013-06,512811.0
+viacabo,número de assinantes,SEAC,2013-06,113968.0
+claro tv,índice de reclamações,SEAC,2013-06,0.839
+ctbc tv,índice de reclamações,SEAC,2013-06,0.856
+gvt,índice de reclamações,SEAC,2013-06,2.52
+net,índice de reclamações,SEAC,2013-06,0.776
+oi tv,índice de reclamações,SEAC,2013-06,3.57
+sky,índice de reclamações,SEAC,2013-06,1.273
+telefônica vivo,índice de reclamações,SEAC,2013-06,2.018
+viacabo,índice de reclamações,SEAC,2013-06,0.641
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,86.52
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,93.519
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,89.678
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,87.864
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,88.126
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,83.711
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,89.372
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-06,64.384
+claro tv,taxa de reabertas,SEAC,2013-06,7.561
+ctbc tv,taxa de reabertas,SEAC,2013-06,4.63
+gvt,taxa de reabertas,SEAC,2013-06,8.989
+net,taxa de reabertas,SEAC,2013-06,6.306
+oi tv,taxa de reabertas,SEAC,2013-06,5.685
+sky,taxa de reabertas,SEAC,2013-06,13.859
+telefônica vivo,taxa de reabertas,SEAC,2013-06,4.795
+viacabo,taxa de reabertas,SEAC,2013-06,15.278
+claro tv,taxa de resolvidas no período,SEAC,2013-06,99.229
+ctbc tv,taxa de resolvidas no período,SEAC,2013-06,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-06,99.949
+net,taxa de resolvidas no período,SEAC,2013-06,99.857
+oi tv,taxa de resolvidas no período,SEAC,2013-06,99.753
+sky,taxa de resolvidas no período,SEAC,2013-06,97.797
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-06,99.836
+viacabo,taxa de resolvidas no período,SEAC,2013-06,98.795
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-07,95.094
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-07,84.609
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-07,66.601
+net,indicador de desempenho no atendimento (ida),SEAC,2013-07,96.901
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-07,46.757
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-07,75.022
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-07,54.8
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-07,70.575
+claro tv,quantidade de reclamações,SEAC,2013-07,3293.0
+ctbc tv,quantidade de reclamações,SEAC,2013-07,166.0
+gvt,quantidade de reclamações,SEAC,2013-07,1352.0
+net,quantidade de reclamações,SEAC,2013-07,4820.0
+oi tv,quantidade de reclamações,SEAC,2013-07,3699.0
+sky,quantidade de reclamações,SEAC,2013-07,7421.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-07,1885.0
+viacabo,quantidade de reclamações,SEAC,2013-07,94.0
+claro tv,número de assinantes,SEAC,2013-07,3398637.0
+ctbc tv,número de assinantes,SEAC,2013-07,126933.0
+gvt,número de assinantes,SEAC,2013-07,544355.0
+net,número de assinantes,SEAC,2013-07,5660955.0
+oi tv,número de assinantes,SEAC,2013-07,899827.0
+sky,número de assinantes,SEAC,2013-07,5226455.0
+telefônica vivo,número de assinantes,SEAC,2013-07,525362.0
+viacabo,número de assinantes,SEAC,2013-07,115159.0
+claro tv,índice de reclamações,SEAC,2013-07,0.969
+ctbc tv,índice de reclamações,SEAC,2013-07,1.308
+gvt,índice de reclamações,SEAC,2013-07,2.484
+net,índice de reclamações,SEAC,2013-07,0.851
+oi tv,índice de reclamações,SEAC,2013-07,4.111
+sky,índice de reclamações,SEAC,2013-07,1.42
+telefônica vivo,índice de reclamações,SEAC,2013-07,3.588
+viacabo,índice de reclamações,SEAC,2013-07,0.816
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,91.133
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,89.759
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,87.722
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,89.066
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,89.213
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,80.232
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,88.753
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-07,72.34
+claro tv,taxa de reabertas,SEAC,2013-07,6.961
+ctbc tv,taxa de reabertas,SEAC,2013-07,8.434
+gvt,taxa de reabertas,SEAC,2013-07,8.302
+net,taxa de reabertas,SEAC,2013-07,5.134
+oi tv,taxa de reabertas,SEAC,2013-07,5.0
+sky,taxa de reabertas,SEAC,2013-07,10.47
+telefônica vivo,taxa de reabertas,SEAC,2013-07,7.38
+viacabo,taxa de reabertas,SEAC,2013-07,28.235
+claro tv,taxa de resolvidas no período,SEAC,2013-07,99.165
+ctbc tv,taxa de resolvidas no período,SEAC,2013-07,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-07,99.938
+net,taxa de resolvidas no período,SEAC,2013-07,99.853
+oi tv,taxa de resolvidas no período,SEAC,2013-07,99.631
+sky,taxa de resolvidas no período,SEAC,2013-07,99.586
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-07,99.768
+viacabo,taxa de resolvidas no período,SEAC,2013-07,100.0
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-08,89.846
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-08,87.23
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-08,68.924
+net,indicador de desempenho no atendimento (ida),SEAC,2013-08,97.168
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-08,52.329
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-08,76.988
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-08,63.27
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-08,71.155
+claro tv,quantidade de reclamações,SEAC,2013-08,3378.0
+ctbc tv,quantidade de reclamações,SEAC,2013-08,140.0
+gvt,quantidade de reclamações,SEAC,2013-08,1307.0
+net,quantidade de reclamações,SEAC,2013-08,4903.0
+oi tv,quantidade de reclamações,SEAC,2013-08,3446.0
+sky,quantidade de reclamações,SEAC,2013-08,7633.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-08,1675.0
+viacabo,quantidade de reclamações,SEAC,2013-08,68.0
+claro tv,número de assinantes,SEAC,2013-08,3445852.0
+ctbc tv,número de assinantes,SEAC,2013-08,128070.0
+gvt,número de assinantes,SEAC,2013-08,564937.0
+net,número de assinantes,SEAC,2013-08,5878511.0
+oi tv,número de assinantes,SEAC,2013-08,919267.0
+sky,número de assinantes,SEAC,2013-08,5252783.0
+telefônica vivo,número de assinantes,SEAC,2013-08,551455.0
+viacabo,número de assinantes,SEAC,2013-08,116981.0
+claro tv,índice de reclamações,SEAC,2013-08,0.98
+ctbc tv,índice de reclamações,SEAC,2013-08,1.093
+gvt,índice de reclamações,SEAC,2013-08,2.314
+net,índice de reclamações,SEAC,2013-08,0.834
+oi tv,índice de reclamações,SEAC,2013-08,3.749
+sky,índice de reclamações,SEAC,2013-08,1.453
+telefônica vivo,índice de reclamações,SEAC,2013-08,3.037
+viacabo,índice de reclamações,SEAC,2013-08,0.581
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,91.089
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,82.143
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,83.55
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,86.661
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,87.87
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,84.161
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,89.433
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-08,72.059
+claro tv,taxa de reabertas,SEAC,2013-08,8.116
+ctbc tv,taxa de reabertas,SEAC,2013-08,6.838
+gvt,taxa de reabertas,SEAC,2013-08,6.604
+net,taxa de reabertas,SEAC,2013-08,5.788
+oi tv,taxa de reabertas,SEAC,2013-08,5.328
+sky,taxa de reabertas,SEAC,2013-08,8.602
+telefônica vivo,taxa de reabertas,SEAC,2013-08,6.077
+viacabo,taxa de reabertas,SEAC,2013-08,31.25
+claro tv,taxa de resolvidas no período,SEAC,2013-08,99.258
+ctbc tv,taxa de resolvidas no período,SEAC,2013-08,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-08,99.838
+net,taxa de resolvidas no período,SEAC,2013-08,99.794
+oi tv,taxa de resolvidas no período,SEAC,2013-08,99.658
+sky,taxa de resolvidas no período,SEAC,2013-08,99.289
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-08,99.439
+viacabo,taxa de resolvidas no período,SEAC,2013-08,99.567
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-09,89.963
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-09,89.223
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-09,70.25
+net,indicador de desempenho no atendimento (ida),SEAC,2013-09,93.303
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-09,57.9
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-09,85.301
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-09,67.26
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-09,76.625
+claro tv,quantidade de reclamações,SEAC,2013-09,3325.0
+ctbc tv,quantidade de reclamações,SEAC,2013-09,111.0
+gvt,quantidade de reclamações,SEAC,2013-09,1265.0
+net,quantidade de reclamações,SEAC,2013-09,4461.0
+oi tv,quantidade de reclamações,SEAC,2013-09,3087.0
+sky,quantidade de reclamações,SEAC,2013-09,6132.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-09,1569.0
+viacabo,quantidade de reclamações,SEAC,2013-09,56.0
+claro tv,número de assinantes,SEAC,2013-09,3489668.0
+ctbc tv,número de assinantes,SEAC,2013-09,128177.0
+gvt,número de assinantes,SEAC,2013-09,586862.0
+net,número de assinantes,SEAC,2013-09,5923763.0
+oi tv,número de assinantes,SEAC,2013-09,911566.0
+sky,número de assinantes,SEAC,2013-09,5254784.0
+telefônica vivo,número de assinantes,SEAC,2013-09,564771.0
+viacabo,número de assinantes,SEAC,2013-09,118274.0
+claro tv,índice de reclamações,SEAC,2013-09,0.953
+ctbc tv,índice de reclamações,SEAC,2013-09,0.866
+gvt,índice de reclamações,SEAC,2013-09,2.156
+net,índice de reclamações,SEAC,2013-09,0.753
+oi tv,índice de reclamações,SEAC,2013-09,3.386
+sky,índice de reclamações,SEAC,2013-09,1.167
+telefônica vivo,índice de reclamações,SEAC,2013-09,2.778
+viacabo,índice de reclamações,SEAC,2013-09,0.473
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,87.368
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,87.387
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,80.237
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,84.667
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,88.241
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,89.84
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,90.121
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-09,80.357
+claro tv,taxa de reabertas,SEAC,2013-09,8.606
+ctbc tv,taxa de reabertas,SEAC,2013-09,11.927
+gvt,taxa de reabertas,SEAC,2013-09,7.977
+net,taxa de reabertas,SEAC,2013-09,6.668
+oi tv,taxa de reabertas,SEAC,2013-09,5.99
+sky,taxa de reabertas,SEAC,2013-09,10.794
+telefônica vivo,taxa de reabertas,SEAC,2013-09,5.226
+viacabo,taxa de reabertas,SEAC,2013-09,26.923
+claro tv,taxa de resolvidas no período,SEAC,2013-09,99.135
+ctbc tv,taxa de resolvidas no período,SEAC,2013-09,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-09,99.775
+net,taxa de resolvidas no período,SEAC,2013-09,99.703
+oi tv,taxa de resolvidas no período,SEAC,2013-09,99.593
+sky,taxa de resolvidas no período,SEAC,2013-09,99.828
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-09,99.891
+viacabo,taxa de resolvidas no período,SEAC,2013-09,99.573
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-10,82.135
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-10,90.222
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-10,62.122
+net,indicador de desempenho no atendimento (ida),SEAC,2013-10,96.628
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-10,56.041
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-10,82.0
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-10,71.042
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-10,53.023
+claro tv,quantidade de reclamações,SEAC,2013-10,3798.0
+ctbc tv,quantidade de reclamações,SEAC,2013-10,122.0
+gvt,quantidade de reclamações,SEAC,2013-10,1681.0
+net,quantidade de reclamações,SEAC,2013-10,5202.0
+oi tv,quantidade de reclamações,SEAC,2013-10,3158.0
+sky,quantidade de reclamações,SEAC,2013-10,7335.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-10,1473.0
+viacabo,quantidade de reclamações,SEAC,2013-10,60.0
+claro tv,número de assinantes,SEAC,2013-10,3532830.0
+ctbc tv,número de assinantes,SEAC,2013-10,128821.0
+gvt,número de assinantes,SEAC,2013-10,616505.0
+net,número de assinantes,SEAC,2013-10,5984894.0
+oi tv,número de assinantes,SEAC,2013-10,900398.0
+sky,número de assinantes,SEAC,2013-10,5276204.0
+telefônica vivo,número de assinantes,SEAC,2013-10,581697.0
+viacabo,número de assinantes,SEAC,2013-10,118858.0
+claro tv,índice de reclamações,SEAC,2013-10,1.075
+ctbc tv,índice de reclamações,SEAC,2013-10,0.947
+gvt,índice de reclamações,SEAC,2013-10,2.727
+net,índice de reclamações,SEAC,2013-10,0.869
+oi tv,índice de reclamações,SEAC,2013-10,3.507
+sky,índice de reclamações,SEAC,2013-10,1.39
+telefônica vivo,índice de reclamações,SEAC,2013-10,2.532
+viacabo,índice de reclamações,SEAC,2013-10,0.505
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,83.702
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,90.164
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,82.213
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,86.101
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,88.189
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,89.939
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,90.428
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-10,8.333
+claro tv,taxa de reabertas,SEAC,2013-10,9.429
+ctbc tv,taxa de reabertas,SEAC,2013-10,8.333
+gvt,taxa de reabertas,SEAC,2013-10,6.494
+net,taxa de reabertas,SEAC,2013-10,6.359
+oi tv,taxa de reabertas,SEAC,2013-10,5.755
+sky,taxa de reabertas,SEAC,2013-10,10.579
+telefônica vivo,taxa de reabertas,SEAC,2013-10,5.919
+viacabo,taxa de reabertas,SEAC,2013-10,20.0
+claro tv,taxa de resolvidas no período,SEAC,2013-10,99.18
+ctbc tv,taxa de resolvidas no período,SEAC,2013-10,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-10,99.72
+net,taxa de resolvidas no período,SEAC,2013-10,99.358
+oi tv,taxa de resolvidas no período,SEAC,2013-10,99.687
+sky,taxa de resolvidas no período,SEAC,2013-10,99.825
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-10,99.864
+viacabo,taxa de resolvidas no período,SEAC,2013-10,98.039
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-11,90.852
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-11,86.031
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-11,74.474
+net,indicador de desempenho no atendimento (ida),SEAC,2013-11,96.875
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-11,68.245
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-11,83.19
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-11,81.218
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-11,7.267
+claro tv,quantidade de reclamações,SEAC,2013-11,3247.0
+ctbc tv,quantidade de reclamações,SEAC,2013-11,88.0
+gvt,quantidade de reclamações,SEAC,2013-11,1495.0
+net,quantidade de reclamações,SEAC,2013-11,5119.0
+oi tv,quantidade de reclamações,SEAC,2013-11,2420.0
+sky,quantidade de reclamações,SEAC,2013-11,7143.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-11,1096.0
+viacabo,quantidade de reclamações,SEAC,2013-11,87.0
+claro tv,número de assinantes,SEAC,2013-11,3564050.0
+ctbc tv,número de assinantes,SEAC,2013-11,129838.0
+gvt,número de assinantes,SEAC,2013-11,647407.0
+net,número de assinantes,SEAC,2013-11,6000088.0
+oi tv,número de assinantes,SEAC,2013-11,891648.0
+sky,número de assinantes,SEAC,2013-11,5319158.0
+telefônica vivo,número de assinantes,SEAC,2013-11,585835.0
+viacabo,número de assinantes,SEAC,2013-11,119029.0
+claro tv,índice de reclamações,SEAC,2013-11,0.911
+ctbc tv,índice de reclamações,SEAC,2013-11,0.678
+gvt,índice de reclamações,SEAC,2013-11,2.309
+net,índice de reclamações,SEAC,2013-11,0.853
+oi tv,índice de reclamações,SEAC,2013-11,2.714
+sky,índice de reclamações,SEAC,2013-11,1.343
+telefônica vivo,índice de reclamações,SEAC,2013-11,1.871
+viacabo,índice de reclamações,SEAC,2013-11,0.731
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,85.556
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,80.682
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,89.097
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,88.865
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,89.587
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,90.564
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,90.328
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-11,2.229
+claro tv,taxa de reabertas,SEAC,2013-11,8.211
+ctbc tv,taxa de reabertas,SEAC,2013-11,11.364
+gvt,taxa de reabertas,SEAC,2013-11,6.024
+net,taxa de reabertas,SEAC,2013-11,5.638
+oi tv,taxa de reabertas,SEAC,2013-11,4.825
+sky,taxa de reabertas,SEAC,2013-11,9.84
+telefônica vivo,taxa de reabertas,SEAC,2013-11,5.952
+viacabo,taxa de reabertas,SEAC,2013-11,8.0
+claro tv,taxa de resolvidas no período,SEAC,2013-11,99.134
+ctbc tv,taxa de resolvidas no período,SEAC,2013-11,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-11,99.953
+net,taxa de resolvidas no período,SEAC,2013-11,99.837
+oi tv,taxa de resolvidas no período,SEAC,2013-11,99.701
+sky,taxa de resolvidas no período,SEAC,2013-11,99.872
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-11,100.0
+viacabo,taxa de resolvidas no período,SEAC,2013-11,73.039
+claro tv,indicador de desempenho no atendimento (ida),SEAC,2013-12,89.892
+ctbc tv,indicador de desempenho no atendimento (ida),SEAC,2013-12,93.574
+gvt,indicador de desempenho no atendimento (ida),SEAC,2013-12,73.057
+net,indicador de desempenho no atendimento (ida),SEAC,2013-12,96.87
+oi tv,indicador de desempenho no atendimento (ida),SEAC,2013-12,66.38
+sky,indicador de desempenho no atendimento (ida),SEAC,2013-12,79.486
+telefônica vivo,indicador de desempenho no atendimento (ida),SEAC,2013-12,77.306
+viacabo,indicador de desempenho no atendimento (ida),SEAC,2013-12,0.0
+claro tv,quantidade de reclamações,SEAC,2013-12,3240.0
+ctbc tv,quantidade de reclamações,SEAC,2013-12,99.0
+gvt,quantidade de reclamações,SEAC,2013-12,1627.0
+net,quantidade de reclamações,SEAC,2013-12,5150.0
+oi tv,quantidade de reclamações,SEAC,2013-12,2350.0
+sky,quantidade de reclamações,SEAC,2013-12,7438.0
+telefônica vivo,quantidade de reclamações,SEAC,2013-12,1262.0
+viacabo,quantidade de reclamações,SEAC,2013-12,125.0
+claro tv,número de assinantes,SEAC,2013-12,3597488.0
+ctbc tv,número de assinantes,SEAC,2013-12,133893.0
+gvt,número de assinantes,SEAC,2013-12,677544.0
+net,número de assinantes,SEAC,2013-12,6034230.0
+oi tv,número de assinantes,SEAC,2013-12,828843.0
+sky,número de assinantes,SEAC,2013-12,5371385.0
+telefônica vivo,número de assinantes,SEAC,2013-12,593848.0
+viacabo,número de assinantes,SEAC,2013-12,157395.0
+claro tv,índice de reclamações,SEAC,2013-12,0.901
+ctbc tv,índice de reclamações,SEAC,2013-12,0.739
+gvt,índice de reclamações,SEAC,2013-12,2.401
+net,índice de reclamações,SEAC,2013-12,0.853
+oi tv,índice de reclamações,SEAC,2013-12,2.835
+sky,índice de reclamações,SEAC,2013-12,1.385
+telefônica vivo,índice de reclamações,SEAC,2013-12,2.125
+viacabo,índice de reclamações,SEAC,2013-12,0.794
+claro tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,85.247
+ctbc tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,86.869
+gvt,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,87.031
+net,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,87.34
+oi tv,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,88.34
+sky,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,89.218
+telefônica vivo,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,90.412
+viacabo,taxa de resolvidas em 5 dias úteis,SEAC,2013-12,0.0
+claro tv,taxa de reabertas,SEAC,2013-12,10.003
+ctbc tv,taxa de reabertas,SEAC,2013-12,8.081
+gvt,taxa de reabertas,SEAC,2013-12,6.424
+net,taxa de reabertas,SEAC,2013-12,5.672
+oi tv,taxa de reabertas,SEAC,2013-12,4.894
+sky,taxa de reabertas,SEAC,2013-12,11.244
+telefônica vivo,taxa de reabertas,SEAC,2013-12,6.746
+viacabo,taxa de reabertas,SEAC,2013-12,0.0
+claro tv,taxa de resolvidas no período,SEAC,2013-12,99.2
+ctbc tv,taxa de resolvidas no período,SEAC,2013-12,100.0
+gvt,taxa de resolvidas no período,SEAC,2013-12,99.843
+net,taxa de resolvidas no período,SEAC,2013-12,99.765
+oi tv,taxa de resolvidas no período,SEAC,2013-12,99.7
+sky,taxa de resolvidas no período,SEAC,2013-12,98.909
+telefônica vivo,taxa de resolvidas no período,SEAC,2013-12,100.0
+viacabo,taxa de resolvidas no período,SEAC,2013-12,49.254

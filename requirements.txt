@@ -1,0 +1,5 @@
+requests
+pandas
+odfpy
+psycopg2-binary
+sqlalchemy

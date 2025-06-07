@@ -1,0 +1,505 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-01,95.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-01,76.395
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-01,54.527
+oi,indicador de desempenho no atendimento (ida),STFC,2013-01,24.116
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-01,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-01,66.215
+ctbc telecom,quantidade de reclamações,STFC,2013-01,442.0
+embratel,quantidade de reclamações,STFC,2013-01,8886.0
+gvt,quantidade de reclamações,STFC,2013-01,6536.0
+oi,quantidade de reclamações,STFC,2013-01,50123.0
+sercomtel,quantidade de reclamações,STFC,2013-01,62.0
+telefônica,quantidade de reclamações,STFC,2013-01,14712.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-01,818153.0
+embratel,quantidade de acessos em serviço,STFC,2013-01,9681154.0
+gvt,quantidade de acessos em serviço,STFC,2013-01,3636086.0
+oi,quantidade de acessos em serviço,STFC,2013-01,18622687.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-01,188926.0
+telefônica,quantidade de acessos em serviço,STFC,2013-01,10537617.0
+ctbc telecom,índice de reclamações,STFC,2013-01,0.54
+embratel,índice de reclamações,STFC,2013-01,0.918
+gvt,índice de reclamações,STFC,2013-01,1.798
+oi,índice de reclamações,STFC,2013-01,2.692
+sercomtel,índice de reclamações,STFC,2013-01,0.328
+telefônica,índice de reclamações,STFC,2013-01,1.396
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-01,92.76
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-01,82.073
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-01,83.415
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-01,83.796
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-01,96.774
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-01,86.1
+ctbc telecom,taxa de reabertas,STFC,2013-01,5.43
+embratel,taxa de reabertas,STFC,2013-01,7.836
+gvt,taxa de reabertas,STFC,2013-01,7.386
+oi,taxa de reabertas,STFC,2013-01,9.127
+sercomtel,taxa de reabertas,STFC,2013-01,3.226
+telefônica,taxa de reabertas,STFC,2013-01,8.011
+ctbc telecom,taxa de resolvidas no período,STFC,2013-01,100.0
+embratel,taxa de resolvidas no período,STFC,2013-01,98.936
+gvt,taxa de resolvidas no período,STFC,2013-01,99.971
+oi,taxa de resolvidas no período,STFC,2013-01,99.462
+sercomtel,taxa de resolvidas no período,STFC,2013-01,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-01,99.776
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-02,95.111
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-02,73.642
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-02,31.456
+oi,indicador de desempenho no atendimento (ida),STFC,2013-02,25.007
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-02,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-02,72.056
+ctbc telecom,quantidade de reclamações,STFC,2013-02,440.0
+embratel,quantidade de reclamações,STFC,2013-02,9656.0
+gvt,quantidade de reclamações,STFC,2013-02,9570.0
+oi,quantidade de reclamações,STFC,2013-02,48256.0
+sercomtel,quantidade de reclamações,STFC,2013-02,66.0
+telefônica,quantidade de reclamações,STFC,2013-02,14334.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-02,821514.0
+embratel,quantidade de acessos em serviço,STFC,2013-02,9787099.0
+gvt,quantidade de acessos em serviço,STFC,2013-02,3671778.0
+oi,quantidade de acessos em serviço,STFC,2013-02,18579855.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-02,189848.0
+telefônica,quantidade de acessos em serviço,STFC,2013-02,10492160.0
+ctbc telecom,índice de reclamações,STFC,2013-02,0.536
+embratel,índice de reclamações,STFC,2013-02,0.987
+gvt,índice de reclamações,STFC,2013-02,2.606
+oi,índice de reclamações,STFC,2013-02,2.597
+sercomtel,índice de reclamações,STFC,2013-02,0.348
+telefônica,índice de reclamações,STFC,2013-02,1.366
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-02,92.727
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-02,80.882
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-02,81.536
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-02,78.517
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-02,93.939
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-02,86.438
+ctbc telecom,taxa de reabertas,STFC,2013-02,5.682
+embratel,taxa de reabertas,STFC,2013-02,7.834
+gvt,taxa de reabertas,STFC,2013-02,7.654
+oi,taxa de reabertas,STFC,2013-02,9.109
+sercomtel,taxa de reabertas,STFC,2013-02,6.061
+telefônica,taxa de reabertas,STFC,2013-02,7.298
+ctbc telecom,taxa de resolvidas no período,STFC,2013-02,99.914
+embratel,taxa de resolvidas no período,STFC,2013-02,98.715
+gvt,taxa de resolvidas no período,STFC,2013-02,99.992
+oi,taxa de resolvidas no período,STFC,2013-02,99.583
+sercomtel,taxa de resolvidas no período,STFC,2013-02,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-02,99.873
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-03,92.083
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-03,74.519
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-03,21.278
+oi,indicador de desempenho no atendimento (ida),STFC,2013-03,9.824
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-03,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-03,68.028
+ctbc telecom,quantidade de reclamações,STFC,2013-03,532.0
+embratel,quantidade de reclamações,STFC,2013-03,9644.0
+gvt,quantidade de reclamações,STFC,2013-03,10381.0
+oi,quantidade de reclamações,STFC,2013-03,57612.0
+sercomtel,quantidade de reclamações,STFC,2013-03,67.0
+telefônica,quantidade de reclamações,STFC,2013-03,15797.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-03,824756.0
+embratel,quantidade de acessos em serviço,STFC,2013-03,9851557.0
+gvt,quantidade de acessos em serviço,STFC,2013-03,3690807.0
+oi,quantidade de acessos em serviço,STFC,2013-03,18548833.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-03,190917.0
+telefônica,quantidade de acessos em serviço,STFC,2013-03,10454120.0
+ctbc telecom,índice de reclamações,STFC,2013-03,0.645
+embratel,índice de reclamações,STFC,2013-03,0.979
+gvt,índice de reclamações,STFC,2013-03,2.813
+oi,índice de reclamações,STFC,2013-03,3.106
+sercomtel,índice de reclamações,STFC,2013-03,0.351
+telefônica,índice de reclamações,STFC,2013-03,1.511
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-03,93.233
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-03,82.165
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-03,68.25
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-03,77.581
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-03,94.03
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-03,85.124
+ctbc telecom,taxa de reabertas,STFC,2013-03,4.528
+embratel,taxa de reabertas,STFC,2013-03,7.59
+gvt,taxa de reabertas,STFC,2013-03,5.799
+oi,taxa de reabertas,STFC,2013-03,10.28
+sercomtel,taxa de reabertas,STFC,2013-03,7.463
+telefônica,taxa de reabertas,STFC,2013-03,7.77
+ctbc telecom,taxa de resolvidas no período,STFC,2013-03,100.0
+embratel,taxa de resolvidas no período,STFC,2013-03,98.829
+gvt,taxa de resolvidas no período,STFC,2013-03,99.902
+oi,taxa de resolvidas no período,STFC,2013-03,99.634
+sercomtel,taxa de resolvidas no período,STFC,2013-03,99.435
+telefônica,taxa de resolvidas no período,STFC,2013-03,99.858
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-04,93.056
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-04,70.798
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-04,44.81
+oi,indicador de desempenho no atendimento (ida),STFC,2013-04,11.664
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-04,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-04,67.747
+ctbc telecom,quantidade de reclamações,STFC,2013-04,506.0
+embratel,quantidade de reclamações,STFC,2013-04,9263.0
+gvt,quantidade de reclamações,STFC,2013-04,7319.0
+oi,quantidade de reclamações,STFC,2013-04,57675.0
+sercomtel,quantidade de reclamações,STFC,2013-04,69.0
+telefônica,quantidade de reclamações,STFC,2013-04,13975.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-04,828963.0
+embratel,quantidade de acessos em serviço,STFC,2013-04,9971121.0
+gvt,quantidade de acessos em serviço,STFC,2013-04,3727497.0
+oi,quantidade de acessos em serviço,STFC,2013-04,18498236.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-04,191855.0
+telefônica,quantidade de acessos em serviço,STFC,2013-04,10428578.0
+ctbc telecom,índice de reclamações,STFC,2013-04,0.61
+embratel,índice de reclamações,STFC,2013-04,0.929
+gvt,índice de reclamações,STFC,2013-04,1.964
+oi,índice de reclamações,STFC,2013-04,3.118
+sercomtel,índice de reclamações,STFC,2013-04,0.36
+telefônica,índice de reclamações,STFC,2013-04,1.34
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-04,94.664
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-04,83.807
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-04,84.274
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-04,84.739
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-04,98.551
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-04,84.909
+ctbc telecom,taxa de reabertas,STFC,2013-04,3.953
+embratel,taxa de reabertas,STFC,2013-04,8.43
+gvt,taxa de reabertas,STFC,2013-04,8.628
+oi,taxa de reabertas,STFC,2013-04,10.62
+sercomtel,taxa de reabertas,STFC,2013-04,2.899
+telefônica,taxa de reabertas,STFC,2013-04,7.8
+ctbc telecom,taxa de resolvidas no período,STFC,2013-04,99.929
+embratel,taxa de resolvidas no período,STFC,2013-04,98.635
+gvt,taxa de resolvidas no período,STFC,2013-04,99.966
+oi,taxa de resolvidas no período,STFC,2013-04,99.633
+sercomtel,taxa de resolvidas no período,STFC,2013-04,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-04,99.862
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-05,92.75
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-05,73.594
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-05,57.833
+oi,indicador de desempenho no atendimento (ida),STFC,2013-05,26.233
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-05,94.792
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-05,69.057
+ctbc telecom,quantidade de reclamações,STFC,2013-05,520.0
+embratel,quantidade de reclamações,STFC,2013-05,10384.0
+gvt,quantidade de reclamações,STFC,2013-05,7074.0
+oi,quantidade de reclamações,STFC,2013-05,51997.0
+sercomtel,quantidade de reclamações,STFC,2013-05,60.0
+telefônica,quantidade de reclamações,STFC,2013-05,13460.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-05,837131.0
+embratel,quantidade de acessos em serviço,STFC,2013-05,10056014.0
+gvt,quantidade de acessos em serviço,STFC,2013-05,3767376.0
+oi,quantidade de acessos em serviço,STFC,2013-05,18434150.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-05,192972.0
+telefônica,quantidade de acessos em serviço,STFC,2013-05,10437332.0
+ctbc telecom,índice de reclamações,STFC,2013-05,0.621
+embratel,índice de reclamações,STFC,2013-05,1.033
+gvt,índice de reclamações,STFC,2013-05,1.878
+oi,índice de reclamações,STFC,2013-05,2.821
+sercomtel,índice de reclamações,STFC,2013-05,0.311
+telefônica,índice de reclamações,STFC,2013-05,1.29
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-05,94.038
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-05,84.052
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-05,91.179
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-05,85.278
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-05,93.333
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-05,85.059
+ctbc telecom,taxa de reabertas,STFC,2013-05,5.202
+embratel,taxa de reabertas,STFC,2013-05,7.744
+gvt,taxa de reabertas,STFC,2013-05,7.939
+oi,taxa de reabertas,STFC,2013-05,8.65
+sercomtel,taxa de reabertas,STFC,2013-05,8.333
+telefônica,taxa de reabertas,STFC,2013-05,8.176
+ctbc telecom,taxa de resolvidas no período,STFC,2013-05,99.932
+embratel,taxa de resolvidas no período,STFC,2013-05,98.802
+gvt,taxa de resolvidas no período,STFC,2013-05,100.0
+oi,taxa de resolvidas no período,STFC,2013-05,99.707
+sercomtel,taxa de resolvidas no período,STFC,2013-05,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-05,99.353
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-06,94.083
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-06,72.304
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-06,62.093
+oi,indicador de desempenho no atendimento (ida),STFC,2013-06,39.072
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-06,94.403
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-06,72.694
+ctbc telecom,quantidade de reclamações,STFC,2013-06,484.0
+embratel,quantidade de reclamações,STFC,2013-06,9119.0
+gvt,quantidade de reclamações,STFC,2013-06,5884.0
+oi,quantidade de reclamações,STFC,2013-06,43112.0
+sercomtel,quantidade de reclamações,STFC,2013-06,67.0
+telefônica,quantidade de reclamações,STFC,2013-06,13992.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-06,845400.0
+embratel,quantidade de acessos em serviço,STFC,2013-06,10155735.0
+gvt,quantidade de acessos em serviço,STFC,2013-06,3810376.0
+oi,quantidade de acessos em serviço,STFC,2013-06,18329720.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-06,193838.0
+telefônica,quantidade de acessos em serviço,STFC,2013-06,10416456.0
+ctbc telecom,índice de reclamações,STFC,2013-06,0.573
+embratel,índice de reclamações,STFC,2013-06,0.898
+gvt,índice de reclamações,STFC,2013-06,1.544
+oi,índice de reclamações,STFC,2013-06,2.352
+sercomtel,índice de reclamações,STFC,2013-06,0.346
+telefônica,índice de reclamações,STFC,2013-06,1.343
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-06,88.43
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-06,84.077
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-06,90.993
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-06,85.51
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-06,92.537
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-06,85.485
+ctbc telecom,taxa de reabertas,STFC,2013-06,6.198
+embratel,taxa de reabertas,STFC,2013-06,8.169
+gvt,taxa de reabertas,STFC,2013-06,8.029
+oi,taxa de reabertas,STFC,2013-06,8.951
+sercomtel,taxa de reabertas,STFC,2013-06,8.955
+telefônica,taxa de reabertas,STFC,2013-06,6.686
+ctbc telecom,taxa de resolvidas no período,STFC,2013-06,99.936
+embratel,taxa de resolvidas no período,STFC,2013-06,98.831
+gvt,taxa de resolvidas no período,STFC,2013-06,99.996
+oi,taxa de resolvidas no período,STFC,2013-06,99.692
+sercomtel,taxa de resolvidas no período,STFC,2013-06,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-06,99.868
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-07,86.746
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-07,70.39
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-07,59.969
+oi,indicador de desempenho no atendimento (ida),STFC,2013-07,22.0
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-07,91.683
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-07,61.389
+ctbc telecom,quantidade de reclamações,STFC,2013-07,541.0
+embratel,quantidade de reclamações,STFC,2013-07,10278.0
+gvt,quantidade de reclamações,STFC,2013-07,6199.0
+oi,quantidade de reclamações,STFC,2013-07,49922.0
+sercomtel,quantidade de reclamações,STFC,2013-07,74.0
+telefônica,quantidade de reclamações,STFC,2013-07,18187.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-07,832093.0
+embratel,quantidade de acessos em serviço,STFC,2013-07,10205076.0
+gvt,quantidade de acessos em serviço,STFC,2013-07,3843722.0
+oi,quantidade de acessos em serviço,STFC,2013-07,18215357.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-07,193906.0
+telefônica,quantidade de acessos em serviço,STFC,2013-07,10391556.0
+ctbc telecom,índice de reclamações,STFC,2013-07,0.65
+embratel,índice de reclamações,STFC,2013-07,1.007
+gvt,índice de reclamações,STFC,2013-07,1.613
+oi,índice de reclamações,STFC,2013-07,2.741
+sercomtel,índice de reclamações,STFC,2013-07,0.382
+telefônica,índice de reclamações,STFC,2013-07,1.75
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-07,89.834
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-07,81.465
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-07,88.756
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-07,84.696
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-07,90.541
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-07,85.358
+ctbc telecom,taxa de reabertas,STFC,2013-07,8.318
+embratel,taxa de reabertas,STFC,2013-07,8.736
+gvt,taxa de reabertas,STFC,2013-07,8.36
+oi,taxa de reabertas,STFC,2013-07,10.816
+sercomtel,taxa de reabertas,STFC,2013-07,12.329
+telefônica,taxa de reabertas,STFC,2013-07,7.31
+ctbc telecom,taxa de resolvidas no período,STFC,2013-07,100.0
+embratel,taxa de resolvidas no período,STFC,2013-07,99.115
+gvt,taxa de resolvidas no período,STFC,2013-07,99.995
+oi,taxa de resolvidas no período,STFC,2013-07,99.537
+sercomtel,taxa de resolvidas no período,STFC,2013-07,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-07,99.969
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-08,80.511
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-08,60.707
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-08,50.63
+oi,indicador de desempenho no atendimento (ida),STFC,2013-08,30.165
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-08,98.167
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-08,59.007
+ctbc telecom,quantidade de reclamações,STFC,2013-08,497.0
+embratel,quantidade de reclamações,STFC,2013-08,11028.0
+gvt,quantidade de reclamações,STFC,2013-08,6414.0
+oi,quantidade de reclamações,STFC,2013-08,4339.0
+sercomtel,quantidade de reclamações,STFC,2013-08,83.0
+telefônica,quantidade de reclamações,STFC,2013-08,17118.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-08,856033.0
+embratel,quantidade de acessos em serviço,STFC,2013-08,10341553.0
+gvt,quantidade de acessos em serviço,STFC,2013-08,3875330.0
+oi,quantidade de acessos em serviço,STFC,2013-08,18117559.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-08,194782.0
+telefônica,quantidade de acessos em serviço,STFC,2013-08,10363061.0
+ctbc telecom,índice de reclamações,STFC,2013-08,0.581
+embratel,índice de reclamações,STFC,2013-08,1.066
+gvt,índice de reclamações,STFC,2013-08,1.655
+oi,índice de reclamações,STFC,2013-08,2.395
+sercomtel,índice de reclamações,STFC,2013-08,0.426
+telefônica,índice de reclamações,STFC,2013-08,1.652
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-08,80.885
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-08,70.43
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-08,80.355
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-08,81.016
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-08,95.181
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-08,85.063
+ctbc telecom,taxa de reabertas,STFC,2013-08,11.165
+embratel,taxa de reabertas,STFC,2013-08,11.471
+gvt,taxa de reabertas,STFC,2013-08,10.959
+oi,taxa de reabertas,STFC,2013-08,11.167
+sercomtel,taxa de reabertas,STFC,2013-08,6.024
+telefônica,taxa de reabertas,STFC,2013-08,8.166
+ctbc telecom,taxa de resolvidas no período,STFC,2013-08,99.871
+embratel,taxa de resolvidas no período,STFC,2013-08,98.672
+gvt,taxa de resolvidas no período,STFC,2013-08,99.864
+oi,taxa de resolvidas no período,STFC,2013-08,99.405
+sercomtel,taxa de resolvidas no período,STFC,2013-08,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-08,99.901
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-09,90.639
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-09,65.228
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-09,52.399
+oi,indicador de desempenho no atendimento (ida),STFC,2013-09,44.081
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-09,92.308
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-09,71.333
+ctbc telecom,quantidade de reclamações,STFC,2013-09,417.0
+embratel,quantidade de reclamações,STFC,2013-09,9743.0
+gvt,quantidade de reclamações,STFC,2013-09,6210.0
+oi,quantidade de reclamações,STFC,2013-09,35192.0
+sercomtel,quantidade de reclamações,STFC,2013-09,65.0
+telefônica,quantidade de reclamações,STFC,2013-09,14401.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-09,860909.0
+embratel,quantidade de acessos em serviço,STFC,2013-09,10294583.0
+gvt,quantidade de acessos em serviço,STFC,2013-09,3927568.0
+oi,quantidade de acessos em serviço,STFC,2013-09,18052553.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-09,195618.0
+telefônica,quantidade de acessos em serviço,STFC,2013-09,10343933.0
+ctbc telecom,índice de reclamações,STFC,2013-09,0.484
+embratel,índice de reclamações,STFC,2013-09,0.946
+gvt,índice de reclamações,STFC,2013-09,1.581
+oi,índice de reclamações,STFC,2013-09,1.949
+sercomtel,índice de reclamações,STFC,2013-09,0.332
+telefônica,índice de reclamações,STFC,2013-09,1.392
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-09,89.928
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-09,74.813
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-09,76.634
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-09,83.135
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-09,93.846
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-09,85.404
+ctbc telecom,taxa de reabertas,STFC,2013-09,9.466
+embratel,taxa de reabertas,STFC,2013-09,12.288
+gvt,taxa de reabertas,STFC,2013-09,9.434
+oi,taxa de reabertas,STFC,2013-09,9.854
+sercomtel,taxa de reabertas,STFC,2013-09,12.308
+telefônica,taxa de reabertas,STFC,2013-09,7.597
+ctbc telecom,taxa de resolvidas no período,STFC,2013-09,99.935
+embratel,taxa de resolvidas no período,STFC,2013-09,98.791
+gvt,taxa de resolvidas no período,STFC,2013-09,99.838
+oi,taxa de resolvidas no período,STFC,2013-09,99.532
+sercomtel,taxa de resolvidas no período,STFC,2013-09,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-09,99.909
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-10,92.083
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-10,63.0
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-10,46.869
+oi,indicador de desempenho no atendimento (ida),STFC,2013-10,40.914
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-10,99.472
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-10,56.715
+ctbc telecom,quantidade de reclamações,STFC,2013-10,378.0
+embratel,quantidade de reclamações,STFC,2013-10,11230.0
+gvt,quantidade de reclamações,STFC,2013-10,7320.0
+oi,quantidade de reclamações,STFC,2013-10,36244.0
+sercomtel,quantidade de reclamações,STFC,2013-10,77.0
+telefônica,quantidade de reclamações,STFC,2013-10,17783.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-10,868211.0
+embratel,quantidade de acessos em serviço,STFC,2013-10,10505451.0
+gvt,quantidade de acessos em serviço,STFC,2013-10,4024609.0
+oi,quantidade de acessos em serviço,STFC,2013-10,17959692.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-10,203041.0
+telefônica,quantidade de acessos em serviço,STFC,2013-10,10335064.0
+ctbc telecom,índice de reclamações,STFC,2013-10,0.435
+embratel,índice de reclamações,STFC,2013-10,1.069
+gvt,índice de reclamações,STFC,2013-10,1.819
+oi,índice de reclamações,STFC,2013-10,2.018
+sercomtel,índice de reclamações,STFC,2013-10,0.379
+telefônica,índice de reclamações,STFC,2013-10,1.721
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-10,87.037
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-10,72.76
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-10,79.809
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-10,76.101
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-10,94.805
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-10,85.385
+ctbc telecom,taxa de reabertas,STFC,2013-10,9.333
+embratel,taxa de reabertas,STFC,2013-10,9.459
+gvt,taxa de reabertas,STFC,2013-10,9.396
+oi,taxa de reabertas,STFC,2013-10,8.102
+sercomtel,taxa de reabertas,STFC,2013-10,5.263
+telefônica,taxa de reabertas,STFC,2013-10,8.767
+ctbc telecom,taxa de resolvidas no período,STFC,2013-10,99.931
+embratel,taxa de resolvidas no período,STFC,2013-10,98.843
+gvt,taxa de resolvidas no período,STFC,2013-10,99.766
+oi,taxa de resolvidas no período,STFC,2013-10,99.55
+sercomtel,taxa de resolvidas no período,STFC,2013-10,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-10,99.859
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-11,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-11,70.692
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-11,72.083
+oi,indicador de desempenho no atendimento (ida),STFC,2013-11,45.606
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-11,93.59
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-11,69.361
+ctbc telecom,quantidade de reclamações,STFC,2013-11,255.0
+embratel,quantidade de reclamações,STFC,2013-11,9300.0
+gvt,quantidade de reclamações,STFC,2013-11,5546.0
+oi,quantidade de reclamações,STFC,2013-11,35741.0
+sercomtel,quantidade de reclamações,STFC,2013-11,39.0
+telefônica,quantidade de reclamações,STFC,2013-11,15102.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-11,872728.0
+embratel,quantidade de acessos em serviço,STFC,2013-11,10573266.0
+gvt,quantidade de acessos em serviço,STFC,2013-11,4063739.0
+oi,quantidade de acessos em serviço,STFC,2013-11,17867254.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-11,204618.0
+telefônica,quantidade de acessos em serviço,STFC,2013-11,10323671.0
+ctbc telecom,índice de reclamações,STFC,2013-11,0.292
+embratel,índice de reclamações,STFC,2013-11,0.88
+gvt,índice de reclamações,STFC,2013-11,1.365
+oi,índice de reclamações,STFC,2013-11,2.0
+sercomtel,índice de reclamações,STFC,2013-11,0.191
+telefônica,índice de reclamações,STFC,2013-11,1.463
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-11,86.275
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-11,81.484
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-11,86.909
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-11,73.484
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-11,89.744
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-11,86.015
+ctbc telecom,taxa de reabertas,STFC,2013-11,7.059
+embratel,taxa de reabertas,STFC,2013-11,9.225
+gvt,taxa de reabertas,STFC,2013-11,7.04
+oi,taxa de reabertas,STFC,2013-11,7.171
+sercomtel,taxa de reabertas,STFC,2013-11,10.256
+telefônica,taxa de reabertas,STFC,2013-11,7.087
+ctbc telecom,taxa de resolvidas no período,STFC,2013-11,100.0
+embratel,taxa de resolvidas no período,STFC,2013-11,98.537
+gvt,taxa de resolvidas no período,STFC,2013-11,99.93
+oi,taxa de resolvidas no período,STFC,2013-11,99.627
+sercomtel,taxa de resolvidas no período,STFC,2013-11,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-11,99.996
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2013-12,94.77
+embratel,indicador de desempenho no atendimento (ida),STFC,2013-12,71.361
+gvt,indicador de desempenho no atendimento (ida),STFC,2013-12,75.167
+oi,indicador de desempenho no atendimento (ida),STFC,2013-12,28.155
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2013-12,94.485
+telefônica,indicador de desempenho no atendimento (ida),STFC,2013-12,69.944
+ctbc telecom,quantidade de reclamações,STFC,2013-12,239.0
+embratel,quantidade de reclamações,STFC,2013-12,8764.0
+gvt,quantidade de reclamações,STFC,2013-12,5173.0
+oi,quantidade de reclamações,STFC,2013-12,44233.0
+sercomtel,quantidade de reclamações,STFC,2013-12,34.0
+telefônica,quantidade de reclamações,STFC,2013-12,14790.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2013-12,879943.0
+embratel,quantidade de acessos em serviço,STFC,2013-12,10862135.0
+gvt,quantidade de acessos em serviço,STFC,2013-12,4125061.0
+oi,quantidade de acessos em serviço,STFC,2013-12,17499910.0
+sercomtel,quantidade de acessos em serviço,STFC,2013-12,207033.0
+telefônica,quantidade de acessos em serviço,STFC,2013-12,10253162.0
+ctbc telecom,índice de reclamações,STFC,2013-12,0.272
+embratel,índice de reclamações,STFC,2013-12,0.807
+gvt,índice de reclamações,STFC,2013-12,1.254
+oi,índice de reclamações,STFC,2013-12,2.528
+sercomtel,índice de reclamações,STFC,2013-12,0.164
+telefônica,índice de reclamações,STFC,2013-12,1.442
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2013-12,88.285
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2013-12,78.183
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2013-12,88.44
+oi,taxa de resolvidas em 5 dias úteis,STFC,2013-12,65.132
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2013-12,94.118
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2013-12,85.781
+ctbc telecom,taxa de reabertas,STFC,2013-12,8.368
+embratel,taxa de reabertas,STFC,2013-12,9.247
+gvt,taxa de reabertas,STFC,2013-12,6.604
+oi,taxa de reabertas,STFC,2013-12,7.508
+sercomtel,taxa de reabertas,STFC,2013-12,8.824
+telefônica,taxa de reabertas,STFC,2013-12,7.25
+ctbc telecom,taxa de resolvidas no período,STFC,2013-12,100.0
+embratel,taxa de resolvidas no período,STFC,2013-12,98.415
+gvt,taxa de resolvidas no período,STFC,2013-12,99.921
+oi,taxa de resolvidas no período,STFC,2013-12,99.621
+sercomtel,taxa de resolvidas no período,STFC,2013-12,100.0
+telefônica,taxa de resolvidas no período,STFC,2013-12,99.989

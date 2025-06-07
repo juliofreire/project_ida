@@ -1,0 +1,325 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+algar,indicador de desempenho no atendimento (ida),SCM,2015-10,89.4230111117846
+gvt,indicador de desempenho no atendimento (ida),SCM,2015-10,76.0259088241672
+net,indicador de desempenho no atendimento (ida),SCM,2015-10,83.4258146203448
+oi,indicador de desempenho no atendimento (ida),SCM,2015-10,0.0
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2015-10,83.2176996608079
+sky,indicador de desempenho no atendimento (ida),SCM,2015-10,13.5394671023312
+tim,indicador de desempenho no atendimento (ida),SCM,2015-10,0.0
+viacabo,indicador de desempenho no atendimento (ida),SCM,2015-10,68.205590017681
+vivo,indicador de desempenho no atendimento (ida),SCM,2015-10,30.6586270566856
+algar,índice de reclamações,SCM,2015-10,0.600031228391069
+gvt,índice de reclamações,SCM,2015-10,1.35896364703331
+net,índice de reclamações,SCM,2015-10,0.847246720823034
+oi,índice de reclamações,SCM,2015-10,4.24495374441558
+sercomtel,índice de reclamações,SCM,2015-10,0.300957942728344
+sky,índice de reclamações,SCM,2015-10,3.62369280911942
+tim,índice de reclamações,SCM,2015-10,5.86864033863815
+viacabo,índice de reclamações,SCM,2015-10,0.717389026366062
+vivo,índice de reclamações,SCM,2015-10,2.61854831442065
+algar,quantidade de acessos em serviço,SCM,2015-10,448310.0
+gvt,quantidade de acessos em serviço,SCM,2015-10,3264988.0
+net,quantidade de acessos em serviço,SCM,2015-10,8068488.0
+oi,quantidade de acessos em serviço,SCM,2015-10,6397714.0
+sercomtel,quantidade de acessos em serviço,SCM,2015-10,156168.0
+sky,quantidade de acessos em serviço,SCM,2015-10,244226.0
+tim,quantidade de acessos em serviço,SCM,2015-10,232933.0
+viacabo,quantidade de acessos em serviço,SCM,2015-10,124061.0
+vivo,quantidade de acessos em serviço,SCM,2015-10,4105710.0
+algar,quantidade de reabertas,SCM,2015-10,15.0
+gvt,quantidade de reabertas,SCM,2015-10,211.0
+net,quantidade de reabertas,SCM,2015-10,506.0
+oi,quantidade de reabertas,SCM,2015-10,2766.0
+sercomtel,quantidade de reabertas,SCM,2015-10,4.0
+sky,quantidade de reabertas,SCM,2015-10,83.0
+tim,quantidade de reabertas,SCM,2015-10,192.0
+viacabo,quantidade de reabertas,SCM,2015-10,22.0
+vivo,quantidade de reabertas,SCM,2015-10,1013.0
+algar,quantidade de reclamações,SCM,2015-10,269.0
+gvt,quantidade de reclamações,SCM,2015-10,4437.0
+net,quantidade de reclamações,SCM,2015-10,6836.0
+oi,quantidade de reclamações,SCM,2015-10,27158.0
+sercomtel,quantidade de reclamações,SCM,2015-10,47.0
+sky,quantidade de reclamações,SCM,2015-10,885.0
+tim,quantidade de reclamações,SCM,2015-10,1367.0
+viacabo,quantidade de reclamações,SCM,2015-10,89.0
+vivo,quantidade de reclamações,SCM,2015-10,10751.0
+algar,quantidade de reclamações no período,SCM,2015-10,734.0
+gvt,quantidade de reclamações no período,SCM,2015-10,12004.0
+net,quantidade de reclamações no período,SCM,2015-10,20861.0
+oi,quantidade de reclamações no período,SCM,2015-10,97362.0
+sercomtel,quantidade de reclamações no período,SCM,2015-10,146.0
+sky,quantidade de reclamações no período,SCM,2015-10,2740.0
+tim,quantidade de reclamações no período,SCM,2015-10,2656.0
+viacabo,quantidade de reclamações no período,SCM,2015-10,270.0
+vivo,quantidade de reclamações no período,SCM,2015-10,34136.0
+algar,quantidade de resolvidas,SCM,2015-10,269.0
+gvt,quantidade de resolvidas,SCM,2015-10,4407.0
+net,quantidade de resolvidas,SCM,2015-10,6783.0
+oi,quantidade de resolvidas,SCM,2015-10,26058.0
+sercomtel,quantidade de resolvidas,SCM,2015-10,46.0
+sky,quantidade de resolvidas,SCM,2015-10,884.0
+tim,quantidade de resolvidas,SCM,2015-10,1289.0
+viacabo,quantidade de resolvidas,SCM,2015-10,84.0
+vivo,quantidade de resolvidas,SCM,2015-10,10697.0
+algar,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,224.0
+gvt,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,3812.0
+net,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,5730.0
+oi,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,20348.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,31.0
+sky,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,767.0
+tim,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,1131.0
+viacabo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,69.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-10,8184.0
+algar,quantidade de sol. resolvidas no período,SCM,2015-10,734.0
+gvt,quantidade de sol. resolvidas no período,SCM,2015-10,11911.0
+net,quantidade de sol. resolvidas no período,SCM,2015-10,20715.0
+oi,quantidade de sol. resolvidas no período,SCM,2015-10,97063.0
+sercomtel,quantidade de sol. resolvidas no período,SCM,2015-10,146.0
+sky,quantidade de sol. resolvidas no período,SCM,2015-10,2739.0
+tim,quantidade de sol. resolvidas no período,SCM,2015-10,2633.0
+viacabo,quantidade de sol. resolvidas no período,SCM,2015-10,270.0
+vivo,quantidade de sol. resolvidas no período,SCM,2015-10,33907.0
+algar,taxa de reabertas,SCM,2015-10,5.57620817843866
+gvt,taxa de reabertas,SCM,2015-10,4.78783753120036
+net,taxa de reabertas,SCM,2015-10,7.45982603567743
+oi,taxa de reabertas,SCM,2015-10,10.6147824084734
+sercomtel,taxa de reabertas,SCM,2015-10,8.69565217391304
+sky,taxa de reabertas,SCM,2015-10,9.38914027149321
+tim,taxa de reabertas,SCM,2015-10,14.8952676493406
+viacabo,taxa de reabertas,SCM,2015-10,26.1904761904762
+vivo,taxa de reabertas,SCM,2015-10,9.46994484434888
+algar,taxa de resolvidas em 5 dias úteis,SCM,2015-10,83.271375464684
+gvt,taxa de resolvidas em 5 dias úteis,SCM,2015-10,85.9139057922019
+net,taxa de resolvidas em 5 dias úteis,SCM,2015-10,83.8209479227618
+oi,taxa de resolvidas em 5 dias úteis,SCM,2015-10,74.9245157964504
+sercomtel,taxa de resolvidas em 5 dias úteis,SCM,2015-10,65.9574468085106
+sky,taxa de resolvidas em 5 dias úteis,SCM,2015-10,86.6666666666667
+tim,taxa de resolvidas em 5 dias úteis,SCM,2015-10,82.7359180687637
+viacabo,taxa de resolvidas em 5 dias úteis,SCM,2015-10,77.5280898876404
+vivo,taxa de resolvidas em 5 dias úteis,SCM,2015-10,76.1231513347596
+algar,taxa de resolvidas no período,SCM,2015-10,100.0
+gvt,taxa de resolvidas no período,SCM,2015-10,99.225
+net,taxa de resolvidas no período,SCM,2015-10,99.3
+oi,taxa de resolvidas no período,SCM,2015-10,99.693
+sercomtel,taxa de resolvidas no período,SCM,2015-10,100.0
+sky,taxa de resolvidas no período,SCM,2015-10,99.964
+tim,taxa de resolvidas no período,SCM,2015-10,99.134
+viacabo,taxa de resolvidas no período,SCM,2015-10,100.0
+vivo,taxa de resolvidas no período,SCM,2015-10,99.329
+algar,indicador de desempenho no atendimento (ida),SCM,2015-11,95.8407905169944
+gvt,indicador de desempenho no atendimento (ida),SCM,2015-11,77.4212588130263
+net,indicador de desempenho no atendimento (ida),SCM,2015-11,85.8989412116094
+oi,indicador de desempenho no atendimento (ida),SCM,2015-11,0.0
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2015-11,67.3586914440573
+sky,indicador de desempenho no atendimento (ida),SCM,2015-11,29.8479783762932
+tim,indicador de desempenho no atendimento (ida),SCM,2015-11,0.0
+viacabo,indicador de desempenho no atendimento (ida),SCM,2015-11,63.2844062682499
+vivo,indicador de desempenho no atendimento (ida),SCM,2015-11,32.1906465874071
+algar,índice de reclamações,SCM,2015-11,0.566368379320225
+gvt,índice de reclamações,SCM,2015-11,1.30314964747895
+net,índice de reclamações,SCM,2015-11,0.763297653462124
+oi,índice de reclamações,SCM,2015-11,3.97740248925998
+sercomtel,índice de reclamações,SCM,2015-11,0.266807269862848
+sky,índice de reclamações,SCM,2015-11,2.94449146097476
+tim,índice de reclamações,SCM,2015-11,5.37423586373712
+viacabo,índice de reclamações,SCM,2015-11,0.435807211802305
+vivo,índice de reclamações,SCM,2015-11,2.44425104493074
+algar,quantidade de acessos em serviço,SCM,2015-11,450237.0
+gvt,quantidade de acessos em serviço,SCM,2015-11,3250586.0
+net,quantidade de acessos em serviço,SCM,2015-11,8092518.0
+oi,quantidade de acessos em serviço,SCM,2015-11,6384066.0
+sercomtel,quantidade de acessos em serviço,SCM,2015-11,157417.0
+sky,quantidade de acessos em serviço,SCM,2015-11,256411.0
+tim,quantidade de acessos em serviço,SCM,2015-11,242267.0
+viacabo,quantidade de acessos em serviço,SCM,2015-11,123908.0
+vivo,quantidade de acessos em serviço,SCM,2015-11,4098597.0
+algar,quantidade de reabertas,SCM,2015-11,13.0
+gvt,quantidade de reabertas,SCM,2015-11,183.0
+net,quantidade de reabertas,SCM,2015-11,442.0
+oi,quantidade de reabertas,SCM,2015-11,2514.0
+sercomtel,quantidade de reabertas,SCM,2015-11,11.0
+sky,quantidade de reabertas,SCM,2015-11,79.0
+tim,quantidade de reabertas,SCM,2015-11,231.0
+viacabo,quantidade de reabertas,SCM,2015-11,17.0
+vivo,quantidade de reabertas,SCM,2015-11,980.0
+algar,quantidade de reclamações,SCM,2015-11,255.0
+gvt,quantidade de reclamações,SCM,2015-11,4236.0
+net,quantidade de reclamações,SCM,2015-11,6177.0
+oi,quantidade de reclamações,SCM,2015-11,25392.0
+sercomtel,quantidade de reclamações,SCM,2015-11,42.0
+sky,quantidade de reclamações,SCM,2015-11,755.0
+tim,quantidade de reclamações,SCM,2015-11,1302.0
+viacabo,quantidade de reclamações,SCM,2015-11,54.0
+vivo,quantidade de reclamações,SCM,2015-11,10018.0
+algar,quantidade de reclamações no período,SCM,2015-11,759.0
+gvt,quantidade de reclamações no período,SCM,2015-11,12281.0
+net,quantidade de reclamações no período,SCM,2015-11,20310.0
+oi,quantidade de reclamações no período,SCM,2015-11,89454.0
+sercomtel,quantidade de reclamações no período,SCM,2015-11,133.0
+sky,quantidade de reclamações no período,SCM,2015-11,2569.0
+tim,quantidade de reclamações no período,SCM,2015-11,3097.0
+viacabo,quantidade de reclamações no período,SCM,2015-11,270.0
+vivo,quantidade de reclamações no período,SCM,2015-11,32660.0
+algar,quantidade de resolvidas,SCM,2015-11,255.0
+gvt,quantidade de resolvidas,SCM,2015-11,4212.0
+net,quantidade de resolvidas,SCM,2015-11,6152.0
+oi,quantidade de resolvidas,SCM,2015-11,23917.0
+sercomtel,quantidade de resolvidas,SCM,2015-11,41.0
+sky,quantidade de resolvidas,SCM,2015-11,755.0
+tim,quantidade de resolvidas,SCM,2015-11,1137.0
+viacabo,quantidade de resolvidas,SCM,2015-11,43.0
+vivo,quantidade de resolvidas,SCM,2015-11,9956.0
+algar,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,231.0
+gvt,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,3663.0
+net,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,5247.0
+oi,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,19010.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,22.0
+sky,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,648.0
+tim,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,974.0
+viacabo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,36.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-11,6847.0
+algar,quantidade de sol. resolvidas no período,SCM,2015-11,759.0
+gvt,quantidade de sol. resolvidas no período,SCM,2015-11,12242.0
+net,quantidade de sol. resolvidas no período,SCM,2015-11,20293.0
+oi,quantidade de sol. resolvidas no período,SCM,2015-11,89052.0
+sercomtel,quantidade de sol. resolvidas no período,SCM,2015-11,133.0
+sky,quantidade de sol. resolvidas no período,SCM,2015-11,2569.0
+tim,quantidade de sol. resolvidas no período,SCM,2015-11,3035.0
+viacabo,quantidade de sol. resolvidas no período,SCM,2015-11,270.0
+vivo,quantidade de sol. resolvidas no período,SCM,2015-11,32401.0
+algar,taxa de reabertas,SCM,2015-11,5.09803921568627
+gvt,taxa de reabertas,SCM,2015-11,4.34472934472934
+net,taxa de reabertas,SCM,2015-11,7.18465539661899
+oi,taxa de reabertas,SCM,2015-11,10.5113517581636
+sercomtel,taxa de reabertas,SCM,2015-11,26.8292682926829
+sky,taxa de reabertas,SCM,2015-11,10.4635761589404
+tim,taxa de reabertas,SCM,2015-11,20.3166226912929
+viacabo,taxa de reabertas,SCM,2015-11,39.5348837209302
+vivo,taxa de reabertas,SCM,2015-11,9.84331056649257
+algar,taxa de resolvidas em 5 dias úteis,SCM,2015-11,90.5882352941177
+gvt,taxa de resolvidas em 5 dias úteis,SCM,2015-11,86.4730878186969
+net,taxa de resolvidas em 5 dias úteis,SCM,2015-11,84.9441476444876
+oi,taxa de resolvidas em 5 dias úteis,SCM,2015-11,74.8660995589162
+sercomtel,taxa de resolvidas em 5 dias úteis,SCM,2015-11,52.3809523809524
+sky,taxa de resolvidas em 5 dias úteis,SCM,2015-11,85.8278145695364
+tim,taxa de resolvidas em 5 dias úteis,SCM,2015-11,74.8079877112135
+viacabo,taxa de resolvidas em 5 dias úteis,SCM,2015-11,66.6666666666667
+vivo,taxa de resolvidas em 5 dias úteis,SCM,2015-11,68.3469754442004
+algar,taxa de resolvidas no período,SCM,2015-11,100.0
+gvt,taxa de resolvidas no período,SCM,2015-11,99.682
+net,taxa de resolvidas no período,SCM,2015-11,99.916
+oi,taxa de resolvidas no período,SCM,2015-11,99.551
+sercomtel,taxa de resolvidas no período,SCM,2015-11,100.0
+sky,taxa de resolvidas no período,SCM,2015-11,100.0
+tim,taxa de resolvidas no período,SCM,2015-11,97.998
+viacabo,taxa de resolvidas no período,SCM,2015-11,100.0
+vivo,taxa de resolvidas no período,SCM,2015-11,99.207
+algar,indicador de desempenho no atendimento (ida),SCM,2015-12,94.1650279953477
+gvt,indicador de desempenho no atendimento (ida),SCM,2015-12,75.151621699757
+net,indicador de desempenho no atendimento (ida),SCM,2015-12,91.3631657489634
+oi,indicador de desempenho no atendimento (ida),SCM,2015-12,0.610611016545533
+sercomtel,indicador de desempenho no atendimento (ida),SCM,2015-12,93.6507936507936
+sky,indicador de desempenho no atendimento (ida),SCM,2015-12,24.221766084839
+tim,indicador de desempenho no atendimento (ida),SCM,2015-12,0.0
+viacabo,indicador de desempenho no atendimento (ida),SCM,2015-12,77.7089918039587
+vivo,indicador de desempenho no atendimento (ida),SCM,2015-12,37.9713037971143
+algar,índice de reclamações,SCM,2015-12,0.633398880186091
+gvt,índice de reclamações,SCM,2015-12,1.39393513200972
+net,índice de reclamações,SCM,2015-12,0.745473370041465
+oi,índice de reclamações,SCM,2015-12,3.81022206627024
+sercomtel,índice de reclamações,SCM,2015-12,0.265113020205399
+sky,índice de reclamações,SCM,2015-12,3.43112935660644
+tim,índice de reclamações,SCM,2015-12,5.60789147243811
+viacabo,índice de reclamações,SCM,2015-12,0.489727759535642
+vivo,índice de reclamações,SCM,2015-12,2.30208140470572
+algar,quantidade de acessos em serviço,SCM,2015-12,453111.0
+gvt,quantidade de acessos em serviço,SCM,2015-12,3199575.0
+net,quantidade de acessos em serviço,SCM,2015-12,8110283.0
+oi,quantidade de acessos em serviço,SCM,2015-12,6372332.0
+sercomtel,quantidade de acessos em serviço,SCM,2015-12,158423.0
+sky,quantidade de acessos em serviço,SCM,2015-12,264053.0
+tim,quantidade de acessos em serviço,SCM,2015-12,252323.0
+viacabo,quantidade de acessos em serviço,SCM,2015-12,124559.0
+vivo,quantidade de acessos em serviço,SCM,2015-12,4196637.0
+algar,quantidade de reabertas,SCM,2015-12,20.0
+gvt,quantidade de reabertas,SCM,2015-12,264.0
+net,quantidade de reabertas,SCM,2015-12,442.0
+oi,quantidade de reabertas,SCM,2015-12,2251.0
+sercomtel,quantidade de reabertas,SCM,2015-12,1.0
+sky,quantidade de reabertas,SCM,2015-12,67.0
+tim,quantidade de reabertas,SCM,2015-12,282.0
+viacabo,quantidade de reabertas,SCM,2015-12,14.0
+vivo,quantidade de reabertas,SCM,2015-12,894.0
+algar,quantidade de reclamações,SCM,2015-12,287.0
+gvt,quantidade de reclamações,SCM,2015-12,4460.0
+net,quantidade de reclamações,SCM,2015-12,6046.0
+oi,quantidade de reclamações,SCM,2015-12,24280.0
+sercomtel,quantidade de reclamações,SCM,2015-12,42.0
+sky,quantidade de reclamações,SCM,2015-12,906.0
+tim,quantidade de reclamações,SCM,2015-12,1415.0
+viacabo,quantidade de reclamações,SCM,2015-12,61.0
+vivo,quantidade de reclamações,SCM,2015-12,9661.0
+algar,quantidade de reclamações no período,SCM,2015-12,794.0
+gvt,quantidade de reclamações no período,SCM,2015-12,12712.0
+net,quantidade de reclamações no período,SCM,2015-12,19762.0
+oi,quantidade de reclamações no período,SCM,2015-12,83026.0
+sercomtel,quantidade de reclamações no período,SCM,2015-12,127.0
+sky,quantidade de reclamações no período,SCM,2015-12,2529.0
+tim,quantidade de reclamações no período,SCM,2015-12,3544.0
+viacabo,quantidade de reclamações no período,SCM,2015-12,250.0
+vivo,quantidade de reclamações no período,SCM,2015-12,31959.0
+algar,quantidade de resolvidas,SCM,2015-12,287.0
+gvt,quantidade de resolvidas,SCM,2015-12,4444.0
+net,quantidade de resolvidas,SCM,2015-12,6031.0
+oi,quantidade de resolvidas,SCM,2015-12,23132.0
+sercomtel,quantidade de resolvidas,SCM,2015-12,42.0
+sky,quantidade de resolvidas,SCM,2015-12,900.0
+tim,quantidade de resolvidas,SCM,2015-12,1376.0
+viacabo,quantidade de resolvidas,SCM,2015-12,60.0
+vivo,quantidade de resolvidas,SCM,2015-12,9658.0
+algar,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,255.0
+gvt,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,3856.0
+net,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,5157.0
+oi,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,18415.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,34.0
+sky,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,773.0
+tim,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,1124.0
+viacabo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,51.0
+vivo,quantidade de sol. resolvidas em até 5 dias,SCM,2015-12,7142.0
+algar,quantidade de sol. resolvidas no período,SCM,2015-12,794.0
+gvt,quantidade de sol. resolvidas no período,SCM,2015-12,12706.0
+net,quantidade de sol. resolvidas no período,SCM,2015-12,19679.0
+oi,quantidade de sol. resolvidas no período,SCM,2015-12,82752.0
+sercomtel,quantidade de sol. resolvidas no período,SCM,2015-12,127.0
+sky,quantidade de sol. resolvidas no período,SCM,2015-12,2529.0
+tim,quantidade de sol. resolvidas no período,SCM,2015-12,3521.0
+viacabo,quantidade de sol. resolvidas no período,SCM,2015-12,250.0
+vivo,quantidade de sol. resolvidas no período,SCM,2015-12,31872.0
+algar,taxa de reabertas,SCM,2015-12,6.96864111498258
+gvt,taxa de reabertas,SCM,2015-12,5.94059405940594
+net,taxa de reabertas,SCM,2015-12,7.32880119383187
+oi,taxa de reabertas,SCM,2015-12,9.73110842123465
+sercomtel,taxa de reabertas,SCM,2015-12,2.38095238095238
+sky,taxa de reabertas,SCM,2015-12,7.44444444444444
+tim,taxa de reabertas,SCM,2015-12,20.4941860465116
+viacabo,taxa de reabertas,SCM,2015-12,23.3333333333333
+vivo,taxa de reabertas,SCM,2015-12,9.25657486021951
+algar,taxa de resolvidas em 5 dias úteis,SCM,2015-12,88.8501742160279
+gvt,taxa de resolvidas em 5 dias úteis,SCM,2015-12,86.457399103139
+net,taxa de resolvidas em 5 dias úteis,SCM,2015-12,85.2960635130665
+oi,taxa de resolvidas em 5 dias úteis,SCM,2015-12,75.8443163097199
+sercomtel,taxa de resolvidas em 5 dias úteis,SCM,2015-12,80.9523809523809
+sky,taxa de resolvidas em 5 dias úteis,SCM,2015-12,85.3200883002208
+tim,taxa de resolvidas em 5 dias úteis,SCM,2015-12,79.434628975265
+viacabo,taxa de resolvidas em 5 dias úteis,SCM,2015-12,83.6065573770492
+vivo,taxa de resolvidas em 5 dias úteis,SCM,2015-12,73.9260946071835
+algar,taxa de resolvidas no período,SCM,2015-12,100.0
+gvt,taxa de resolvidas no período,SCM,2015-12,99.953
+net,taxa de resolvidas no período,SCM,2015-12,99.58
+oi,taxa de resolvidas no período,SCM,2015-12,99.67
+sercomtel,taxa de resolvidas no período,SCM,2015-12,100.0
+sky,taxa de resolvidas no período,SCM,2015-12,100.0
+tim,taxa de resolvidas no período,SCM,2015-12,99.351
+viacabo,taxa de resolvidas no período,SCM,2015-12,100.0
+vivo,taxa de resolvidas no período,SCM,2015-12,99.728

@@ -1,0 +1,1009 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-01,93.243
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-01,72.67
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-01,75.806
+oi,indicador de desempenho no atendimento (ida),STFC,2014-01,31.517
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-01,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-01,65.333
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-01,88.778
+ctbc telecom,quantidade de reclamações,STFC,2014-01,222.0
+embratel,quantidade de reclamações,STFC,2014-01,8900.0
+gvt,quantidade de reclamações,STFC,2014-01,5133.0
+oi,quantidade de reclamações,STFC,2014-01,41734.0
+sercomtel,quantidade de reclamações,STFC,2014-01,38.0
+telefônica,quantidade de reclamações,STFC,2014-01,16431.0
+tim/intelig,quantidade de reclamações,STFC,2014-01,509.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-01,885145.0
+embratel,quantidade de acessos em serviço,STFC,2014-01,10790530.0
+gvt,quantidade de acessos em serviço,STFC,2014-01,4170238.0
+oi,quantidade de acessos em serviço,STFC,2014-01,17381647.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-01,208609.0
+telefônica,quantidade de acessos em serviço,STFC,2014-01,10221369.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-01,665946.0
+ctbc telecom,índice de reclamações,STFC,2014-01,0.251
+embratel,índice de reclamações,STFC,2014-01,0.825
+gvt,índice de reclamações,STFC,2014-01,1.231
+oi,índice de reclamações,STFC,2014-01,2.401
+sercomtel,índice de reclamações,STFC,2014-01,0.182
+telefônica,índice de reclamações,STFC,2014-01,1.608
+tim/intelig,índice de reclamações,STFC,2014-01,0.764
+ctbc telecom,quantidade de resolvidas,STFC,2014-01,222.0
+embratel,quantidade de resolvidas,STFC,2014-01,8175.0
+gvt,quantidade de resolvidas,STFC,2014-01,5059.0
+oi,quantidade de resolvidas,STFC,2014-01,35116.0
+sercomtel,quantidade de resolvidas,STFC,2014-01,37.0
+telefônica,quantidade de resolvidas,STFC,2014-01,16422.0
+tim/intelig,quantidade de resolvidas,STFC,2014-01,500.0
+ctbc telecom,quantidade de reabertas,STFC,2014-01,24.0
+embratel,quantidade de reabertas,STFC,2014-01,748.0
+gvt,quantidade de reabertas,STFC,2014-01,338.0
+oi,quantidade de reabertas,STFC,2014-01,2694.0
+sercomtel,quantidade de reabertas,STFC,2014-01,2.0
+telefônica,quantidade de reabertas,STFC,2014-01,1308.0
+tim/intelig,quantidade de reabertas,STFC,2014-01,20.0
+ctbc telecom,taxa de reabertas,STFC,2014-01,10.811
+embratel,taxa de reabertas,STFC,2014-01,9.15
+gvt,taxa de reabertas,STFC,2014-01,6.681
+oi,taxa de reabertas,STFC,2014-01,7.672
+sercomtel,taxa de reabertas,STFC,2014-01,5.405
+telefônica,taxa de reabertas,STFC,2014-01,7.965
+tim/intelig,taxa de reabertas,STFC,2014-01,4.0
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,192.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,7282.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,4376.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,26975.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,35.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,14197.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-01,435.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-01,86.486
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-01,81.82
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-01,85.252
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-01,64.636
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-01,92.105
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-01,86.404
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-01,85.462
+ctbc telecom,quantidade de reclamações no período,STFC,2014-01,874.0
+embratel,quantidade de reclamações no período,STFC,2014-01,29299.0
+gvt,quantidade de reclamações no período,STFC,2014-01,18049.0
+oi,quantidade de reclamações no período,STFC,2014-01,116230.0
+sercomtel,quantidade de reclamações no período,STFC,2014-01,150.0
+telefônica,quantidade de reclamações no período,STFC,2014-01,47712.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-01,1672.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-01,872.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-01,28913.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-01,18030.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-01,115663.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-01,150.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-01,47707.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-01,1661.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-01,99.771
+embratel,taxa de resolvidas no período,STFC,2014-01,98.683
+gvt,taxa de resolvidas no período,STFC,2014-01,99.895
+oi,taxa de resolvidas no período,STFC,2014-01,99.512
+sercomtel,taxa de resolvidas no período,STFC,2014-01,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-01,99.99
+tim/intelig,taxa de resolvidas no período,STFC,2014-01,99.342
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-02,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-02,72.548
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-02,69.882
+oi,indicador de desempenho no atendimento (ida),STFC,2014-02,33.292
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-02,85.521
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-02,62.783
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-02,83.102
+ctbc telecom,quantidade de reclamações,STFC,2014-02,248.0
+embratel,quantidade de reclamações,STFC,2014-02,8954.0
+gvt,quantidade de reclamações,STFC,2014-02,4958.0
+oi,quantidade de reclamações,STFC,2014-02,39457.0
+sercomtel,quantidade de reclamações,STFC,2014-02,40.0
+telefônica,quantidade de reclamações,STFC,2014-02,15329.0
+tim/intelig,quantidade de reclamações,STFC,2014-02,518.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-02,886457.0
+embratel,quantidade de acessos em serviço,STFC,2014-02,10903165.0
+gvt,quantidade de acessos em serviço,STFC,2014-02,4208889.0
+oi,quantidade de acessos em serviço,STFC,2014-02,17380800.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-02,209625.0
+telefônica,quantidade de acessos em serviço,STFC,2014-02,10646959.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-02,661771.0
+ctbc telecom,índice de reclamações,STFC,2014-02,0.28
+embratel,índice de reclamações,STFC,2014-02,0.821
+gvt,índice de reclamações,STFC,2014-02,1.178
+oi,índice de reclamações,STFC,2014-02,2.27
+sercomtel,índice de reclamações,STFC,2014-02,0.191
+telefônica,índice de reclamações,STFC,2014-02,1.44
+tim/intelig,índice de reclamações,STFC,2014-02,0.783
+ctbc telecom,quantidade de resolvidas,STFC,2014-02,248.0
+embratel,quantidade de resolvidas,STFC,2014-02,8131.0
+gvt,quantidade de resolvidas,STFC,2014-02,4677.0
+oi,quantidade de resolvidas,STFC,2014-02,32792.0
+sercomtel,quantidade de resolvidas,STFC,2014-02,40.0
+telefônica,quantidade de resolvidas,STFC,2014-02,15302.0
+tim/intelig,quantidade de resolvidas,STFC,2014-02,507.0
+ctbc telecom,quantidade de reabertas,STFC,2014-02,13.0
+embratel,quantidade de reabertas,STFC,2014-02,764.0
+gvt,quantidade de reabertas,STFC,2014-02,263.0
+oi,quantidade de reabertas,STFC,2014-02,2446.0
+sercomtel,quantidade de reabertas,STFC,2014-02,5.0
+telefônica,quantidade de reabertas,STFC,2014-02,908.0
+tim/intelig,quantidade de reabertas,STFC,2014-02,30.0
+ctbc telecom,taxa de reabertas,STFC,2014-02,5.242
+embratel,taxa de reabertas,STFC,2014-02,9.396
+gvt,taxa de reabertas,STFC,2014-02,5.623
+oi,taxa de reabertas,STFC,2014-02,7.459
+sercomtel,taxa de reabertas,STFC,2014-02,12.5
+telefônica,taxa de reabertas,STFC,2014-02,5.934
+tim/intelig,taxa de reabertas,STFC,2014-02,5.917
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,223.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,7203.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,3858.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,23302.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,32.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,12010.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-02,438.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-02,89.919
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-02,80.444
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-02,77.814
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-02,59.057
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-02,80.0
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-02,78.348
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-02,84.556
+ctbc telecom,quantidade de reclamações no período,STFC,2014-02,718.0
+embratel,quantidade de reclamações no período,STFC,2014-02,26960.0
+gvt,quantidade de reclamações no período,STFC,2014-02,15864.0
+oi,quantidade de reclamações no período,STFC,2014-02,121715.0
+sercomtel,quantidade de reclamações no período,STFC,2014-02,111.0
+telefônica,quantidade de reclamações no período,STFC,2014-02,46369.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-02,2059.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-02,716.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-02,26656.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-02,15803.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-02,121162.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-02,111.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-02,46354.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-02,2046.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-02,99.719
+embratel,taxa de resolvidas no período,STFC,2014-02,96.04
+gvt,taxa de resolvidas no período,STFC,2014-02,97.878
+oi,taxa de resolvidas no período,STFC,2014-02,94.313
+sercomtel,taxa de resolvidas no período,STFC,2014-02,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-02,99.921
+tim/intelig,taxa de resolvidas no período,STFC,2014-02,99.037
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-03,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-03,81.168
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-03,72.537
+oi,indicador de desempenho no atendimento (ida),STFC,2014-03,56.81
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-03,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-03,73.0
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-03,88.899
+ctbc telecom,quantidade de reclamações,STFC,2014-03,147.0
+embratel,quantidade de reclamações,STFC,2014-03,6325.0
+gvt,quantidade de reclamações,STFC,2014-03,4287.0
+oi,quantidade de reclamações,STFC,2014-03,24658.0
+sercomtel,quantidade de reclamações,STFC,2014-03,19.0
+telefônica,quantidade de reclamações,STFC,2014-03,10791.0
+tim/intelig,quantidade de reclamações,STFC,2014-03,351.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-03,897598.0
+embratel,quantidade de acessos em serviço,STFC,2014-03,11014896.0
+gvt,quantidade de acessos em serviço,STFC,2014-03,4253384.0
+oi,quantidade de acessos em serviço,STFC,2014-03,17258223.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-03,211425.0
+telefônica,quantidade de acessos em serviço,STFC,2014-03,10243450.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-03,656821.0
+ctbc telecom,índice de reclamações,STFC,2014-03,0.164
+embratel,índice de reclamações,STFC,2014-03,0.574
+gvt,índice de reclamações,STFC,2014-03,1.008
+oi,índice de reclamações,STFC,2014-03,1.429
+sercomtel,índice de reclamações,STFC,2014-03,0.09
+telefônica,índice de reclamações,STFC,2014-03,1.053
+tim/intelig,índice de reclamações,STFC,2014-03,0.534
+ctbc telecom,quantidade de resolvidas,STFC,2014-03,146.0
+embratel,quantidade de resolvidas,STFC,2014-03,5827.0
+gvt,quantidade de resolvidas,STFC,2014-03,4027.0
+oi,quantidade de resolvidas,STFC,2014-03,17889.0
+sercomtel,quantidade de resolvidas,STFC,2014-03,18.0
+telefônica,quantidade de resolvidas,STFC,2014-03,10406.0
+tim/intelig,quantidade de resolvidas,STFC,2014-03,346.0
+ctbc telecom,quantidade de reabertas,STFC,2014-03,10.0
+embratel,quantidade de reabertas,STFC,2014-03,553.0
+gvt,quantidade de reabertas,STFC,2014-03,254.0
+oi,quantidade de reabertas,STFC,2014-03,1097.0
+sercomtel,quantidade de reabertas,STFC,2014-03,1.0
+telefônica,quantidade de reabertas,STFC,2014-03,635.0
+tim/intelig,quantidade de reabertas,STFC,2014-03,25.0
+ctbc telecom,taxa de reabertas,STFC,2014-03,6.849
+embratel,taxa de reabertas,STFC,2014-03,9.49
+gvt,taxa de reabertas,STFC,2014-03,6.307
+oi,taxa de reabertas,STFC,2014-03,6.132
+sercomtel,taxa de reabertas,STFC,2014-03,5.556
+telefônica,taxa de reabertas,STFC,2014-03,6.102
+tim/intelig,taxa de reabertas,STFC,2014-03,7.225
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,130.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,5005.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,3070.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,14670.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,17.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,8282.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-03,285.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-03,88.435
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-03,79.13
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-03,71.612
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-03,59.494
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-03,89.474
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-03,76.749
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-03,81.197
+ctbc telecom,quantidade de reclamações no período,STFC,2014-03,711.0
+embratel,quantidade de reclamações no período,STFC,2014-03,26621.0
+gvt,quantidade de reclamações no período,STFC,2014-03,15275.0
+oi,quantidade de reclamações no período,STFC,2014-03,125436.0
+sercomtel,quantidade de reclamações no período,STFC,2014-03,113.0
+telefônica,quantidade de reclamações no período,STFC,2014-03,46564.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-03,1869.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-03,711.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-03,26374.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-03,15209.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-03,124850.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-03,113.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-03,46519.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-03,1852.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-03,100.0
+embratel,taxa de resolvidas no período,STFC,2014-03,99.072
+gvt,taxa de resolvidas no período,STFC,2014-03,99.568
+oi,taxa de resolvidas no período,STFC,2014-03,99.533
+sercomtel,taxa de resolvidas no período,STFC,2014-03,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-03,99.903
+tim/intelig,taxa de resolvidas no período,STFC,2014-03,99.09
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-04,94.937
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-04,79.219
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-04,74.421
+oi,indicador de desempenho no atendimento (ida),STFC,2014-04,45.474
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-04,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-04,72.6
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-04,85.373
+ctbc telecom,quantidade de reclamações,STFC,2014-04,158.0
+embratel,quantidade de reclamações,STFC,2014-04,5981.0
+gvt,quantidade de reclamações,STFC,2014-04,3813.0
+oi,quantidade de reclamações,STFC,2014-04,29783.0
+sercomtel,quantidade de reclamações,STFC,2014-04,33.0
+telefônica,quantidade de reclamações,STFC,2014-04,10489.0
+tim/intelig,quantidade de reclamações,STFC,2014-04,395.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-04,899769.0
+embratel,quantidade de acessos em serviço,STFC,2014-04,11075257.0
+gvt,quantidade de acessos em serviço,STFC,2014-04,4299885.0
+oi,quantidade de acessos em serviço,STFC,2014-04,17181032.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-04,213066.0
+telefônica,quantidade de acessos em serviço,STFC,2014-04,10225063.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-04,660723.0
+ctbc telecom,índice de reclamações,STFC,2014-04,0.176
+embratel,índice de reclamações,STFC,2014-04,0.54
+gvt,índice de reclamações,STFC,2014-04,0.887
+oi,índice de reclamações,STFC,2014-04,1.733
+sercomtel,índice de reclamações,STFC,2014-04,0.155
+telefônica,índice de reclamações,STFC,2014-04,1.026
+tim/intelig,índice de reclamações,STFC,2014-04,0.598
+ctbc telecom,quantidade de resolvidas,STFC,2014-04,155.0
+embratel,quantidade de resolvidas,STFC,2014-04,4811.0
+gvt,quantidade de resolvidas,STFC,2014-04,3287.0
+oi,quantidade de resolvidas,STFC,2014-04,17876.0
+sercomtel,quantidade de resolvidas,STFC,2014-04,32.0
+telefônica,quantidade de resolvidas,STFC,2014-04,9575.0
+tim/intelig,quantidade de resolvidas,STFC,2014-04,360.0
+ctbc telecom,quantidade de reabertas,STFC,2014-04,11.0
+embratel,quantidade de reabertas,STFC,2014-04,400.0
+gvt,quantidade de reabertas,STFC,2014-04,224.0
+oi,quantidade de reabertas,STFC,2014-04,1378.0
+sercomtel,quantidade de reabertas,STFC,2014-04,2.0
+telefônica,quantidade de reabertas,STFC,2014-04,565.0
+tim/intelig,quantidade de reabertas,STFC,2014-04,22.0
+ctbc telecom,taxa de reabertas,STFC,2014-04,7.097
+embratel,taxa de reabertas,STFC,2014-04,8.314
+gvt,taxa de reabertas,STFC,2014-04,6.815
+oi,taxa de reabertas,STFC,2014-04,7.709
+sercomtel,taxa de reabertas,STFC,2014-04,6.25
+telefônica,taxa de reabertas,STFC,2014-04,5.901
+tim/intelig,taxa de reabertas,STFC,2014-04,6.111
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,134.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,4082.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,2884.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,15153.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,29.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,7687.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-04,328.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-04,84.81
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-04,68.249
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-04,75.636
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-04,50.878
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-04,87.879
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-04,73.286
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-04,83.038
+ctbc telecom,quantidade de reclamações no período,STFC,2014-04,617.0
+embratel,quantidade de reclamações no período,STFC,2014-04,24178.0
+gvt,quantidade de reclamações no período,STFC,2014-04,14369.0
+oi,quantidade de reclamações no período,STFC,2014-04,105596.0
+sercomtel,quantidade de reclamações no período,STFC,2014-04,98.0
+telefônica,quantidade de reclamações no período,STFC,2014-04,42566.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-04,1521.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-04,617.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-04,23962.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-04,14166.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-04,105098.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-04,98.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-04,42522.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-04,1503.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-04,100.0
+embratel,taxa de resolvidas no período,STFC,2014-04,99.107
+gvt,taxa de resolvidas no período,STFC,2014-04,98.587
+oi,taxa de resolvidas no período,STFC,2014-04,99.528
+sercomtel,taxa de resolvidas no período,STFC,2014-04,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-04,99.897
+tim/intelig,taxa de resolvidas no período,STFC,2014-04,98.817
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-05,94.748
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-05,72.908
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-05,74.444
+oi,indicador de desempenho no atendimento (ida),STFC,2014-05,12.863
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-05,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-05,66.334
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-05,86.491
+ctbc telecom,quantidade de reclamações,STFC,2014-05,238.0
+embratel,quantidade de reclamações,STFC,2014-05,10177.0
+gvt,quantidade de reclamações,STFC,2014-05,5556.0
+oi,quantidade de reclamações,STFC,2014-05,49924.0
+sercomtel,quantidade de reclamações,STFC,2014-05,39.0
+telefônica,quantidade de reclamações,STFC,2014-05,14659.0
+tim/intelig,quantidade de reclamações,STFC,2014-05,505.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-05,902862.0
+embratel,quantidade de acessos em serviço,STFC,2014-05,11147169.0
+gvt,quantidade de acessos em serviço,STFC,2014-05,4340946.0
+oi,quantidade de acessos em serviço,STFC,2014-05,17099462.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-05,214500.0
+telefônica,quantidade de acessos em serviço,STFC,2014-05,10797555.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-05,663168.0
+ctbc telecom,índice de reclamações,STFC,2014-05,0.264
+embratel,índice de reclamações,STFC,2014-05,0.913
+gvt,índice de reclamações,STFC,2014-05,1.28
+oi,índice de reclamações,STFC,2014-05,2.92
+sercomtel,índice de reclamações,STFC,2014-05,0.182
+telefônica,índice de reclamações,STFC,2014-05,1.358
+tim/intelig,índice de reclamações,STFC,2014-05,0.761
+ctbc telecom,quantidade de resolvidas,STFC,2014-05,238.0
+embratel,quantidade de resolvidas,STFC,2014-05,9543.0
+gvt,quantidade de resolvidas,STFC,2014-05,5298.0
+oi,quantidade de resolvidas,STFC,2014-05,41459.0
+sercomtel,quantidade de resolvidas,STFC,2014-05,39.0
+telefônica,quantidade de resolvidas,STFC,2014-05,14219.0
+tim/intelig,quantidade de resolvidas,STFC,2014-05,14219.0
+ctbc telecom,quantidade de reabertas,STFC,2014-05,20.0
+embratel,quantidade de reabertas,STFC,2014-05,886.0
+gvt,quantidade de reabertas,STFC,2014-05,366.0
+oi,quantidade de reabertas,STFC,2014-05,3105.0
+sercomtel,quantidade de reabertas,STFC,2014-05,3.0
+telefônica,quantidade de reabertas,STFC,2014-05,1084.0
+tim/intelig,quantidade de reabertas,STFC,2014-05,36.0
+ctbc telecom,taxa de reabertas,STFC,2014-05,8.403
+embratel,taxa de reabertas,STFC,2014-05,9.284
+gvt,taxa de reabertas,STFC,2014-05,6.908
+oi,taxa de reabertas,STFC,2014-05,7.489
+sercomtel,taxa de reabertas,STFC,2014-05,7.692
+telefônica,taxa de reabertas,STFC,2014-05,7.624
+tim/intelig,taxa de reabertas,STFC,2014-05,7.186
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,217.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,8367.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,4862.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,25907.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,37.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,12045.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-05,438.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-05,91.176
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-05,82.215
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-05,87.509
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-05,51.893
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-05,94.872
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-05,82.168
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-05,86.733
+ctbc telecom,quantidade de reclamações no período,STFC,2014-05,553.0
+embratel,quantidade de reclamações no período,STFC,2014-05,21262.0
+gvt,quantidade de reclamações no período,STFC,2014-05,13059.0
+oi,quantidade de reclamações no período,STFC,2014-05,93750.0
+sercomtel,quantidade de reclamações no período,STFC,2014-05,93.0
+telefônica,quantidade de reclamações no período,STFC,2014-05,36622.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-05,1266.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-05,553.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-05,21052.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-05,12968.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-05,93269.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-05,93.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-05,36490.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-05,1251.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-05,100.0
+embratel,taxa de resolvidas no período,STFC,2014-05,99.012
+gvt,taxa de resolvidas no período,STFC,2014-05,99.303
+oi,taxa de resolvidas no período,STFC,2014-05,99.487
+sercomtel,taxa de resolvidas no período,STFC,2014-05,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-05,99.64
+tim/intelig,taxa de resolvidas no período,STFC,2014-05,98.815
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-06,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-06,75.812
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-06,78.361
+oi,indicador de desempenho no atendimento (ida),STFC,2014-06,9.942
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-06,100.0
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-06,62.577
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-06,89.0
+ctbc telecom,quantidade de reclamações,STFC,2014-06,220.0
+embratel,quantidade de reclamações,STFC,2014-06,8968.0
+gvt,quantidade de reclamações,STFC,2014-06,4983.0
+oi,quantidade de reclamações,STFC,2014-06,48800.0
+sercomtel,quantidade de reclamações,STFC,2014-06,39.0
+telefônica,quantidade de reclamações,STFC,2014-06,15464.0
+tim/intelig,quantidade de reclamações,STFC,2014-06,505.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-06,887501.0
+embratel,quantidade de acessos em serviço,STFC,2014-06,11188716.0
+gvt,quantidade de acessos em serviço,STFC,2014-06,4374020.0
+oi,quantidade de acessos em serviço,STFC,2014-06,17024409.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-06,212439.0
+telefônica,quantidade de acessos em serviço,STFC,2014-06,10587078.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-06,667582.0
+ctbc telecom,índice de reclamações,STFC,2014-06,0.248
+embratel,índice de reclamações,STFC,2014-06,0.802
+gvt,índice de reclamações,STFC,2014-06,1.139
+oi,índice de reclamações,STFC,2014-06,2.866
+sercomtel,índice de reclamações,STFC,2014-06,0.184
+telefônica,índice de reclamações,STFC,2014-06,1.461
+tim/intelig,índice de reclamações,STFC,2014-06,0.756
+ctbc telecom,quantidade de resolvidas,STFC,2014-06,220.0
+embratel,quantidade de resolvidas,STFC,2014-06,8357.0
+gvt,quantidade de resolvidas,STFC,2014-06,4808.0
+oi,quantidade de resolvidas,STFC,2014-06,22593.0
+sercomtel,quantidade de resolvidas,STFC,2014-06,39.0
+telefônica,quantidade de resolvidas,STFC,2014-06,15173.0
+tim/intelig,quantidade de resolvidas,STFC,2014-06,470.0
+ctbc telecom,quantidade de reabertas,STFC,2014-06,11.0
+embratel,quantidade de reabertas,STFC,2014-06,684.0
+gvt,quantidade de reabertas,STFC,2014-06,321.0
+oi,quantidade de reabertas,STFC,2014-06,1700.0
+sercomtel,quantidade de reabertas,STFC,2014-06,2.0
+telefônica,quantidade de reabertas,STFC,2014-06,1197.0
+tim/intelig,quantidade de reabertas,STFC,2014-06,14.0
+ctbc telecom,taxa de reabertas,STFC,2014-06,5.0
+embratel,taxa de reabertas,STFC,2014-06,8.185
+gvt,taxa de reabertas,STFC,2014-06,6.676
+oi,taxa de reabertas,STFC,2014-06,7.524
+sercomtel,taxa de reabertas,STFC,2014-06,5.128
+telefônica,taxa de reabertas,STFC,2014-06,7.889
+tim/intelig,taxa de reabertas,STFC,2014-06,2.979
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,196.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,7140.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,4268.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,18885.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,36.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,12291.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-06,441.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-06,89.091
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-06,79.616
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-06,85.651
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-06,38.699
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-06,92.308
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-06,79.481
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-06,87.327
+ctbc telecom,quantidade de reclamações no período,STFC,2014-06,543.0
+embratel,quantidade de reclamações no período,STFC,2014-06,22489.0
+gvt,quantidade de reclamações no período,STFC,2014-06,13653.0
+oi,quantidade de reclamações no período,STFC,2014-06,104321.0
+sercomtel,quantidade de reclamações no período,STFC,2014-06,91.0
+telefônica,quantidade de reclamações no período,STFC,2014-06,35944.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-06,1251.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-06,543.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-06,22297.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-06,13630.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-06,103895.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-06,91.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-06,35899.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-06,1240.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-06,100.0
+embratel,taxa de resolvidas no período,STFC,2014-06,99.146
+gvt,taxa de resolvidas no período,STFC,2014-06,99.832
+oi,taxa de resolvidas no período,STFC,2014-06,99.592
+sercomtel,taxa de resolvidas no período,STFC,2014-06,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-06,99.875
+tim/intelig,taxa de resolvidas no período,STFC,2014-06,99.121
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-07,94.421
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-07,72.336
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-07,60.992
+oi,indicador de desempenho no atendimento (ida),STFC,2014-07,0.0
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-07,93.644
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-07,52.179
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-07,76.694
+ctbc telecom,quantidade de reclamações,STFC,2014-07,335.0
+embratel,quantidade de reclamações,STFC,2014-07,10360.0
+gvt,quantidade de reclamações,STFC,2014-07,6817.0
+oi,quantidade de reclamações,STFC,2014-07,62645.0
+sercomtel,quantidade de reclamações,STFC,2014-07,59.0
+telefônica,quantidade de reclamações,STFC,2014-07,17719.0
+tim/intelig,quantidade de reclamações,STFC,2014-07,603.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-07,903673.0
+embratel,quantidade de acessos em serviço,STFC,2014-07,11252896.0
+gvt,quantidade de acessos em serviço,STFC,2014-07,4401400.0
+oi,quantidade de acessos em serviço,STFC,2014-07,16915277.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-07,218593.0
+telefônica,quantidade de acessos em serviço,STFC,2014-07,10815068.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-07,503022.0
+ctbc telecom,índice de reclamações,STFC,2014-07,0.371
+embratel,índice de reclamações,STFC,2014-07,0.921
+gvt,índice de reclamações,STFC,2014-07,1.549
+oi,índice de reclamações,STFC,2014-07,3.703
+sercomtel,índice de reclamações,STFC,2014-07,0.27
+telefônica,índice de reclamações,STFC,2014-07,1.638
+tim/intelig,índice de reclamações,STFC,2014-07,1.199
+ctbc telecom,quantidade de resolvidas,STFC,2014-07,335.0
+embratel,quantidade de resolvidas,STFC,2014-07,9775.0
+gvt,quantidade de resolvidas,STFC,2014-07,6448.0
+oi,quantidade de resolvidas,STFC,2014-07,50213.0
+sercomtel,quantidade de resolvidas,STFC,2014-07,59.0
+telefônica,quantidade de resolvidas,STFC,2014-07,17167.0
+tim/intelig,quantidade de resolvidas,STFC,2014-07,549.0
+ctbc telecom,quantidade de reabertas,STFC,2014-07,24.0
+embratel,quantidade de reabertas,STFC,2014-07,975.0
+gvt,quantidade de reabertas,STFC,2014-07,617.0
+oi,quantidade de reabertas,STFC,2014-07,3677.0
+sercomtel,quantidade de reabertas,STFC,2014-07,6.0
+telefônica,quantidade de reabertas,STFC,2014-07,1572.0
+tim/intelig,quantidade de reabertas,STFC,2014-07,26.0
+ctbc telecom,taxa de reabertas,STFC,2014-07,7.164
+embratel,taxa de reabertas,STFC,2014-07,9.974
+gvt,taxa de reabertas,STFC,2014-07,9.569
+oi,taxa de reabertas,STFC,2014-07,7.323
+sercomtel,taxa de reabertas,STFC,2014-07,10.169
+telefônica,taxa de reabertas,STFC,2014-07,9.157
+tim/intelig,taxa de reabertas,STFC,2014-07,4.736
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,282.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,8543.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,5827.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,26813.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,57.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,14212.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-07,519.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-07,84.179
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-07,82.461
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-07,85.477
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-07,42.802
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-07,96.61
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-07,80.208
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-07,86.07
+ctbc telecom,quantidade de reclamações no período,STFC,2014-07,1236.0
+embratel,quantidade de reclamações no período,STFC,2014-07,50258.0
+gvt,quantidade de reclamações no período,STFC,2014-07,28760.0
+oi,quantidade de reclamações no período,STFC,2014-07,262694.0
+sercomtel,quantidade de reclamações no período,STFC,2014-07,222.0
+telefônica,quantidade de reclamações no período,STFC,2014-07,81324.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-07,2822.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-07,1236.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-07,49882.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-07,28578.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-07,261338.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-07,222.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-07,81026.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-07,2816.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-07,100.0
+embratel,taxa de resolvidas no período,STFC,2014-07,99.252
+gvt,taxa de resolvidas no período,STFC,2014-07,99.367
+oi,taxa de resolvidas no período,STFC,2014-07,99.484
+sercomtel,taxa de resolvidas no período,STFC,2014-07,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-07,99.634
+tim/intelig,taxa de resolvidas no período,STFC,2014-07,99.787
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-08,86.846
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-08,81.851
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-08,74.167
+oi,indicador de desempenho no atendimento (ida),STFC,2014-08,0.0
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-08,88.176
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-08,52.535
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-08,76.139
+ctbc telecom,quantidade de reclamações,STFC,2014-08,306.0
+embratel,quantidade de reclamações,STFC,2014-08,9212.0
+gvt,quantidade de reclamações,STFC,2014-08,5732.0
+oi,quantidade de reclamações,STFC,2014-08,52907.0
+sercomtel,quantidade de reclamações,STFC,2014-08,37.0
+telefônica,quantidade de reclamações,STFC,2014-08,16975.0
+tim/intelig,quantidade de reclamações,STFC,2014-08,611.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-08,906394.0
+embratel,quantidade de acessos em serviço,STFC,2014-08,11334463.0
+gvt,quantidade de acessos em serviço,STFC,2014-08,4441830.0
+oi,quantidade de acessos em serviço,STFC,2014-08,16789679.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-08,220488.0
+telefônica,quantidade de acessos em serviço,STFC,2014-08,10791351.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-08,501277.0
+ctbc telecom,índice de reclamações,STFC,2014-08,0.338
+embratel,índice de reclamações,STFC,2014-08,0.813
+gvt,índice de reclamações,STFC,2014-08,1.29
+oi,índice de reclamações,STFC,2014-08,3.151
+sercomtel,índice de reclamações,STFC,2014-08,0.168
+telefônica,índice de reclamações,STFC,2014-08,1.573
+tim/intelig,índice de reclamações,STFC,2014-08,1.219
+ctbc telecom,quantidade de resolvidas,STFC,2014-08,306.0
+embratel,quantidade de resolvidas,STFC,2014-08,8805.0
+gvt,quantidade de resolvidas,STFC,2014-08,5668.0
+oi,quantidade de resolvidas,STFC,2014-08,39407.0
+sercomtel,quantidade de resolvidas,STFC,2014-08,37.0
+telefônica,quantidade de resolvidas,STFC,2014-08,16084.0
+tim/intelig,quantidade de resolvidas,STFC,2014-08,606.0
+ctbc telecom,quantidade de reabertas,STFC,2014-08,34.0
+embratel,quantidade de reabertas,STFC,2014-08,611.0
+gvt,quantidade de reabertas,STFC,2014-08,394.0
+oi,quantidade de reabertas,STFC,2014-08,4417.0
+sercomtel,quantidade de reabertas,STFC,2014-08,7.0
+telefônica,quantidade de reabertas,STFC,2014-08,1392.0
+tim/intelig,quantidade de reabertas,STFC,2014-08,22.0
+ctbc telecom,taxa de reabertas,STFC,2014-08,11.111
+embratel,taxa de reabertas,STFC,2014-08,6.939
+gvt,taxa de reabertas,STFC,2014-08,6.951
+oi,taxa de reabertas,STFC,2014-08,11.209
+sercomtel,taxa de reabertas,STFC,2014-08,18.919
+telefônica,taxa de reabertas,STFC,2014-08,8.655
+tim/intelig,taxa de reabertas,STFC,2014-08,3.63
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,249.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,7674.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,4958.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,27459.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,33.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,12717.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-08,527.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-08,81.373
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-08,83.304
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-08,86.497
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-08,51.901
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-08,89.189
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-08,74.916
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-08,86.252
+ctbc telecom,quantidade de reclamações no período,STFC,2014-08,1592.0
+embratel,quantidade de reclamações no período,STFC,2014-08,58946.0
+gvt,quantidade de reclamações no período,STFC,2014-08,34734.0
+oi,quantidade de reclamações no período,STFC,2014-08,328044.0
+sercomtel,quantidade de reclamações no período,STFC,2014-08,274.0
+telefônica,quantidade de reclamações no período,STFC,2014-08,95714.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-08,3230.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-08,1592.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-08,58572.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-08,34672.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-08,326438.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-08,274.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-08,95202.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-08,3210.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-08,100.0
+embratel,taxa de resolvidas no período,STFC,2014-08,99.366
+gvt,taxa de resolvidas no período,STFC,2014-08,99.822
+oi,taxa de resolvidas no período,STFC,2014-08,99.51
+sercomtel,taxa de resolvidas no período,STFC,2014-08,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-08,99.465
+tim/intelig,taxa de resolvidas no período,STFC,2014-08,99.381
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-09,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-09,81.574
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-09,70.167
+oi,indicador de desempenho no atendimento (ida),STFC,2014-09,0.0
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-09,92.733
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-09,48.081
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-09,79.583
+ctbc telecom,quantidade de reclamações,STFC,2014-09,264.0
+embratel,quantidade de reclamações,STFC,2014-09,8845.0
+gvt,quantidade de reclamações,STFC,2014-09,6411.0
+oi,quantidade de reclamações,STFC,2014-09,54518.0
+sercomtel,quantidade de reclamações,STFC,2014-09,44.0
+telefônica,quantidade de reclamações,STFC,2014-09,18407.0
+tim/intelig,quantidade de reclamações,STFC,2014-09,549.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-09,852626.0
+embratel,quantidade de acessos em serviço,STFC,2014-09,11402769.0
+gvt,quantidade de acessos em serviço,STFC,2014-09,4472172.0
+oi,quantidade de acessos em serviço,STFC,2014-09,16705663.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-09,224025.0
+telefônica,quantidade de acessos em serviço,STFC,2014-09,10793936.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-09,501585.0
+ctbc telecom,índice de reclamações,STFC,2014-09,0.31
+embratel,índice de reclamações,STFC,2014-09,0.776
+gvt,índice de reclamações,STFC,2014-09,1.434
+oi,índice de reclamações,STFC,2014-09,3.263
+sercomtel,índice de reclamações,STFC,2014-09,0.196
+telefônica,índice de reclamações,STFC,2014-09,1.705
+tim/intelig,índice de reclamações,STFC,2014-09,1.095
+ctbc telecom,quantidade de resolvidas,STFC,2014-09,264.0
+embratel,quantidade de resolvidas,STFC,2014-09,8338.0
+gvt,quantidade de resolvidas,STFC,2014-09,6285.0
+oi,quantidade de resolvidas,STFC,2014-09,33665.0
+sercomtel,quantidade de resolvidas,STFC,2014-09,43.0
+telefônica,quantidade de resolvidas,STFC,2014-09,17322.0
+tim/intelig,quantidade de resolvidas,STFC,2014-09,514.0
+ctbc telecom,quantidade de reabertas,STFC,2014-09,18.0
+embratel,quantidade de reabertas,STFC,2014-09,640.0
+gvt,quantidade de reabertas,STFC,2014-09,385.0
+oi,quantidade de reabertas,STFC,2014-09,2142.0
+sercomtel,quantidade de reabertas,STFC,2014-09,5.0
+telefônica,quantidade de reabertas,STFC,2014-09,1572.0
+tim/intelig,quantidade de reabertas,STFC,2014-09,18.0
+ctbc telecom,taxa de reabertas,STFC,2014-09,6.818
+embratel,taxa de reabertas,STFC,2014-09,7.676
+gvt,taxa de reabertas,STFC,2014-09,6.126
+oi,taxa de reabertas,STFC,2014-09,6.363
+sercomtel,taxa de reabertas,STFC,2014-09,11.628
+telefônica,taxa de reabertas,STFC,2014-09,9.075
+tim/intelig,taxa de reabertas,STFC,2014-09,3.502
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,229.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,7022.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,5525.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,21381.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,39.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,13500.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-09,13500.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-09,86.742
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-09,79.389
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-09,86.18
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-09,39.218
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-09,88.636
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-09,73.342
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-09,87.067
+ctbc telecom,quantidade de reclamações no período,STFC,2014-09,2609.0
+embratel,quantidade de reclamações no período,STFC,2014-09,85895.0
+gvt,quantidade de reclamações no período,STFC,2014-09,52883.0
+oi,quantidade de reclamações no período,STFC,2014-09,502837.0
+sercomtel,quantidade de reclamações no período,STFC,2014-09,409.0
+telefônica,quantidade de reclamações no período,STFC,2014-09,151127.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-09,5154.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-09,2609.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-09,85206.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-09,52670.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-09,501100.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-09,409.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-09,150142.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-09,5142.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-09,100.0
+embratel,taxa de resolvidas no período,STFC,2014-09,99.198
+gvt,taxa de resolvidas no período,STFC,2014-09,99.597
+oi,taxa de resolvidas no período,STFC,2014-09,99.655
+sercomtel,taxa de resolvidas no período,STFC,2014-09,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-09,99.348
+tim/intelig,taxa de resolvidas no período,STFC,2014-09,99.767
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-10,85.548
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-10,86.154
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-10,67.11
+oi,indicador de desempenho no atendimento (ida),STFC,2014-10,15.211
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-10,94.318
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-10,62.031
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-10,87.139
+ctbc telecom,quantidade de reclamações,STFC,2014-10,175.0
+embratel,quantidade de reclamações,STFC,2014-10,7547.0
+gvt,quantidade de reclamações,STFC,2014-10,6121.0
+oi,quantidade de reclamações,STFC,2014-10,46525.0
+sercomtel,quantidade de reclamações,STFC,2014-10,44.0
+telefônica,quantidade de reclamações,STFC,2014-10,15192.0
+tim/intelig,quantidade de reclamações,STFC,2014-10,415.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-10,856020.0
+embratel,quantidade de acessos em serviço,STFC,2014-10,11480289.0
+gvt,quantidade de acessos em serviço,STFC,2014-10,4509508.0
+oi,quantidade de acessos em serviço,STFC,2014-10,16614290.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-10,226681.0
+telefônica,quantidade de acessos em serviço,STFC,2014-10,10742512.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-10,504551.0
+ctbc telecom,índice de reclamações,STFC,2014-10,0.204
+embratel,índice de reclamações,STFC,2014-10,0.657
+gvt,índice de reclamações,STFC,2014-10,1.357
+oi,índice de reclamações,STFC,2014-10,2.8
+sercomtel,índice de reclamações,STFC,2014-10,0.194
+telefônica,índice de reclamações,STFC,2014-10,1.414
+tim/intelig,índice de reclamações,STFC,2014-10,0.823
+ctbc telecom,quantidade de resolvidas,STFC,2014-10,175.0
+embratel,quantidade de resolvidas,STFC,2014-10,7179.0
+gvt,quantidade de resolvidas,STFC,2014-10,5828.0
+oi,quantidade de resolvidas,STFC,2014-10,34508.0
+sercomtel,quantidade de resolvidas,STFC,2014-10,44.0
+telefônica,quantidade de resolvidas,STFC,2014-10,14188.0
+tim/intelig,quantidade de resolvidas,STFC,2014-10,389.0
+ctbc telecom,quantidade de reabertas,STFC,2014-10,25.0
+embratel,quantidade de reabertas,STFC,2014-10,516.0
+gvt,quantidade de reabertas,STFC,2014-10,336.0
+oi,quantidade de reabertas,STFC,2014-10,2201.0
+sercomtel,quantidade de reabertas,STFC,2014-10,4.0
+telefônica,quantidade de reabertas,STFC,2014-10,1122.0
+tim/intelig,quantidade de reabertas,STFC,2014-10,16.0
+ctbc telecom,taxa de reabertas,STFC,2014-10,14.286
+embratel,taxa de reabertas,STFC,2014-10,7.188
+gvt,taxa de reabertas,STFC,2014-10,5.765
+oi,taxa de reabertas,STFC,2014-10,6.378
+sercomtel,taxa de reabertas,STFC,2014-10,9.091
+telefônica,taxa de reabertas,STFC,2014-10,7.908
+tim/intelig,taxa de reabertas,STFC,2014-10,4.113
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,146.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,6280.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,5167.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,22782.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,43.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,11231.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-10,369.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-10,83.429
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-10,83.212
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-10,84.414
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-10,48.967
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-10,97.727
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-10,73.927
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-10,88.916
+ctbc telecom,quantidade de reclamações no período,STFC,2014-10,923.0
+embratel,quantidade de reclamações no período,STFC,2014-10,28799.0
+gvt,quantidade de reclamações no período,STFC,2014-10,19250.0
+oi,quantidade de reclamações no período,STFC,2014-10,172411.0
+sercomtel,quantidade de reclamações no período,STFC,2014-10,142.0
+telefônica,quantidade de reclamações no período,STFC,2014-10,53789.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-10,1778.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-10,923.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-10,28571.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-10,19137.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-10,171565.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-10,142.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-10,53474.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-10,1775.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-10,100.0
+embratel,taxa de resolvidas no período,STFC,2014-10,99.208
+gvt,taxa de resolvidas no período,STFC,2014-10,99.413
+oi,taxa de resolvidas no período,STFC,2014-10,99.509
+sercomtel,taxa de resolvidas no período,STFC,2014-10,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-10,99.414
+tim/intelig,taxa de resolvidas no período,STFC,2014-10,99.831
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-11,85.206
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-11,87.365
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-11,69.829
+oi,indicador de desempenho no atendimento (ida),STFC,2014-11,23.608
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-11,61.862
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-11,66.171
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-11,84.403
+ctbc telecom,quantidade de reclamações,STFC,2014-11,178.0
+embratel,quantidade de reclamações,STFC,2014-11,6843.0
+gvt,quantidade de reclamações,STFC,2014-11,5688.0
+oi,quantidade de reclamações,STFC,2014-11,42892.0
+sercomtel,quantidade de reclamações,STFC,2014-11,39.0
+telefônica,quantidade de reclamações,STFC,2014-11,13355.0
+tim/intelig,quantidade de reclamações,STFC,2014-11,375.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-11,913520.0
+embratel,quantidade de acessos em serviço,STFC,2014-11,11580036.0
+gvt,quantidade de acessos em serviço,STFC,2014-11,4540590.0
+oi,quantidade de acessos em serviço,STFC,2014-11,16543480.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-11,228468.0
+telefônica,quantidade de acessos em serviço,STFC,2014-11,10753870.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-11,406943.0
+ctbc telecom,índice de reclamações,STFC,2014-11,0.195
+embratel,índice de reclamações,STFC,2014-11,0.591
+gvt,índice de reclamações,STFC,2014-11,1.253
+oi,índice de reclamações,STFC,2014-11,2.593
+sercomtel,índice de reclamações,STFC,2014-11,0.171
+telefônica,índice de reclamações,STFC,2014-11,1.242
+tim/intelig,índice de reclamações,STFC,2014-11,0.922
+ctbc telecom,quantidade de resolvidas,STFC,2014-11,178.0
+embratel,quantidade de resolvidas,STFC,2014-11,6499.0
+gvt,quantidade de resolvidas,STFC,2014-11,5546.0
+oi,quantidade de resolvidas,STFC,2014-11,39227.0
+sercomtel,quantidade de resolvidas,STFC,2014-11,37.0
+telefônica,quantidade de resolvidas,STFC,2014-11,12632.0
+tim/intelig,quantidade de resolvidas,STFC,2014-11,375.0
+ctbc telecom,quantidade de reabertas,STFC,2014-11,24.0
+embratel,quantidade de reabertas,STFC,2014-11,458.0
+gvt,quantidade de reabertas,STFC,2014-11,352.0
+oi,quantidade de reabertas,STFC,2014-11,2796.0
+sercomtel,quantidade de reabertas,STFC,2014-11,16.0
+telefônica,quantidade de reabertas,STFC,2014-11,891.0
+tim/intelig,quantidade de reabertas,STFC,2014-11,23.0
+ctbc telecom,taxa de reabertas,STFC,2014-11,13.483
+embratel,taxa de reabertas,STFC,2014-11,7.047
+gvt,taxa de reabertas,STFC,2014-11,6.347
+oi,taxa de reabertas,STFC,2014-11,7.128
+sercomtel,taxa de reabertas,STFC,2014-11,43.243
+telefônica,taxa de reabertas,STFC,2014-11,7.054
+tim/intelig,taxa de reabertas,STFC,2014-11,6.133
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,144.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,5566.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,4771.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,24398.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,26.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,9616.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-11,325.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-11,80.899
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-11,81.339
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-11,83.878
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-11,56.882
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-11,66.667
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-11,72.003
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-11,86.667
+ctbc telecom,quantidade de reclamações no período,STFC,2014-11,769.0
+embratel,quantidade de reclamações no período,STFC,2014-11,26424.0
+gvt,quantidade de reclamações no período,STFC,2014-11,18885.0
+oi,quantidade de reclamações no período,STFC,2014-11,158532.0
+sercomtel,quantidade de reclamações no período,STFC,2014-11,129.0
+telefônica,quantidade de reclamações no período,STFC,2014-11,52069.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-11,1617.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-11,769.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-11,26233.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-11,18787.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-11,157834.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-11,129.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-11,51696.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-11,1614.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-11,100.0
+embratel,taxa de resolvidas no período,STFC,2014-11,99.277
+gvt,taxa de resolvidas no período,STFC,2014-11,99.481
+oi,taxa de resolvidas no período,STFC,2014-11,99.56
+sercomtel,taxa de resolvidas no período,STFC,2014-11,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-11,99.284
+tim/intelig,taxa de resolvidas no período,STFC,2014-11,99.814
+ctbc telecom,indicador de desempenho no atendimento (ida),STFC,2014-12,82.391
+embratel,indicador de desempenho no atendimento (ida),STFC,2014-12,100.0
+gvt,indicador de desempenho no atendimento (ida),STFC,2014-12,78.499
+oi,indicador de desempenho no atendimento (ida),STFC,2014-12,50.457
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2014-12,53.632
+telefônica,indicador de desempenho no atendimento (ida),STFC,2014-12,80.973
+tim/intelig,indicador de desempenho no atendimento (ida),STFC,2014-12,89.737
+ctbc telecom,quantidade de reclamações,STFC,2014-12,115.0
+embratel,quantidade de reclamações,STFC,2014-12,4120.0
+gvt,quantidade de reclamações,STFC,2014-12,3598.0
+oi,quantidade de reclamações,STFC,2014-12,27983.0
+sercomtel,quantidade de reclamações,STFC,2014-12,39.0
+telefônica,quantidade de reclamações,STFC,2014-12,8246.0
+tim/intelig,quantidade de reclamações,STFC,2014-12,293.0
+ctbc telecom,quantidade de acessos em serviço,STFC,2014-12,915452.0
+embratel,quantidade de acessos em serviço,STFC,2014-12,11633552.0
+gvt,quantidade de acessos em serviço,STFC,2014-12,4561056.0
+oi,quantidade de acessos em serviço,STFC,2014-12,16428995.0
+sercomtel,quantidade de acessos em serviço,STFC,2014-12,229787.0
+telefônica,quantidade de acessos em serviço,STFC,2014-12,10637586.0
+tim/intelig,quantidade de acessos em serviço,STFC,2014-12,401658.0
+ctbc telecom,índice de reclamações,STFC,2014-12,0.126
+embratel,índice de reclamações,STFC,2014-12,0.354
+gvt,índice de reclamações,STFC,2014-12,0.789
+oi,índice de reclamações,STFC,2014-12,1.703
+sercomtel,índice de reclamações,STFC,2014-12,0.17
+telefônica,índice de reclamações,STFC,2014-12,0.775
+tim/intelig,índice de reclamações,STFC,2014-12,0.729
+ctbc telecom,quantidade de resolvidas,STFC,2014-12,115.0
+embratel,quantidade de resolvidas,STFC,2014-12,3833.0
+gvt,quantidade de resolvidas,STFC,2014-12,3377.0
+oi,quantidade de resolvidas,STFC,2014-12,26723.0
+sercomtel,quantidade de resolvidas,STFC,2014-12,39.0
+telefônica,quantidade de resolvidas,STFC,2014-12,8011.0
+tim/intelig,quantidade de resolvidas,STFC,2014-12,271.0
+ctbc telecom,quantidade de reabertas,STFC,2014-12,18.0
+embratel,quantidade de reabertas,STFC,2014-12,250.0
+gvt,quantidade de reabertas,STFC,2014-12,197.0
+oi,quantidade de reabertas,STFC,2014-12,1671.0
+sercomtel,quantidade de reabertas,STFC,2014-12,22.0
+telefônica,quantidade de reabertas,STFC,2014-12,490.0
+tim/intelig,quantidade de reabertas,STFC,2014-12,12.0
+ctbc telecom,taxa de reabertas,STFC,2014-12,15.652
+embratel,taxa de reabertas,STFC,2014-12,6.522
+gvt,taxa de reabertas,STFC,2014-12,5.834
+oi,taxa de reabertas,STFC,2014-12,6.253
+sercomtel,taxa de reabertas,STFC,2014-12,56.41
+telefônica,taxa de reabertas,STFC,2014-12,6.117
+tim/intelig,taxa de reabertas,STFC,2014-12,4.428
+ctbc telecom,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,88.0
+embratel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,3514.0
+gvt,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,2563.0
+oi,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,17716.0
+sercomtel,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,26.0
+telefônica,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,6392.0
+tim/intelig,quantidade de sol. resolvidas em até 5 dias,STFC,2014-12,257.0
+ctbc telecom,taxa de resolvidas em 5 dias úteis,STFC,2014-12,76.522
+embratel,taxa de resolvidas em 5 dias úteis,STFC,2014-12,85.291
+gvt,taxa de resolvidas em 5 dias úteis,STFC,2014-12,71.234
+oi,taxa de resolvidas em 5 dias úteis,STFC,2014-12,63.31
+sercomtel,taxa de resolvidas em 5 dias úteis,STFC,2014-12,66.667
+telefônica,taxa de resolvidas em 5 dias úteis,STFC,2014-12,77.516
+tim/intelig,taxa de resolvidas em 5 dias úteis,STFC,2014-12,87.713
+ctbc telecom,quantidade de reclamações no período,STFC,2014-12,627.0
+embratel,quantidade de reclamações no período,STFC,2014-12,23681.0
+gvt,quantidade de reclamações no período,STFC,2014-12,18573.0
+oi,quantidade de reclamações no período,STFC,2014-12,146336.0
+sercomtel,quantidade de reclamações no período,STFC,2014-12,129.0
+telefônica,quantidade de reclamações no período,STFC,2014-12,47811.0
+tim/intelig,quantidade de reclamações no período,STFC,2014-12,1365.0
+ctbc telecom,quantidade de sol. resolvidas no período,STFC,2014-12,627.0
+embratel,quantidade de sol. resolvidas no período,STFC,2014-12,23464.0
+gvt,quantidade de sol. resolvidas no período,STFC,2014-12,18409.0
+oi,quantidade de sol. resolvidas no período,STFC,2014-12,146197.0
+sercomtel,quantidade de sol. resolvidas no período,STFC,2014-12,129.0
+telefônica,quantidade de sol. resolvidas no período,STFC,2014-12,47647.0
+tim/intelig,quantidade de sol. resolvidas no período,STFC,2014-12,1362.0
+ctbc telecom,taxa de resolvidas no período,STFC,2014-12,100.0
+embratel,taxa de resolvidas no período,STFC,2014-12,99.084
+gvt,taxa de resolvidas no período,STFC,2014-12,99.117
+oi,taxa de resolvidas no período,STFC,2014-12,99.905
+sercomtel,taxa de resolvidas no período,STFC,2014-12,100.0
+telefônica,taxa de resolvidas no período,STFC,2014-12,99.657
+tim/intelig,taxa de resolvidas no período,STFC,2014-12,99.78

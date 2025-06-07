@@ -1,0 +1,865 @@
+GRUPO ECONÔMICO,VARIÁVEL,SERVIÇO,data,valor
+algar,indicador de desempenho no atendimento (ida),STFC,2017-01,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-01,86.694
+oi,indicador de desempenho no atendimento (ida),STFC,2017-01,26.042
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-01,91.667
+tim,indicador de desempenho no atendimento (ida),STFC,2017-01,31.799
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-01,64.326
+algar,índice de reclamações,STFC,2017-01,0.256
+embratel,índice de reclamações,STFC,2017-01,0.839
+oi,índice de reclamações,STFC,2017-01,2.823
+sercomtel,índice de reclamações,STFC,2017-01,0.107
+tim,índice de reclamações,STFC,2017-01,2.343
+vivo,índice de reclamações,STFC,2017-01,1.644
+algar,quantidade de acessos em serviço,STFC,2017-01,987456.0
+embratel,quantidade de acessos em serviço,STFC,2017-01,11122408.0
+oi,quantidade de acessos em serviço,STFC,2017-01,14283978.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-01,262612.0
+tim,quantidade de acessos em serviço,STFC,2017-01,522451.0
+vivo,quantidade de acessos em serviço,STFC,2017-01,14370427.0
+algar,quantidade de reabertas,STFC,2017-01,20.0
+embratel,quantidade de reabertas,STFC,2017-01,442.0
+oi,quantidade de reabertas,STFC,2017-01,3550.0
+sercomtel,quantidade de reabertas,STFC,2017-01,1.0
+tim,quantidade de reabertas,STFC,2017-01,145.0
+vivo,quantidade de reabertas,STFC,2017-01,1566.0
+algar,quantidade de reclamações,STFC,2017-01,253.0
+embratel,quantidade de reclamações,STFC,2017-01,9332.0
+oi,quantidade de reclamações,STFC,2017-01,40330.0
+sercomtel,quantidade de reclamações,STFC,2017-01,28.0
+tim,quantidade de reclamações,STFC,2017-01,1224.0
+vivo,quantidade de reclamações,STFC,2017-01,23629.0
+algar,quantidade de reclamações no período,STFC,2017-01,786.0
+embratel,quantidade de reclamações no período,STFC,2017-01,26204.0
+oi,quantidade de reclamações no período,STFC,2017-01,113832.0
+sercomtel,quantidade de reclamações no período,STFC,2017-01,102.0
+tim,quantidade de reclamações no período,STFC,2017-01,3510.0
+vivo,quantidade de reclamações no período,STFC,2017-01,61481.0
+algar,quantidade de respondidas,STFC,2017-01,253.0
+embratel,quantidade de respondidas,STFC,2017-01,9298.0
+oi,quantidade de respondidas,STFC,2017-01,40126.0
+sercomtel,quantidade de respondidas,STFC,2017-01,28.0
+tim,quantidade de respondidas,STFC,2017-01,1224.0
+vivo,quantidade de respondidas,STFC,2017-01,23612.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,228.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,8290.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,34591.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,21.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,1014.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-01,20453.0
+algar,quantidade de sol. respondidas no período,STFC,2017-01,786.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-01,26168.0
+oi,quantidade de sol. respondidas no período,STFC,2017-01,113593.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-01,102.0
+tim,quantidade de sol. respondidas no período,STFC,2017-01,3509.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-01,61475.0
+algar,taxa de reabertas,STFC,2017-01,7.905
+embratel,taxa de reabertas,STFC,2017-01,4.754
+oi,taxa de reabertas,STFC,2017-01,8.847
+sercomtel,taxa de reabertas,STFC,2017-01,3.571
+tim,taxa de reabertas,STFC,2017-01,11.846
+vivo,taxa de reabertas,STFC,2017-01,6.632
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-01,90.119
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-01,88.834
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-01,85.77
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-01,75.0
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-01,82.843
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-01,86.559
+algar,taxa de respondidas no período,STFC,2017-01,100.0
+embratel,taxa de respondidas no período,STFC,2017-01,99.863
+oi,taxa de respondidas no período,STFC,2017-01,99.79
+sercomtel,taxa de respondidas no período,STFC,2017-01,100.0
+tim,taxa de respondidas no período,STFC,2017-01,99.972
+vivo,taxa de respondidas no período,STFC,2017-01,99.99
+algar,indicador de desempenho no atendimento (ida),STFC,2017-02,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-02,86.412
+oi,indicador de desempenho no atendimento (ida),STFC,2017-02,29.595
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-02,70.626
+tim,indicador de desempenho no atendimento (ida),STFC,2017-02,40.078
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-02,72.12
+algar,índice de reclamações,STFC,2017-02,0.281
+embratel,índice de reclamações,STFC,2017-02,0.666
+oi,índice de reclamações,STFC,2017-02,2.451
+sercomtel,índice de reclamações,STFC,2017-02,0.088
+tim,índice de reclamações,STFC,2017-02,1.976
+vivo,índice de reclamações,STFC,2017-02,1.364
+algar,quantidade de acessos em serviço,STFC,2017-02,993312.0
+embratel,quantidade de acessos em serviço,STFC,2017-02,11021311.0
+oi,quantidade de acessos em serviço,STFC,2017-02,14226796.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-02,262632.0
+tim,quantidade de acessos em serviço,STFC,2017-02,523660.0
+vivo,quantidade de acessos em serviço,STFC,2017-02,14272255.0
+algar,quantidade de reabertas,STFC,2017-02,12.0
+embratel,quantidade de reabertas,STFC,2017-02,523.0
+oi,quantidade de reabertas,STFC,2017-02,3987.0
+sercomtel,quantidade de reabertas,STFC,2017-02,5.0
+tim,quantidade de reabertas,STFC,2017-02,143.0
+vivo,quantidade de reabertas,STFC,2017-02,1233.0
+algar,quantidade de reclamações,STFC,2017-02,279.0
+embratel,quantidade de reclamações,STFC,2017-02,7341.0
+oi,quantidade de reclamações,STFC,2017-02,34875.0
+sercomtel,quantidade de reclamações,STFC,2017-02,23.0
+tim,quantidade de reclamações,STFC,2017-02,1035.0
+vivo,quantidade de reclamações,STFC,2017-02,19463.0
+algar,quantidade de reclamações no período,STFC,2017-02,780.0
+embratel,quantidade de reclamações no período,STFC,2017-02,26382.0
+oi,quantidade de reclamações no período,STFC,2017-02,118661.0
+sercomtel,quantidade de reclamações no período,STFC,2017-02,104.0
+tim,quantidade de reclamações no período,STFC,2017-02,3603.0
+vivo,quantidade de reclamações no período,STFC,2017-02,64953.0
+algar,quantidade de respondidas,STFC,2017-02,279.0
+embratel,quantidade de respondidas,STFC,2017-02,7333.0
+oi,quantidade de respondidas,STFC,2017-02,34824.0
+sercomtel,quantidade de respondidas,STFC,2017-02,21.0
+tim,quantidade de respondidas,STFC,2017-02,1034.0
+vivo,quantidade de respondidas,STFC,2017-02,19450.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,257.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,6221.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,29481.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,13.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,837.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-02,16863.0
+algar,quantidade de sol. respondidas no período,STFC,2017-02,780.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-02,26342.0
+oi,quantidade de sol. respondidas no período,STFC,2017-02,118403.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-02,104.0
+tim,quantidade de sol. respondidas no período,STFC,2017-02,3602.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-02,64927.0
+algar,taxa de reabertas,STFC,2017-02,4.301
+embratel,taxa de reabertas,STFC,2017-02,7.132
+oi,taxa de reabertas,STFC,2017-02,11.449
+sercomtel,taxa de reabertas,STFC,2017-02,23.81
+tim,taxa de reabertas,STFC,2017-02,13.83
+vivo,taxa de reabertas,STFC,2017-02,6.339
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-02,92.115
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-02,84.743
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-02,84.533
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-02,56.522
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-02,80.87
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-02,86.641
+algar,taxa de respondidas no período,STFC,2017-02,100.0
+embratel,taxa de respondidas no período,STFC,2017-02,99.848
+oi,taxa de respondidas no período,STFC,2017-02,99.783
+sercomtel,taxa de respondidas no período,STFC,2017-02,100.0
+tim,taxa de respondidas no período,STFC,2017-02,99.972
+vivo,taxa de respondidas no período,STFC,2017-02,99.96
+algar,indicador de desempenho no atendimento (ida),STFC,2017-03,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-03,86.289
+oi,indicador de desempenho no atendimento (ida),STFC,2017-03,17.23
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-03,70.971
+tim,indicador de desempenho no atendimento (ida),STFC,2017-03,31.813
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-03,66.665
+algar,índice de reclamações,STFC,2017-03,0.308
+embratel,índice de reclamações,STFC,2017-03,0.854
+oi,índice de reclamações,STFC,2017-03,2.873
+sercomtel,índice de reclamações,STFC,2017-03,0.247
+tim,índice de reclamações,STFC,2017-03,2.231
+vivo,índice de reclamações,STFC,2017-03,1.56
+algar,quantidade de acessos em serviço,STFC,2017-03,998825.0
+embratel,quantidade de acessos em serviço,STFC,2017-03,10969040.0
+oi,quantidade de acessos em serviço,STFC,2017-03,14151416.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-03,263599.0
+tim,quantidade de acessos em serviço,STFC,2017-03,525247.0
+vivo,quantidade de acessos em serviço,STFC,2017-03,14367367.0
+algar,quantidade de reabertas,STFC,2017-03,12.0
+embratel,quantidade de reabertas,STFC,2017-03,601.0
+oi,quantidade de reabertas,STFC,2017-03,5096.0
+sercomtel,quantidade de reabertas,STFC,2017-03,6.0
+tim,quantidade de reabertas,STFC,2017-03,188.0
+vivo,quantidade de reabertas,STFC,2017-03,1477.0
+algar,quantidade de reclamações,STFC,2017-03,308.0
+embratel,quantidade de reclamações,STFC,2017-03,9363.0
+oi,quantidade de reclamações,STFC,2017-03,40654.0
+sercomtel,quantidade de reclamações,STFC,2017-03,65.0
+tim,quantidade de reclamações,STFC,2017-03,1172.0
+vivo,quantidade de reclamações,STFC,2017-03,22414.0
+algar,quantidade de reclamações no período,STFC,2017-03,806.0
+embratel,quantidade de reclamações no período,STFC,2017-03,25038.0
+oi,quantidade de reclamações no período,STFC,2017-03,114008.0
+sercomtel,quantidade de reclamações no período,STFC,2017-03,88.0
+tim,quantidade de reclamações no período,STFC,2017-03,3442.0
+vivo,quantidade de reclamações no período,STFC,2017-03,63228.0
+algar,quantidade de respondidas,STFC,2017-03,308.0
+embratel,quantidade de respondidas,STFC,2017-03,9270.0
+oi,quantidade de respondidas,STFC,2017-03,40500.0
+sercomtel,quantidade de respondidas,STFC,2017-03,63.0
+tim,quantidade de respondidas,STFC,2017-03,1171.0
+vivo,quantidade de respondidas,STFC,2017-03,22404.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,284.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,8176.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,34427.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,20.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,955.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-03,19442.0
+algar,quantidade de sol. respondidas no período,STFC,2017-03,806.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-03,25030.0
+oi,quantidade de sol. respondidas no período,STFC,2017-03,113796.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-03,88.0
+tim,quantidade de sol. respondidas no período,STFC,2017-03,3442.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-03,63204.0
+algar,taxa de reabertas,STFC,2017-03,3.896
+embratel,taxa de reabertas,STFC,2017-03,6.483
+oi,taxa de reabertas,STFC,2017-03,12.583
+sercomtel,taxa de reabertas,STFC,2017-03,9.524
+tim,taxa de reabertas,STFC,2017-03,16.055
+vivo,taxa de reabertas,STFC,2017-03,6.593
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-03,92.208
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-03,87.322
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-03,84.683
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-03,30.769
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-03,81.485
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-03,86.74
+algar,taxa de respondidas no período,STFC,2017-03,100.0
+embratel,taxa de respondidas no período,STFC,2017-03,99.968
+oi,taxa de respondidas no período,STFC,2017-03,99.814
+sercomtel,taxa de respondidas no período,STFC,2017-03,100.0
+tim,taxa de respondidas no período,STFC,2017-03,100.0
+vivo,taxa de respondidas no período,STFC,2017-03,99.962
+algar,indicador de desempenho no atendimento (ida),STFC,2017-04,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-04,92.607
+oi,indicador de desempenho no atendimento (ida),STFC,2017-04,42.147
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-04,76.804
+tim,indicador de desempenho no atendimento (ida),STFC,2017-04,46.424
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-04,78.276
+algar,índice de reclamações,STFC,2017-04,0.264
+embratel,índice de reclamações,STFC,2017-04,0.626
+oi,índice de reclamações,STFC,2017-04,2.147
+sercomtel,índice de reclamações,STFC,2017-04,0.133
+tim,índice de reclamações,STFC,2017-04,1.769
+vivo,índice de reclamações,STFC,2017-04,1.142
+algar,quantidade de acessos em serviço,STFC,2017-04,1018214.0
+embratel,quantidade de acessos em serviço,STFC,2017-04,10920660.0
+oi,quantidade de acessos em serviço,STFC,2017-04,14099843.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-04,264085.0
+tim,quantidade de acessos em serviço,STFC,2017-04,529160.0
+vivo,quantidade de acessos em serviço,STFC,2017-04,14350549.0
+algar,quantidade de reabertas,STFC,2017-04,13.0
+embratel,quantidade de reabertas,STFC,2017-04,339.0
+oi,quantidade de reabertas,STFC,2017-04,3966.0
+sercomtel,quantidade de reabertas,STFC,2017-04,7.0
+tim,quantidade de reabertas,STFC,2017-04,134.0
+vivo,quantidade de reabertas,STFC,2017-04,904.0
+algar,quantidade de reclamações,STFC,2017-04,269.0
+embratel,quantidade de reclamações,STFC,2017-04,6838.0
+oi,quantidade de reclamações,STFC,2017-04,30273.0
+sercomtel,quantidade de reclamações,STFC,2017-04,35.0
+tim,quantidade de reclamações,STFC,2017-04,936.0
+vivo,quantidade de reclamações,STFC,2017-04,16389.0
+algar,quantidade de reclamações no período,STFC,2017-04,840.0
+embratel,quantidade de reclamações no período,STFC,2017-04,26036.0
+oi,quantidade de reclamações no período,STFC,2017-04,115858.0
+sercomtel,quantidade de reclamações no período,STFC,2017-04,116.0
+tim,quantidade de reclamações no período,STFC,2017-04,3428.0
+vivo,quantidade de reclamações no período,STFC,2017-04,65512.0
+algar,quantidade de respondidas,STFC,2017-04,269.0
+embratel,quantidade de respondidas,STFC,2017-04,6820.0
+oi,quantidade de respondidas,STFC,2017-04,30181.0
+sercomtel,quantidade de respondidas,STFC,2017-04,32.0
+tim,quantidade de respondidas,STFC,2017-04,935.0
+vivo,quantidade de respondidas,STFC,2017-04,16381.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,253.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,6047.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,26023.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,25.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,782.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-04,14383.0
+algar,quantidade de sol. respondidas no período,STFC,2017-04,840.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-04,26024.0
+oi,quantidade de sol. respondidas no período,STFC,2017-04,115631.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-04,116.0
+tim,quantidade de sol. respondidas no período,STFC,2017-04,3428.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-04,65493.0
+algar,taxa de reabertas,STFC,2017-04,4.833
+embratel,taxa de reabertas,STFC,2017-04,4.971
+oi,taxa de reabertas,STFC,2017-04,13.141
+sercomtel,taxa de reabertas,STFC,2017-04,21.875
+tim,taxa de reabertas,STFC,2017-04,14.332
+vivo,taxa de reabertas,STFC,2017-04,5.519
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-04,94.052
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-04,88.432
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-04,85.961
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-04,71.429
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-04,83.547
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-04,87.76
+algar,taxa de respondidas no período,STFC,2017-04,100.0
+embratel,taxa de respondidas no período,STFC,2017-04,99.954
+oi,taxa de respondidas no período,STFC,2017-04,99.804
+sercomtel,taxa de respondidas no período,STFC,2017-04,100.0
+tim,taxa de respondidas no período,STFC,2017-04,100.0
+vivo,taxa de respondidas no período,STFC,2017-04,99.971
+algar,indicador de desempenho no atendimento (ida),STFC,2017-05,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-05,87.057
+oi,indicador de desempenho no atendimento (ida),STFC,2017-05,30.685
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-05,69.399
+tim,indicador de desempenho no atendimento (ida),STFC,2017-05,21.066
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-05,70.307
+algar,índice de reclamações,STFC,2017-05,0.286
+embratel,índice de reclamações,STFC,2017-05,0.826
+oi,índice de reclamações,STFC,2017-05,2.57
+sercomtel,índice de reclamações,STFC,2017-05,0.147
+tim,índice de reclamações,STFC,2017-05,2.524
+vivo,índice de reclamações,STFC,2017-05,1.429
+algar,quantidade de acessos em serviço,STFC,2017-05,1033260.0
+embratel,quantidade de acessos em serviço,STFC,2017-05,10873717.0
+oi,quantidade de acessos em serviço,STFC,2017-05,14034550.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-05,264493.0
+tim,quantidade de acessos em serviço,STFC,2017-05,532863.0
+vivo,quantidade de acessos em serviço,STFC,2017-05,14324647.0
+algar,quantidade de reabertas,STFC,2017-05,19.0
+embratel,quantidade de reabertas,STFC,2017-05,456.0
+oi,quantidade de reabertas,STFC,2017-05,4551.0
+sercomtel,quantidade de reabertas,STFC,2017-05,9.0
+tim,quantidade de reabertas,STFC,2017-05,237.0
+vivo,quantidade de reabertas,STFC,2017-05,1189.0
+algar,quantidade de reclamações,STFC,2017-05,296.0
+embratel,quantidade de reclamações,STFC,2017-05,8981.0
+oi,quantidade de reclamações,STFC,2017-05,36070.0
+sercomtel,quantidade de reclamações,STFC,2017-05,39.0
+tim,quantidade de reclamações,STFC,2017-05,1345.0
+vivo,quantidade de reclamações,STFC,2017-05,20469.0
+algar,quantidade de reclamações no período,STFC,2017-05,856.0
+embratel,quantidade de reclamações no período,STFC,2017-05,23540.0
+oi,quantidade de reclamações no período,STFC,2017-05,105799.0
+sercomtel,quantidade de reclamações no período,STFC,2017-05,123.0
+tim,quantidade de reclamações no período,STFC,2017-05,3140.0
+vivo,quantidade de reclamações no período,STFC,2017-05,58275.0
+algar,quantidade de respondidas,STFC,2017-05,296.0
+embratel,quantidade de respondidas,STFC,2017-05,8967.0
+oi,quantidade de respondidas,STFC,2017-05,35899.0
+sercomtel,quantidade de respondidas,STFC,2017-05,35.0
+tim,quantidade de respondidas,STFC,2017-05,1345.0
+vivo,quantidade de respondidas,STFC,2017-05,20461.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,272.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,7934.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,30770.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,22.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,1030.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-05,17885.0
+algar,quantidade de sol. respondidas no período,STFC,2017-05,856.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-05,23520.0
+oi,quantidade de sol. respondidas no período,STFC,2017-05,105496.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-05,122.0
+tim,quantidade de sol. respondidas no período,STFC,2017-05,3140.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-05,58264.0
+algar,taxa de reabertas,STFC,2017-05,6.419
+embratel,taxa de reabertas,STFC,2017-05,5.085
+oi,taxa de reabertas,STFC,2017-05,12.677
+sercomtel,taxa de reabertas,STFC,2017-05,25.714
+tim,taxa de reabertas,STFC,2017-05,17.621
+vivo,taxa de reabertas,STFC,2017-05,5.811
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-05,91.892
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-05,88.342
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-05,85.306
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-05,56.41
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-05,76.58
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-05,87.376
+algar,taxa de respondidas no período,STFC,2017-05,100.0
+embratel,taxa de respondidas no período,STFC,2017-05,99.915
+oi,taxa de respondidas no período,STFC,2017-05,99.714
+sercomtel,taxa de respondidas no período,STFC,2017-05,99.187
+tim,taxa de respondidas no período,STFC,2017-05,100.0
+vivo,taxa de respondidas no período,STFC,2017-05,99.981
+algar,indicador de desempenho no atendimento (ida),STFC,2017-06,94.833
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-06,89.63
+oi,indicador de desempenho no atendimento (ida),STFC,2017-06,41.99
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-06,72.723
+tim,indicador de desempenho no atendimento (ida),STFC,2017-06,18.452
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-06,72.116
+algar,índice de reclamações,STFC,2017-06,0.245
+embratel,índice de reclamações,STFC,2017-06,0.733
+oi,índice de reclamações,STFC,2017-06,2.195
+sercomtel,índice de reclamações,STFC,2017-06,0.174
+tim,índice de reclamações,STFC,2017-06,2.669
+vivo,índice de reclamações,STFC,2017-06,1.364
+algar,quantidade de acessos em serviço,STFC,2017-06,1034804.0
+embratel,quantidade de acessos em serviço,STFC,2017-06,10827462.0
+oi,quantidade de acessos em serviço,STFC,2017-06,13978211.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-06,264612.0
+tim,quantidade de acessos em serviço,STFC,2017-06,541730.0
+vivo,quantidade de acessos em serviço,STFC,2017-06,14323118.0
+algar,quantidade de reabertas,STFC,2017-06,21.0
+embratel,quantidade de reabertas,STFC,2017-06,444.0
+oi,quantidade de reabertas,STFC,2017-06,3434.0
+sercomtel,quantidade de reabertas,STFC,2017-06,12.0
+tim,quantidade de reabertas,STFC,2017-06,220.0
+vivo,quantidade de reabertas,STFC,2017-06,1176.0
+algar,quantidade de reclamações,STFC,2017-06,254.0
+embratel,quantidade de reclamações,STFC,2017-06,7940.0
+oi,quantidade de reclamações,STFC,2017-06,30676.0
+sercomtel,quantidade de reclamações,STFC,2017-06,46.0
+tim,quantidade de reclamações,STFC,2017-06,1446.0
+vivo,quantidade de reclamações,STFC,2017-06,19534.0
+algar,quantidade de reclamações no período,STFC,2017-06,873.0
+embratel,quantidade de reclamações no período,STFC,2017-06,25180.0
+oi,quantidade de reclamações no período,STFC,2017-06,106995.0
+sercomtel,quantidade de reclamações no período,STFC,2017-06,139.0
+tim,quantidade de reclamações no período,STFC,2017-06,3451.0
+vivo,quantidade de reclamações no período,STFC,2017-06,59276.0
+algar,quantidade de respondidas,STFC,2017-06,254.0
+embratel,quantidade de respondidas,STFC,2017-06,7929.0
+oi,quantidade de respondidas,STFC,2017-06,30442.0
+sercomtel,quantidade de respondidas,STFC,2017-06,42.0
+tim,quantidade de respondidas,STFC,2017-06,1441.0
+vivo,quantidade de respondidas,STFC,2017-06,19519.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,228.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,7038.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,26761.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,33.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,1105.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-06,16970.0
+algar,quantidade de sol. respondidas no período,STFC,2017-06,873.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-06,25179.0
+oi,quantidade de sol. respondidas no período,STFC,2017-06,106669.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-06,138.0
+tim,quantidade de sol. respondidas no período,STFC,2017-06,3451.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-06,59264.0
+algar,taxa de reabertas,STFC,2017-06,8.268
+embratel,taxa de reabertas,STFC,2017-06,5.6
+oi,taxa de reabertas,STFC,2017-06,11.28
+sercomtel,taxa de reabertas,STFC,2017-06,28.571
+tim,taxa de reabertas,STFC,2017-06,15.267
+vivo,taxa de reabertas,STFC,2017-06,6.025
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-06,89.764
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-06,88.64
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-06,87.238
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-06,71.739
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-06,76.418
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-06,86.874
+algar,taxa de respondidas no período,STFC,2017-06,100.0
+embratel,taxa de respondidas no período,STFC,2017-06,99.996
+oi,taxa de respondidas no período,STFC,2017-06,99.695
+sercomtel,taxa de respondidas no período,STFC,2017-06,99.281
+tim,taxa de respondidas no período,STFC,2017-06,100.0
+vivo,taxa de respondidas no período,STFC,2017-06,99.98
+algar,indicador de desempenho no atendimento (ida),STFC,2017-07,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-07,88.936
+oi,indicador de desempenho no atendimento (ida),STFC,2017-07,33.166
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-07,92.593
+tim,indicador de desempenho no atendimento (ida),STFC,2017-07,44.586
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-07,74.015
+algar,índice de reclamações,STFC,2017-07,0.231
+embratel,índice de reclamações,STFC,2017-07,0.758
+oi,índice de reclamações,STFC,2017-07,2.304
+sercomtel,índice de reclamações,STFC,2017-07,0.204
+tim,índice de reclamações,STFC,2017-07,1.782
+vivo,índice de reclamações,STFC,2017-07,1.295
+algar,quantidade de acessos em serviço,STFC,2017-07,1041610.0
+embratel,quantidade de acessos em serviço,STFC,2017-07,10829377.0
+oi,quantidade de acessos em serviço,STFC,2017-07,13920203.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-07,265253.0
+tim,quantidade de acessos em serviço,STFC,2017-07,705816.0
+vivo,quantidade de acessos em serviço,STFC,2017-07,14276681.0
+algar,quantidade de reabertas,STFC,2017-07,15.0
+embratel,quantidade de reabertas,STFC,2017-07,408.0
+oi,quantidade de reabertas,STFC,2017-07,3964.0
+sercomtel,quantidade de reabertas,STFC,2017-07,2.0
+tim,quantidade de reabertas,STFC,2017-07,182.0
+vivo,quantidade de reabertas,STFC,2017-07,1167.0
+algar,quantidade de reclamações,STFC,2017-07,241.0
+embratel,quantidade de reclamações,STFC,2017-07,8212.0
+oi,quantidade de reclamações,STFC,2017-07,32077.0
+sercomtel,quantidade de reclamações,STFC,2017-07,54.0
+tim,quantidade de reclamações,STFC,2017-07,1258.0
+vivo,quantidade de reclamações,STFC,2017-07,18495.0
+algar,quantidade de reclamações no período,STFC,2017-07,819.0
+embratel,quantidade de reclamações no período,STFC,2017-07,23754.0
+oi,quantidade de reclamações no período,STFC,2017-07,97018.0
+sercomtel,quantidade de reclamações no período,STFC,2017-07,120.0
+tim,quantidade de reclamações no período,STFC,2017-07,3724.0
+vivo,quantidade de reclamações no período,STFC,2017-07,56402.0
+algar,quantidade de respondidas,STFC,2017-07,241.0
+embratel,quantidade de respondidas,STFC,2017-07,8198.0
+oi,quantidade de respondidas,STFC,2017-07,31812.0
+sercomtel,quantidade de respondidas,STFC,2017-07,51.0
+tim,quantidade de respondidas,STFC,2017-07,1258.0
+vivo,quantidade de respondidas,STFC,2017-07,18487.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,212.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,7290.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,27230.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,42.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,999.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-07,15929.0
+algar,quantidade de sol. respondidas no período,STFC,2017-07,819.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-07,23753.0
+oi,quantidade de sol. respondidas no período,STFC,2017-07,96755.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-07,120.0
+tim,quantidade de sol. respondidas no período,STFC,2017-07,3724.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-07,56387.0
+algar,taxa de reabertas,STFC,2017-07,6.224
+embratel,taxa de reabertas,STFC,2017-07,4.977
+oi,taxa de reabertas,STFC,2017-07,12.461
+sercomtel,taxa de reabertas,STFC,2017-07,3.922
+tim,taxa de reabertas,STFC,2017-07,14.467
+vivo,taxa de reabertas,STFC,2017-07,6.313
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-07,87.967
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-07,88.773
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-07,84.889
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-07,77.778
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-07,79.412
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-07,86.126
+algar,taxa de respondidas no período,STFC,2017-07,100.0
+embratel,taxa de respondidas no período,STFC,2017-07,99.996
+oi,taxa de respondidas no período,STFC,2017-07,99.729
+sercomtel,taxa de respondidas no período,STFC,2017-07,100.0
+tim,taxa de respondidas no período,STFC,2017-07,100.0
+vivo,taxa de respondidas no período,STFC,2017-07,99.973
+algar,indicador de desempenho no atendimento (ida),STFC,2017-08,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-08,82.836
+oi,indicador de desempenho no atendimento (ida),STFC,2017-08,17.176
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-08,72.474
+tim,indicador de desempenho no atendimento (ida),STFC,2017-08,37.309
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-08,69.38
+algar,índice de reclamações,STFC,2017-08,0.233
+embratel,índice de reclamações,STFC,2017-08,0.978
+oi,índice de reclamações,STFC,2017-08,2.841
+sercomtel,índice de reclamações,STFC,2017-08,0.173
+tim,índice de reclamações,STFC,2017-08,2.078
+vivo,índice de reclamações,STFC,2017-08,1.462
+algar,quantidade de acessos em serviço,STFC,2017-08,1041610.0
+embratel,quantidade de acessos em serviço,STFC,2017-08,10829377.0
+oi,quantidade de acessos em serviço,STFC,2017-08,13920203.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-08,265253.0
+tim,quantidade de acessos em serviço,STFC,2017-08,705816.0
+vivo,quantidade de acessos em serviço,STFC,2017-08,14276681.0
+algar,quantidade de reabertas,STFC,2017-08,18.0
+embratel,quantidade de reabertas,STFC,2017-08,490.0
+oi,quantidade de reabertas,STFC,2017-08,5301.0
+sercomtel,quantidade de reabertas,STFC,2017-08,6.0
+tim,quantidade de reabertas,STFC,2017-08,194.0
+vivo,quantidade de reabertas,STFC,2017-08,1281.0
+algar,quantidade de reclamações,STFC,2017-08,243.0
+embratel,quantidade de reclamações,STFC,2017-08,10590.0
+oi,quantidade de reclamações,STFC,2017-08,39549.0
+sercomtel,quantidade de reclamações,STFC,2017-08,46.0
+tim,quantidade de reclamações,STFC,2017-08,1467.0
+vivo,quantidade de reclamações,STFC,2017-08,20877.0
+algar,quantidade de reclamações no período,STFC,2017-08,791.0
+embratel,quantidade de reclamações no período,STFC,2017-08,25127.0
+oi,quantidade de reclamações no período,STFC,2017-08,98821.0
+sercomtel,quantidade de reclamações no período,STFC,2017-08,138.0
+tim,quantidade de reclamações no período,STFC,2017-08,4047.0
+vivo,quantidade de reclamações no período,STFC,2017-08,58513.0
+algar,quantidade de respondidas,STFC,2017-08,243.0
+embratel,quantidade de respondidas,STFC,2017-08,10578.0
+oi,quantidade de respondidas,STFC,2017-08,39348.0
+sercomtel,quantidade de respondidas,STFC,2017-08,37.0
+tim,quantidade de respondidas,STFC,2017-08,1461.0
+vivo,quantidade de respondidas,STFC,2017-08,20869.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,223.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,9373.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,33042.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,28.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,1174.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-08,18045.0
+algar,quantidade de sol. respondidas no período,STFC,2017-08,791.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-08,25121.0
+oi,quantidade de sol. respondidas no período,STFC,2017-08,98619.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-08,135.0
+tim,quantidade de sol. respondidas no período,STFC,2017-08,4047.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-08,58506.0
+algar,taxa de reabertas,STFC,2017-08,7.407
+embratel,taxa de reabertas,STFC,2017-08,4.632
+oi,taxa de reabertas,STFC,2017-08,13.472
+sercomtel,taxa de reabertas,STFC,2017-08,16.216
+tim,taxa de reabertas,STFC,2017-08,13.279
+vivo,taxa de reabertas,STFC,2017-08,6.138
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-08,91.77
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-08,88.508
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-08,83.547
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-08,60.87
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-08,80.027
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-08,86.435
+algar,taxa de respondidas no período,STFC,2017-08,100.0
+embratel,taxa de respondidas no período,STFC,2017-08,99.976
+oi,taxa de respondidas no período,STFC,2017-08,99.796
+sercomtel,taxa de respondidas no período,STFC,2017-08,97.826
+tim,taxa de respondidas no período,STFC,2017-08,100.0
+vivo,taxa de respondidas no período,STFC,2017-08,99.988
+algar,indicador de desempenho no atendimento (ida),STFC,2017-09,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-09,89.014
+oi,indicador de desempenho no atendimento (ida),STFC,2017-09,38.095
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-09,68.876
+tim,indicador de desempenho no atendimento (ida),STFC,2017-09,48.41
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-09,76.508
+algar,índice de reclamações,STFC,2017-09,0.249
+embratel,índice de reclamações,STFC,2017-09,0.755
+oi,índice de reclamações,STFC,2017-09,2.354
+sercomtel,índice de reclamações,STFC,2017-09,0.148
+tim,índice de reclamações,STFC,2017-09,1.681
+vivo,índice de reclamações,STFC,2017-09,1.206
+algar,quantidade de acessos em serviço,STFC,2017-09,1070399.0
+embratel,quantidade de acessos em serviço,STFC,2017-09,10855122.0
+oi,quantidade de acessos em serviço,STFC,2017-09,13767598.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-09,263943.0
+tim,quantidade de acessos em serviço,STFC,2017-09,717307.0
+vivo,quantidade de acessos em serviço,STFC,2017-09,14198892.0
+algar,quantidade de reabertas,STFC,2017-09,18.0
+embratel,quantidade de reabertas,STFC,2017-09,421.0
+oi,quantidade de reabertas,STFC,2017-09,3372.0
+sercomtel,quantidade de reabertas,STFC,2017-09,6.0
+tim,quantidade de reabertas,STFC,2017-09,159.0
+vivo,quantidade de reabertas,STFC,2017-09,996.0
+algar,quantidade de reclamações,STFC,2017-09,267.0
+embratel,quantidade de reclamações,STFC,2017-09,8201.0
+oi,quantidade de reclamações,STFC,2017-09,32404.0
+sercomtel,quantidade de reclamações,STFC,2017-09,39.0
+tim,quantidade de reclamações,STFC,2017-09,1206.0
+vivo,quantidade de reclamações,STFC,2017-09,17120.0
+algar,quantidade de reclamações no período,STFC,2017-09,738.0
+embratel,quantidade de reclamações no período,STFC,2017-09,26737.0
+oi,quantidade de reclamações no período,STFC,2017-09,102302.0
+sercomtel,quantidade de reclamações no período,STFC,2017-09,145.0
+tim,quantidade de reclamações no período,STFC,2017-09,4169.0
+vivo,quantidade de reclamações no período,STFC,2017-09,58924.0
+algar,quantidade de respondidas,STFC,2017-09,254.0
+embratel,quantidade de respondidas,STFC,2017-09,8190.0
+oi,quantidade de respondidas,STFC,2017-09,32293.0
+sercomtel,quantidade de respondidas,STFC,2017-09,36.0
+tim,quantidade de respondidas,STFC,2017-09,1200.0
+vivo,quantidade de respondidas,STFC,2017-09,17117.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,235.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,7336.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,27782.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,18.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,967.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-09,14700.0
+algar,quantidade de sol. respondidas no período,STFC,2017-09,737.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-09,26729.0
+oi,quantidade de sol. respondidas no período,STFC,2017-09,102063.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-09,143.0
+tim,quantidade de sol. respondidas no período,STFC,2017-09,4169.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-09,58919.0
+algar,taxa de reabertas,STFC,2017-09,7.087
+embratel,taxa de reabertas,STFC,2017-09,5.14
+oi,taxa de reabertas,STFC,2017-09,10.442
+sercomtel,taxa de reabertas,STFC,2017-09,16.667
+tim,taxa de reabertas,STFC,2017-09,13.25
+vivo,taxa de reabertas,STFC,2017-09,5.819
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-09,88.015
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-09,89.453
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-09,85.736
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-09,46.154
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-09,80.182
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-09,85.864
+algar,taxa de respondidas no período,STFC,2017-09,99.864
+embratel,taxa de respondidas no período,STFC,2017-09,99.97
+oi,taxa de respondidas no período,STFC,2017-09,99.766
+sercomtel,taxa de respondidas no período,STFC,2017-09,98.621
+tim,taxa de respondidas no período,STFC,2017-09,100.0
+vivo,taxa de respondidas no período,STFC,2017-09,99.992
+algar,indicador de desempenho no atendimento (ida),STFC,2017-10,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-10,87.571
+oi,indicador de desempenho no atendimento (ida),STFC,2017-10,33.711
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-10,79.546
+tim,indicador de desempenho no atendimento (ida),STFC,2017-10,40.045
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-10,73.658
+algar,índice de reclamações,STFC,2017-10,0.278
+embratel,índice de reclamações,STFC,2017-10,0.807
+oi,índice de reclamações,STFC,2017-10,2.54
+sercomtel,índice de reclamações,STFC,2017-10,0.198
+tim,índice de reclamações,STFC,2017-10,1.985
+vivo,índice de reclamações,STFC,2017-10,1.308
+algar,quantidade de acessos em serviço,STFC,2017-10,1076587.0
+embratel,quantidade de acessos em serviço,STFC,2017-10,10867522.0
+oi,quantidade de acessos em serviço,STFC,2017-10,13681539.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-10,262956.0
+tim,quantidade de acessos em serviço,STFC,2017-10,718886.0
+vivo,quantidade de acessos em serviço,STFC,2017-10,14159368.0
+algar,quantidade de reabertas,STFC,2017-10,21.0
+embratel,quantidade de reabertas,STFC,2017-10,470.0
+oi,quantidade de reabertas,STFC,2017-10,3179.0
+sercomtel,quantidade de reabertas,STFC,2017-10,9.0
+tim,quantidade de reabertas,STFC,2017-10,184.0
+vivo,quantidade de reabertas,STFC,2017-10,1177.0
+algar,quantidade de reclamações,STFC,2017-10,299.0
+embratel,quantidade de reclamações,STFC,2017-10,8775.0
+oi,quantidade de reclamações,STFC,2017-10,34745.0
+sercomtel,quantidade de reclamações,STFC,2017-10,52.0
+tim,quantidade de reclamações,STFC,2017-10,1427.0
+vivo,quantidade de reclamações,STFC,2017-10,18525.0
+algar,quantidade de reclamações no período,STFC,2017-10,750.0
+embratel,quantidade de reclamações no período,STFC,2017-10,27001.0
+oi,quantidade de reclamações no período,STFC,2017-10,104030.0
+sercomtel,quantidade de reclamações no período,STFC,2017-10,138.0
+tim,quantidade de reclamações no período,STFC,2017-10,3930.0
+vivo,quantidade de reclamações no período,STFC,2017-10,56503.0
+algar,quantidade de respondidas,STFC,2017-10,299.0
+embratel,quantidade de respondidas,STFC,2017-10,8768.0
+oi,quantidade de respondidas,STFC,2017-10,34581.0
+sercomtel,quantidade de respondidas,STFC,2017-10,49.0
+tim,quantidade de respondidas,STFC,2017-10,1426.0
+vivo,quantidade de respondidas,STFC,2017-10,18508.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,260.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,7816.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,29946.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,38.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,1138.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-10,16059.0
+algar,quantidade de sol. respondidas no período,STFC,2017-10,750.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-10,26985.0
+oi,quantidade de sol. respondidas no período,STFC,2017-10,103738.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-10,137.0
+tim,quantidade de sol. respondidas no período,STFC,2017-10,3930.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-10,56498.0
+algar,taxa de reabertas,STFC,2017-10,7.023
+embratel,taxa de reabertas,STFC,2017-10,5.36
+oi,taxa de reabertas,STFC,2017-10,9.193
+sercomtel,taxa de reabertas,STFC,2017-10,18.367
+tim,taxa de reabertas,STFC,2017-10,12.903
+vivo,taxa de reabertas,STFC,2017-10,6.359
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-10,86.957
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-10,89.071
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-10,86.188
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-10,73.077
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-10,79.748
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-10,86.688
+algar,taxa de respondidas no período,STFC,2017-10,100.0
+embratel,taxa de respondidas no período,STFC,2017-10,99.941
+oi,taxa de respondidas no período,STFC,2017-10,99.719
+sercomtel,taxa de respondidas no período,STFC,2017-10,99.275
+tim,taxa de respondidas no período,STFC,2017-10,100.0
+vivo,taxa de respondidas no período,STFC,2017-10,99.991
+algar,indicador de desempenho no atendimento (ida),STFC,2017-11,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-11,89.092
+oi,indicador de desempenho no atendimento (ida),STFC,2017-11,44.037
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-11,80.775
+tim,indicador de desempenho no atendimento (ida),STFC,2017-11,41.881
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-11,75.452
+algar,índice de reclamações,STFC,2017-11,0.256
+embratel,índice de reclamações,STFC,2017-11,0.753
+oi,índice de reclamações,STFC,2017-11,2.182
+sercomtel,índice de reclamações,STFC,2017-11,0.278
+tim,índice de reclamações,STFC,2017-11,2.017
+vivo,índice de reclamações,STFC,2017-11,1.244
+algar,quantidade de acessos em serviço,STFC,2017-11,1080230.0
+embratel,quantidade de acessos em serviço,STFC,2017-11,10886102.0
+oi,quantidade de acessos em serviço,STFC,2017-11,13587752.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-11,262989.0
+tim,quantidade de acessos em serviço,STFC,2017-11,674111.0
+vivo,quantidade de acessos em serviço,STFC,2017-11,14175843.0
+algar,quantidade de reabertas,STFC,2017-11,12.0
+embratel,quantidade de reabertas,STFC,2017-11,477.0
+oi,quantidade de reabertas,STFC,2017-11,2538.0
+sercomtel,quantidade de reabertas,STFC,2017-11,8.0
+tim,quantidade de reabertas,STFC,2017-11,144.0
+vivo,quantidade de reabertas,STFC,2017-11,1073.0
+algar,quantidade de reclamações,STFC,2017-11,277.0
+embratel,quantidade de reclamações,STFC,2017-11,8194.0
+oi,quantidade de reclamações,STFC,2017-11,29645.0
+sercomtel,quantidade de reclamações,STFC,2017-11,73.0
+tim,quantidade de reclamações,STFC,2017-11,1360.0
+vivo,quantidade de reclamações,STFC,2017-11,17631.0
+algar,quantidade de reclamações no período,STFC,2017-11,808.0
+embratel,quantidade de reclamações no período,STFC,2017-11,27566.0
+oi,quantidade de reclamações no período,STFC,2017-11,106700.0
+sercomtel,quantidade de reclamações no período,STFC,2017-11,137.0
+tim,quantidade de reclamações no período,STFC,2017-11,4098.0
+vivo,quantidade de reclamações no período,STFC,2017-11,56526.0
+algar,quantidade de respondidas,STFC,2017-11,277.0
+embratel,quantidade de respondidas,STFC,2017-11,8180.0
+oi,quantidade de respondidas,STFC,2017-11,29600.0
+sercomtel,quantidade de respondidas,STFC,2017-11,68.0
+tim,quantidade de respondidas,STFC,2017-11,1351.0
+vivo,quantidade de respondidas,STFC,2017-11,17613.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,249.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,7265.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,25773.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,47.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,1139.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-11,15311.0
+algar,quantidade de sol. respondidas no período,STFC,2017-11,808.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-11,27549.0
+oi,quantidade de sol. respondidas no período,STFC,2017-11,106489.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-11,136.0
+tim,quantidade de sol. respondidas no período,STFC,2017-11,4098.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-11,56505.0
+algar,taxa de reabertas,STFC,2017-11,4.332
+embratel,taxa de reabertas,STFC,2017-11,5.831
+oi,taxa de reabertas,STFC,2017-11,8.574
+sercomtel,taxa de reabertas,STFC,2017-11,11.765
+tim,taxa de reabertas,STFC,2017-11,10.659
+vivo,taxa de reabertas,STFC,2017-11,6.092
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-11,89.892
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-11,88.662
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-11,86.939
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-11,64.384
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-11,83.75
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-11,86.841
+algar,taxa de respondidas no período,STFC,2017-11,100.0
+embratel,taxa de respondidas no período,STFC,2017-11,99.938
+oi,taxa de respondidas no período,STFC,2017-11,99.802
+sercomtel,taxa de respondidas no período,STFC,2017-11,99.27
+tim,taxa de respondidas no período,STFC,2017-11,100.0
+vivo,taxa de respondidas no período,STFC,2017-11,99.963
+algar,indicador de desempenho no atendimento (ida),STFC,2017-12,100.0
+embratel,indicador de desempenho no atendimento (ida),STFC,2017-12,91.578
+oi,indicador de desempenho no atendimento (ida),STFC,2017-12,55.423
+sercomtel,indicador de desempenho no atendimento (ida),STFC,2017-12,65.893
+tim,indicador de desempenho no atendimento (ida),STFC,2017-12,34.291
+vivo,indicador de desempenho no atendimento (ida),STFC,2017-12,78.631
+algar,índice de reclamações,STFC,2017-12,0.254
+embratel,índice de reclamações,STFC,2017-12,0.663
+oi,índice de reclamações,STFC,2017-12,1.965
+sercomtel,índice de reclamações,STFC,2017-12,0.267
+tim,índice de reclamações,STFC,2017-12,2.12
+vivo,índice de reclamações,STFC,2017-12,1.129
+algar,quantidade de acessos em serviço,STFC,2017-12,1090191.0
+embratel,quantidade de acessos em serviço,STFC,2017-12,10873328.0
+oi,quantidade de acessos em serviço,STFC,2017-12,13494731.0
+sercomtel,quantidade de acessos em serviço,STFC,2017-12,261797.0
+tim,quantidade de acessos em serviço,STFC,2017-12,676492.0
+vivo,quantidade de acessos em serviço,STFC,2017-12,14132892.0
+algar,quantidade de reabertas,STFC,2017-12,18.0
+embratel,quantidade de reabertas,STFC,2017-12,417.0
+oi,quantidade de reabertas,STFC,2017-12,1975.0
+sercomtel,quantidade de reabertas,STFC,2017-12,13.0
+tim,quantidade de reabertas,STFC,2017-12,220.0
+vivo,quantidade de reabertas,STFC,2017-12,885.0
+algar,quantidade de reclamações,STFC,2017-12,277.0
+embratel,quantidade de reclamações,STFC,2017-12,7211.0
+oi,quantidade de reclamações,STFC,2017-12,26514.0
+sercomtel,quantidade de reclamações,STFC,2017-12,70.0
+tim,quantidade de reclamações,STFC,2017-12,1434.0
+vivo,quantidade de reclamações,STFC,2017-12,15960.0
+algar,quantidade de reclamações no período,STFC,2017-12,842.0
+embratel,quantidade de reclamações no período,STFC,2017-12,25170.0
+oi,quantidade de reclamações no período,STFC,2017-12,96795.0
+sercomtel,quantidade de reclamações no período,STFC,2017-12,163.0
+tim,quantidade de reclamações no período,STFC,2017-12,3992.0
+vivo,quantidade de reclamações no período,STFC,2017-12,53281.0
+algar,quantidade de respondidas,STFC,2017-12,277.0
+embratel,quantidade de respondidas,STFC,2017-12,6985.0
+oi,quantidade de respondidas,STFC,2017-12,26341.0
+sercomtel,quantidade de respondidas,STFC,2017-12,42.0
+tim,quantidade de respondidas,STFC,2017-12,1431.0
+vivo,quantidade de respondidas,STFC,2017-12,15947.0
+algar,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,255.0
+embratel,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,6453.0
+oi,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,23273.0
+sercomtel,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,39.0
+tim,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,1214.0
+vivo,quantidade de sol. respondidas em até 5 dias,STFC,2017-12,13849.0
+algar,quantidade de sol. respondidas no período,STFC,2017-12,842.0
+embratel,quantidade de sol. respondidas no período,STFC,2017-12,25142.0
+oi,quantidade de sol. respondidas no período,STFC,2017-12,96453.0
+sercomtel,quantidade de sol. respondidas no período,STFC,2017-12,162.0
+tim,quantidade de sol. respondidas no período,STFC,2017-12,3950.0
+vivo,quantidade de sol. respondidas no período,STFC,2017-12,53251.0
+algar,taxa de reabertas,STFC,2017-12,6.498
+embratel,taxa de reabertas,STFC,2017-12,5.97
+oi,taxa de reabertas,STFC,2017-12,7.498
+sercomtel,taxa de reabertas,STFC,2017-12,30.952
+tim,taxa de reabertas,STFC,2017-12,15.374
+vivo,taxa de reabertas,STFC,2017-12,5.55
+algar,taxa de respondidas em 5 dias úteis,STFC,2017-12,92.058
+embratel,taxa de respondidas em 5 dias úteis,STFC,2017-12,89.488
+oi,taxa de respondidas em 5 dias úteis,STFC,2017-12,87.776
+sercomtel,taxa de respondidas em 5 dias úteis,STFC,2017-12,55.714
+tim,taxa de respondidas em 5 dias úteis,STFC,2017-12,84.658
+vivo,taxa de respondidas em 5 dias úteis,STFC,2017-12,86.773
+algar,taxa de respondidas no período,STFC,2017-12,100.0
+embratel,taxa de respondidas no período,STFC,2017-12,99.889
+oi,taxa de respondidas no período,STFC,2017-12,99.647
+sercomtel,taxa de respondidas no período,STFC,2017-12,99.387
+tim,taxa de respondidas no período,STFC,2017-12,98.948
+vivo,taxa de respondidas no período,STFC,2017-12,99.944
